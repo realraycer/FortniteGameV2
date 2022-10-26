@@ -1359,3 +1359,55 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.26-18.36.01:545][541]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-0+++UE5+Release-5.0
 [2022.10.26-18.36.01:596][541]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.UnrealEngine.Release SessionId={EBA42B90-4439-499E-25C7-368AF636FD18}
 [2022.10.26-18.47.52:849][ 70]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:10.624 and deleted 5 file(s) with total size 0 MiB.
+[2022.10.26-19.42.33:274][605]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-19.42.33:497][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.26-19.42.33:895][619]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-19.42.33:896][619]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState14DADCD54176D34D5F70E9A66A4BB658.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-19.42.33:907][619]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-19.42.33:907][619]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-19.43.14:316][183]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-19.43.14:465][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.26-19.43.15:057][185]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-19.43.15:058][185]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerController95A6717D40C99345E6AEF193D9EE8654.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-19.43.15:070][185]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-19.43.15:070][185]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-19.44.34:335][980]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-19.44.34:459][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.26-19.44.35:046][982]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-19.44.35:047][982]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerControllerE1BB69514CE0238A191D60B3EBF11855.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-19.44.35:059][982]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-19.44.35:059][982]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-19.47.46:609][679]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:04.056 and deleted 2 file(s) with total size 14 MiB.
+[2022.10.26-19.54.56:203][809]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-19.54.56:379][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.10.26-19.54.56:930][810]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-19.54.56:931][810]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerControllerA2BE8621426422CA6D5CE7A25228CF42.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-19.54.56:944][810]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-19.54.56:944][810]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-19.55.27:578][ 74]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-19.55.27:797][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.26-19.55.28:242][ 89]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-19.55.28:243][ 89]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState370ACB1B495A6267343ED88501F8C6B5.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-19.55.28:288][ 89]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-19.55.28:288][ 89]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-20.09.17:042][767]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-20.09.17:143][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.26-20.09.17:691][789]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-20.09.17:692][789]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateC0F08A0C4E8BC50FA1452BB74C24E455.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-20.09.17:705][789]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-20.09.17:705][789]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-20.09.23:807][225]LogSlate: Window 'CID_001_Athena_Default' being destroyed
+[2022.10.26-20.09.23:832][225]LogSlate: Window 'CID_001_Athena_Default' being destroyed
+[2022.10.26-20.09.23:906][225]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-20.09.23:906][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-20.09.23:971][225]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.26-20.09.23:971][225]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-20.09.23:971][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-20.09.24:058][225]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-20.09.24:058][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-20.09.24:104][225]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.26-20.09.24:104][225]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-20.09.24:104][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-20.09.25:407][366]Cmd: SELECT NONE
+[2022.10.26-20.09.30:401][948]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-EKA57D5
+[2022.10.26-20.09.38:447][581]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-EKA57D5
