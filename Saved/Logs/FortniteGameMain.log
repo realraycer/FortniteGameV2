@@ -732,3 +732,412 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.26-17.53.36:405][948]AssetCheck: New page: Asset Save: CID_001_Athena_Default
 [2022.10.26-17.53.36:405][948]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
 [2022.10.26-17.53.39:826][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.26-17.54.18:467][925]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.26-17.54.18:480][925]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.26-17.54.18:489][926]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.26-17.54.24:450][639]LogContentBrowser: Attempting asset rename: NewFolder -> ActorComponents
+[2022.10.26-17.54.24:450][639]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.26-17.54.27:330][944]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.26-17.54.29:787][944]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.26-17.54.29:795][944]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.26-17.54.29:801][944]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.26-17.54.29:821][946]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.26-17.54.42:515][461]LogContentBrowser: Attempting asset rename: NewBlueprint -> AC_EditingManager
+[2022.10.26-17.54.42:611][461]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.26-17.54.43:217][521]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_EditingManager
+[2022.10.26-17.54.43:217][521]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_EditingManagerCD4848654F172D1587E44883685C118C.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_EditingManager.uasset'
+[2022.10.26-17.54.43:387][521]AssetCheck: New page: Asset Save: AC_EditingManager
+[2022.10.26-17.54.43:387][521]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_EditingManager.AC_EditingManager
+[2022.10.26-17.54.43:473][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Athena/ActorComponents/AC_EditingManager.AC_EditingManager
+[2022.10.26-17.54.43:473][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.54.48:953][914]BlueprintLog: New page: Compile AC_EditingManager
+[2022.10.26-17.54.48:993][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.10.26-17.54.55:599][417]BlueprintLog: New page: Compile AC_EditingManager
+[2022.10.26-17.54.55:635][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.26-17.54.59:286][685]LogSlate: Took 0.000887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.26-17.55.11:075][941]BlueprintLog: New page: Compile AC_EditingManager
+[2022.10.26-17.55.11:078][941]LogClass: Warning: Type mismatch in Keys of AC_EditingManager_C - Previous (BoolProperty) Current(ArrayProperty) for package:  FObjectReader
+[2022.10.26-17.55.11:113][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.10.26-17.55.27:835][194]BlueprintLog: New page: Compile AC_EditingManager
+[2022.10.26-17.55.27:876][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.26-17.55.41:176][203]BlueprintLog: New page: Compile AC_EditingManager
+[2022.10.26-17.55.41:212][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.26-17.55.41:688][231]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_EditingManager
+[2022.10.26-17.55.41:689][231]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_EditingManager3109B94B435E5693BF3E4493CCBEA2CF.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_EditingManager.uasset'
+[2022.10.26-17.55.41:698][231]AssetCheck: New page: Asset Save: AC_EditingManager
+[2022.10.26-17.55.41:698][231]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_EditingManager.AC_EditingManager
+[2022.10.26-17.55.53:558][175]BlueprintLog: New page: Compile AC_EditingManager
+[2022.10.26-17.55.53:594][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.26-17.55.54:415][233]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_EditingManager
+[2022.10.26-17.55.54:415][233]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_EditingManagerAFB3860547E89A4379592ABD81EE11C0.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_EditingManager.uasset'
+[2022.10.26-17.55.54:426][233]AssetCheck: New page: Asset Save: AC_EditingManager
+[2022.10.26-17.55.54:426][233]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_EditingManager.AC_EditingManager
+[2022.10.26-17.55.55:353][305]BlueprintLog: New page: Compile AC_EditingManager
+[2022.10.26-17.55.55:390][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.26-17.55.55:853][332]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_EditingManager
+[2022.10.26-17.55.55:853][332]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_EditingManager84AA8E854A43EAD7A439E2AF5C0A5DEC.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_EditingManager.uasset'
+[2022.10.26-17.55.55:864][332]AssetCheck: New page: Asset Save: AC_EditingManager
+[2022.10.26-17.55.55:864][332]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_EditingManager.AC_EditingManager
+[2022.10.26-17.55.59:171][634]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.55.59:171][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.56.01:798][836]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.26-17.56.01:913][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.26-17.56.02:412][842]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.26-17.56.02:413][842]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_DefaultCB288E084C77B5F57B54458A76339C87.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.26-17.56.02:424][842]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.26-17.56.02:424][842]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.26-17.56.02:709][860]LogSlate: Window 'CID_001_Athena_Default' being destroyed
+[2022.10.26-17.56.02:712][860]LogSlate: Window 'CID_001_Athena_Default' being destroyed
+[2022.10.26-17.56.02:714][860]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.56.02:714][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.56.03:348][903]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.26-17.56.03:356][903]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.26-17.56.03:356][903]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.26-17.56.03:357][903]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.26-17.56.03:357][903]LogWorldPartition: Display: ValidateSingleActorReferer took 1 us
+[2022.10.26-17.56.03:357][903]LogWorldPartition: Display: GetPartitionedActors took 594 us
+[2022.10.26-17.56.03:357][903]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.10.26-17.56.03:363][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.26-17.56.03:369][903]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 26, 2022, 9:56:03 AM)
+[2022.10.26-17.56.03:378][903]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.26-17.56.03:380][903]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.26-17.56.03:380][903]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.26-17.56.03:392][903]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.26-17.56.03:393][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011699s)
+[2022.10.26-17.56.03:393][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.012178s)
+[2022.10.26-17.56.03:394][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.56.03:394][903]LogAIModule: Creating AISystem for world Athena_Grid_4x4_WP
+[2022.10.26-17.56.03:394][903]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.26-17.56.03:394][903]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.26-17.56.03:397][903]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.10.26-17.56.03:397][903]LogPlayLevel: PIE: World Init took: (0.004413s)
+[2022.10.26-17.56.03:428][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.26-17.56.03:433][903]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.26-17.56.03:433][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-17.56.03:433][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-17.56.03:433][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-17.56.03:433][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-17.56.03:433][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-17.56.03:433][903]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.26-17.56.03:433][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-17.56.03:433][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-17.56.03:434][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-17.56.03:434][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-17.56.03:434][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-17.56.03:436][903]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.26-17.56.03:467][903]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.26-17.56.03:468][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-17.56.03:468][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-17.56.03:468][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-17.56.03:469][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.26-17.56.03:469][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.26-17.56.03:470][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.26-17.56.03:470][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.26-17.56.03:471][903]LogInit: FAudioDevice initialized.
+[2022.10.26-17.56.03:471][903]LogAudio: Display: Audio Device (ID: 2) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.26-17.56.03:490][903]LogLoad: Game class is 'Athena_GameMode_C'
+[2022.10.26-17.56.03:492][903]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.26-13.56.03
+[2022.10.26-17.56.03:495][903]LogWorld: Bringing up level for play took: 0.004128
+[2022.10.26-17.56.03:498][903]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.10.26-17.56.03:544][903]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=31285.000 Y=28442.000 Z=285.507
+[2022.10.26-17.56.03:545][903]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(3), CellsToLoad(0), CellsToUnload(0)
+[2022.10.26-17.56.03:545][903]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=31285.000 Y=28442.000 Z=285.507,P=0.000000 Y=90.000002 R=-0.000000
+[2022.10.26-17.56.03:549][903]LogStreaming: Display: FlushAsyncLoading: 3 QueuedPackages, 0 AsyncPackages
+[2022.10.26-17.56.03:567][903]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.26-17.56.03:568][903]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.26-17.56.03:568][903]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.26-17.56.03:609][903]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.26-17.56.03:610][903]PIE: Server logged in
+[2022.10.26-17.56.03:611][903]PIE: Play in editor total start time 0.26 seconds.
+[2022.10.26-17.56.04:290][931]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Swing
+[2022.10.26-17.56.04:860][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-17.56.04:860][996]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.26-17.56.04:861][996]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.56.04:863][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.56.04:878][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-17.56.04:885][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.56.04:916][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-17.56.04:921][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.26-17.56.04:923][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.26-17.56.04:982][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.10.26-17.56.05:009][997]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.10.26-17.56.06:901][173]Launching UnrealBuildTool... [E:/Source/UnrealEngine/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="E:/Source/UnrealEngine/Engine/Intermediate/TargetInfo.json"]
+[2022.10.26-17.56.07:311][173]Building UnrealBuildTool...
+[2022.10.26-17.56.07:312][173]Building UnrealBuildTool in E:/Source/UnrealEngine/...
+[2022.10.26-17.56.07:312][173]Running: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe /nologo /verbosity:quiet "E:/Source/UnrealEngine/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj" /property:Configuration=Development /property:Platform=AnyCPU
+[2022.10.26-17.56.07:487][173]Launching UnrealBuildTool... [E:/Source/UnrealEngine/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="E:/Source/UnrealEngine/Engine/Intermediate/TargetInfo.json"]
+[2022.10.26-17.56.07:691][173]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-EKA57D5
+[2022.10.26-17.56.07:691][173]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyReport_1.log" -log="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyLog_1.log" -project="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject"  -Device=Win64@DESKTOP-EKA57D5'
+[2022.10.26-17.56.07:691][173]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Source/UnrealEngine/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyReport_1.log" -log="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyLog_1.log" -project="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject"  -Device=Win64@DESKTOP-EKA57D5" -nocompile ]
+[2022.10.26-17.56.09:197][298]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-EKA57D5
+[2022.10.26-17.56.10:330][374]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.10.26-17.56.10:330][374]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-EKA57D5: (Name=DESKTOP-EKA57D5, Status=Valid, Installed=10.0.19043.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.10.26-17.56.33:844][974]SourceControl: fatal: /Script: '/Script' is outside repository at 'E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain'
+[2022.10.26-17.57.42:635][180]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-EKA57D5
+[2022.10.26-17.57.43:414][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.26-17.57.43:419][230]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.26-17.57.43:419][230]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.26-17.57.43:419][230]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.26-17.57.43:419][230]LogWorldPartition: Display: ValidateSingleActorReferer took 1 us
+[2022.10.26-17.57.43:419][230]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2022.10.26-17.57.43:420][230]LogWorldPartition: Display: GenerateStreaming took 266 us
+[2022.10.26-17.57.43:420][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.26-17.57.43:420][230]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 26, 2022, 9:57:43 AM)
+[2022.10.26-17.57.43:424][230]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-17.57.43:424][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.57.43:425][230]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2022.10.26-17.57.43:425][230]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.26-17.57.43:425][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-17.57.43:425][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-17.57.43:425][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-17.57.43:425][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-17.57.43:425][230]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-17.57.43:425][230]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.26-17.57.43:425][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-17.57.43:425][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-17.57.43:425][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-17.57.43:425][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-17.57.43:425][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-17.57.43:427][230]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.26-17.57.43:458][230]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.26-17.57.43:458][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-17.57.43:458][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-17.57.43:458][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-17.57.43:459][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.26-17.57.43:459][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.26-17.57.43:460][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.26-17.57.43:460][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.26-17.57.43:460][230]LogInit: FAudioDevice initialized.
+[2022.10.26-17.57.43:460][230]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2022.10.26-17.57.43:487][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-17.57.43:488][230]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.26-17.57.43:492][230]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.26-17.57.43:493][230]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.26-17.57.43:502][230]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.26-17.57.43:504][230]LogNet: Game client on port 17777, rate 100000
+[2022.10.26-17.57.43:506][230]PIE: Client logged in
+[2022.10.26-17.57.43:507][230]PIE: Play in editor total start time 0.156 seconds.
+[2022.10.26-17.57.43:538][230]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.26-17.57.49:948][406]LogHandshake: SendChallengeResponse. Timestamp: 0.525368, Cookie: 133060111003087195183079114161021057224186056219116212090042
+[2022.10.26-17.57.50:282][407]LogNetVersion: FortniteGameMain 1.0.0.0, NetCL: 0, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3589962461)
+[2022.10.26-17.57.50:284][407]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.26-17.57.50:621][408]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.10.26-17.57.50:952][409]LogNet: Welcomed by server (Level: /Game/Maps/Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.26-17.57.50:952][409]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.26-17.57.50:952][409]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2022.10.26-17.57.50:952][409]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.57.50:952][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.57.50:990][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-17.57.50:992][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.26-17.57.50:996][409]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.26-17.57.51:002][409]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.26-17.57.51:003][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006834s)
+[2022.10.26-17.57.51:003][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.006978s)
+[2022.10.26-17.57.51:003][409]LogAudio: Display: Audio Device (ID: 3) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.26-17.57.51:003][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.57.51:003][409]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.26-17.57.51:003][409]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.26-17.57.51:005][409]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.26-17.57.51:005][409]LogPlayLevel: PIE: World Init took: (0.002644s)
+[2022.10.26-17.57.51:007][409]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 3) at 2022.10.26-13.57.51
+[2022.10.26-17.57.51:007][409]LogWorld: Bringing up level for play took: 0.001265
+[2022.10.26-17.57.51:007][409]LogLoad: Took 0.054845 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.26-17.57.51:007][409]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.26-17.57.51:007][409]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.26-17.57.51:007][409]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.26-17.57.51:699][410]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.26-17.57.51:706][410]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.26-17.57.51:706][410]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 2 AsyncPackages
+[2022.10.26-17.57.51:709][410]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.26-17.57.51:713][410]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.26-17.57.52:067][412]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=34800.000 Y=23634.000 Z=290.200
+[2022.10.26-17.58.04:141][448]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.26-17.58.04:846][497]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.26-17.58.15:515][237]LogCharacterMovement: CID_001_Athena_Default_C_0 is stuck and failed to move! Velocity: X=24.09 Y=-20.65 Z=0.00 Location: X=34216.88 Y=25910.38 Z=1715.50 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:4.777 Actor:BID_004_Metal_Floor_C_1 Component:Mesh BoneName:None (0 other events since notify)
+[2022.10.26-17.58.24:933][863]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=33139.348 Y=25728.646 Z=972.327 on base None
+[2022.10.26-17.58.37:720][691]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: true
+[2022.10.26-17.58.37:960][706]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.26-17.58.37:962][706]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.26-17.58.38:246][721]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: false
+[2022.10.26-17.59.08:436][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-17.59.08:436][377]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.26-17.59.08:438][377]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 0]  (64-bit/SM5)' being destroyed
+[2022.10.26-17.59.08:441][377]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.59.08:442][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.59.08:451][377]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2022.10.26-17.59.08:452][377]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2022.10.26-17.59.08:452][377]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-FFD63F2B4DCB44FDF0DE48BA189A2596, Channels: 54, Time: 2022.10.26-17.59.08
+[2022.10.26-17.59.08:452][377]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-FFD63F2B4DCB44FDF0DE48BA189A2596
+[2022.10.26-17.59.08:452][377]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2022.10.26-17.59.08:454][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-17.59.08:459][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.59.08:484][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.26-17.59.08:486][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.26-17.59.08:527][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.26-17.59.08:732][378]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.10.26-17.59.13:122][798]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-EKA57D5
+[2022.10.26-17.59.32:264][849]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-17.59.32:264][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.59.45:566][764]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-17.59.45:567][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.59.53:483][419]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-17.59.53:654][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.26-17.59.54:184][441]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-17.59.54:185][441]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState12442B4B44882647BDA725B2BD2B9C25.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-17.59.54:196][441]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-17.59.54:196][441]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-17.59.55:031][471]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-17.59.55:082][471]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] In use pin  Inventory  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.10.26-17.59.55:082][471]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] In use pin  Inventory  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.10.26-17.59.55:082][471]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] In use pin  Inventory  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.10.26-17.59.55:090][471]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.10.26-17.59.55:164][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.26-17.59.56:060][493]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-17.59.56:061][493]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerControllerD26BC13F41253A7E952373A206A3C15F.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-17.59.56:071][493]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-17.59.56:071][493]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-18.00.09:818][740]LogEditorTransaction: Undo Delete current selection
+[2022.10.26-18.00.19:856][591]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-18.00.19:880][591]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] In use pin  Inventory  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.10.26-18.00.19:880][591]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] In use pin  Inventory  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.10.26-18.00.19:888][591]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.10.26-18.00.19:959][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.26-18.00.20:500][594]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-18.00.20:501][594]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerController54A94EF4495E44BF1B5C8AA8980DA752.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-18.00.20:511][594]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-18.00.20:511][594]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-18.00.45:833][693]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-18.00.45:858][693]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] In use pin  Inventory  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.10.26-18.00.45:866][693]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.10.26-18.00.45:940][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.26-18.00.49:228][949]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-18.00.49:252][949]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] In use pin  Inventory  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.10.26-18.00.49:260][949]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerController.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.10.26-18.00.49:331][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.26-18.00.50:088][967]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-18.00.50:089][967]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerControllerB5C2516B458F49D20CDAC79A994D4573.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-18.00.50:100][967]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-18.00.50:100][967]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-18.01.34:381][360]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-18.01.34:490][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.26-18.01.35:192][376]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-18.01.35:192][376]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerControllerBCA827CF4B240FFADFD01CA61E84A935.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-18.01.35:203][376]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-18.01.35:203][376]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-18.01.55:612][159]LogSlate: Took 0.000859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.26-18.02.37:902][423]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-18.02.38:009][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.26-18.02.38:703][438]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-18.02.38:704][438]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerController2F98CDFB40BADFEB586625A44FB78F6C.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-18.02.38:713][438]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-18.02.38:713][438]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-18.02.49:584][401]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-18.02.49:687][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.26-18.02.50:294][409]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-18.02.50:295][409]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerControllerC603266841519FB5C19C2F8586168F3F.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-18.02.50:306][409]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-18.02.50:306][409]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-18.03.03:722][585]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-18.03.03:828][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.26-18.03.04:446][596]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-18.03.04:446][596]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerController727F6B264FE369AE827A90BADF47B87B.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-18.03.04:458][596]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-18.03.04:458][596]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-18.03.06:096][723]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.26-18.03.06:136][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.10.26-18.03.06:139][723]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.26-18.03.06:139][723]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.26-18.03.06:139][723]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.26-18.03.06:139][723]LogWorldPartition: Display: ValidateSingleActorReferer took 1 us
+[2022.10.26-18.03.06:139][723]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2022.10.26-18.03.06:139][723]LogWorldPartition: Display: GenerateStreaming took 268 us
+[2022.10.26-18.03.06:139][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.26-18.03.06:140][723]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 26, 2022, 10:03:06 AM)
+[2022.10.26-18.03.06:143][723]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-18.03.06:143][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.03.06:144][723]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2022.10.26-18.03.06:144][723]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.26-18.03.06:144][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-18.03.06:144][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-18.03.06:144][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-18.03.06:144][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-18.03.06:144][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-18.03.06:144][723]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.26-18.03.06:144][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-18.03.06:144][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-18.03.06:145][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-18.03.06:145][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-18.03.06:145][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-18.03.06:146][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.26-18.03.06:177][723]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.26-18.03.06:177][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-18.03.06:177][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-18.03.06:177][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-18.03.06:178][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.10.26-18.03.06:178][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.10.26-18.03.06:180][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.10.26-18.03.06:180][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.10.26-18.03.06:180][723]LogInit: FAudioDevice initialized.
+[2022.10.26-18.03.06:180][723]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled'.
+[2022.10.26-18.03.06:205][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-18.03.06:205][723]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.26-18.03.06:205][723]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.26-18.03.06:205][723]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.26-18.03.06:206][723]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.26-18.03.06:206][723]LogNet: Game client on port 17777, rate 100000
+[2022.10.26-18.03.06:217][723]PIE: Client logged in
+[2022.10.26-18.03.06:227][723]PIE: Play in editor total start time 0.128 seconds.
+[2022.10.26-18.03.06:276][723]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.26-18.03.12:924][946]LogHandshake: SendChallengeResponse. Timestamp: 1.227948, Cookie: 218176216149141027220119053180001221001239082205067174109124
+[2022.10.26-18.03.12:958][949]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.26-18.03.12:968][950]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.10.26-18.03.12:991][953]LogNet: Welcomed by server (Level: /Game/Maps/Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.26-18.03.12:991][953]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.26-18.03.12:991][953]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2022.10.26-18.03.12:991][953]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-18.03.12:992][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-18.03.13:032][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-18.03.13:034][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.26-18.03.13:035][953]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.26-18.03.13:044][953]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.26-18.03.13:044][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008835s)
+[2022.10.26-18.03.13:044][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.009000s)
+[2022.10.26-18.03.13:044][953]LogAudio: Display: Audio Device (ID: 4) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.26-18.03.13:045][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.03.13:045][953]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.26-18.03.13:045][953]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.26-18.03.13:047][953]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.10.26-18.03.13:047][953]LogPlayLevel: PIE: World Init took: (0.002898s)
+[2022.10.26-18.03.13:048][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.26-14.03.13
+[2022.10.26-18.03.13:049][953]LogWorld: Bringing up level for play took: 0.001235
+[2022.10.26-18.03.13:049][953]LogLoad: Took 0.057585 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.26-18.03.13:049][953]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.26-18.03.13:049][953]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.26-18.03.13:049][953]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.26-18.03.13:159][955]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.26-18.03.13:164][955]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.26-18.03.13:166][955]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.26-18.03.13:177][956]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=30843.000 Y=30741.000 Z=334.400
+[2022.10.26-18.03.13:683][993]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.26-18.03.13:935][  8]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.26-18.03.25:415][756]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=31517.051 Y=26503.325 Z=882.029 on base None
+[2022.10.26-18.03.27:269][875]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: true
+[2022.10.26-18.03.27:877][916]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.26-18.03.27:877][916]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.26-18.03.28:179][935]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: false
+[2022.10.26-18.03.37:906][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-18.03.37:906][576]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.26-18.03.37:908][576]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 0]  (64-bit/SM5)' being destroyed
+[2022.10.26-18.03.37:922][576]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-18.03.37:923][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-18.03.37:935][576]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2022.10.26-18.03.37:935][576]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2022.10.26-18.03.37:936][576]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-3433E40E420A1E6539BED98FF79A354E, Channels: 29, Time: 2022.10.26-18.03.37
+[2022.10.26-18.03.37:936][576]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-3433E40E420A1E6539BED98FF79A354E
+[2022.10.26-18.03.37:936][576]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2022.10.26-18.03.37:937][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-18.03.37:942][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-18.03.37:982][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.26-18.03.37:983][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.26-18.03.37:993][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.26-18.03.38:010][577]LogPlayLevel: Display: Destroying online subsystem :Context_11
