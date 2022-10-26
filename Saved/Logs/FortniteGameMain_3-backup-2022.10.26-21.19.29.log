@@ -1,0 +1,702 @@
+﻿Log file open, 10/26/22 17:19:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FortniteGameMain
+LogCore: Display: UnrealTraceServer: Unable to launch the trace store with '"../../../Engine//Binaries/Win64/UnrealTraceServer.exe" fork' (00000002)
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-0"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-0+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject" /Game/Maps/Athena_Grid_4x4_WP -game -PIEVIACONSOLE -Multiprocess -server -log GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -port=17777 -windowed""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a7fb1f4946bb3d471b6f2b8b9db22fde"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.200209
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F16CD2B545B98572D7266FA91D6A826A
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin ControlRig
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AssetReferenceRestrictions
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GameFeatures
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ModularGameplay
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin DataRegistry
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-0
+LogInit: Engine Version: 5.0.3-0+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-0+++UE5+Release-5.0
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (21H1) [10.0.19043.2130] (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1650 SUPER
+LogInit: Compiled (64-bit): Oct  4 2022 19:11:23
+LogInit: Compiled with Visual C++: 19.33.31630.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  /Game/Maps/Athena_Grid_4x4_WP -game -PIEVIACONSOLE -Multiprocess -server -log GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -port=17777 -windowed
+LogInit: Base Directory: E:/Source/UnrealEngine/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.26-21.19.11:299][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2022.10.26-21.19.11:300][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2022.10.26-21.19.11:300][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2022.10.26-21.19.11:300][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2022.10.26-21.19.11:300][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2022.10.26-21.19.11:300][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.26-21.19.11:301][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.26-21.19.11:301][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.26-21.19.11:301][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.26-21.19.11:302][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.26-21.19.11:302][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.10.26-21.19.11:303][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.10.26-21.19.11:303][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.10.26-21.19.11:303][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.10.26-21.19.11:303][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.10.26-21.19.11:303][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.10.26-21.19.11:303][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.10.26-21.19.11:304][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.10.26-21.19.11:304][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.10.26-21.19.11:304][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.10.26-21.19.11:305][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.26-21.19.11:305][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.26-21.19.11:305][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.26-21.19.11:305][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.26-21.19.11:306][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.26-21.19.11:306][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.26-21.19.11:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.26-21.19.11:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.26-21.19.11:307][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.26-21.19.11:307][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.26-21.19.11:307][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.26-21.19.11:307][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.26-21.19.11:308][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.26-21.19.11:308][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.26-21.19.11:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.26-21.19.11:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.26-21.19.11:309][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.26-21.19.11:309][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.26-21.19.11:309][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.26-21.19.11:309][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.26-21.19.11:309][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.26-21.19.11:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.26-21.19.11:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.26-21.19.11:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.26-21.19.11:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.26-21.19.11:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.26-21.19.11:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.26-21.19.11:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.26-21.19.11:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.26-21.19.11:312][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.26-21.19.11:312][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.26-21.19.11:312][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.26-21.19.11:312][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.26-21.19.11:313][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.26-21.19.11:314][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.26-21.19.11:314][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.26-21.19.11:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.26-21.19.11:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.26-21.19.11:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.26-21.19.11:315][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.26-21.19.11:316][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.26-21.19.11:316][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.26-21.19.11:316][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.26-21.19.11:317][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.26-21.19.11:317][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.26-21.19.11:317][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.26-21.19.11:317][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.26-21.19.11:318][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.26-21.19.11:318][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.26-21.19.11:318][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.26-21.19.11:318][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.26-21.19.11:319][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.26-21.19.11:319][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.26-21.19.11:319][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.26-21.19.11:319][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.26-21.19.11:319][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.26-21.19.11:320][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.26-21.19.11:320][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.26-21.19.11:320][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.26-21.19.11:320][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.26-21.19.11:321][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.26-21.19.11:321][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.26-21.19.11:321][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.26-21.19.11:321][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.26-21.19.11:322][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.26-21.19.11:322][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.26-21.19.11:322][  0]LogHAL: Display: Platform has ~ 16 GB [17119186944 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.26-21.19.11:322][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.26-21.19.11:322][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.26-21.19.11:323][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2022.10.26-21.19.11:323][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2022.10.26-21.19.11:323][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.10.26-21.19.11:323][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2022.10.26-21.19.11:323][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2022.10.26-21.19.11:324][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.10.26-21.19.11:324][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.10.26-21.19.11:324][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.10.26-21.19.11:324][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.10.26-21.19.11:325][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2022.10.26-21.19.11:325][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.10.26-21.19.11:325][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.26-21.19.11:326][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.26-21.19.11:326][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.26-21.19.11:326][  0]LogInit: Computer: DESKTOP-EKA57D5
+[2022.10.26-21.19.11:326][  0]LogInit: User: rsh
+[2022.10.26-21.19.11:326][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.26-21.19.11:327][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.26-21.19.11:327][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.26-21.19.11:327][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.26-21.19.11:327][  0]LogMemory: Process Physical Memory: 228.96 MB used, 228.97 MB peak
+[2022.10.26-21.19.11:327][  0]LogMemory: Process Virtual Memory: 166.39 MB used, 166.39 MB peak
+[2022.10.26-21.19.11:328][  0]LogMemory: Physical Memory: 7412.00 MB used,  8914.12 MB free, 16326.13 MB total
+[2022.10.26-21.19.11:329][  0]LogMemory: Virtual Memory: 15841.65 MB used,  20025.52 MB free, 35867.17 MB total
+[2022.10.26-21.19.11:330][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.26-21.19.11:332][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2022.10.26-21.19.11:335][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.26-21.19.11:335][  0]LogInit: Using OS detected language (en-US).
+[2022.10.26-21.19.11:335][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.26-21.19.11:336][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.26-21.19.11:515][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyReport_0.log" -log="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyLog_0.log" -project="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject"  -platform=all'
+[2022.10.26-21.19.11:515][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Source/UnrealEngine/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyReport_0.log" -log="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyLog_0.log" -project="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject"  -platform=all" ]
+[2022.10.26-21.19.11:525][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.26-21.19.11:528][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.26-21.19.11:528][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.26-21.19.11:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.26-21.19.11:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.26-21.19.11:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.26-21.19.11:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.26-21.19.11:532][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.26-21.19.11:535][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.26-21.19.11:535][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.26-21.19.11:536][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.26-21.19.11:536][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.26-21.19.11:536][  0]LogTargetPlatformManager:   PCM
+[2022.10.26-21.19.11:537][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.26-21.19.11:537][  0]LogTargetPlatformManager:   BINKA
+[2022.10.26-21.19.11:537][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.26-21.19.11:537][  0]LogTargetPlatformManager:   OGG
+[2022.10.26-21.19.11:537][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.26-21.19.11:538][  0]LogTargetPlatformManager:   OPUS
+[2022.10.26-21.19.11:566][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.26-21.19.11:567][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.26-21.19.11:568][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.26-21.19.11:568][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.26-21.19.11:569][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.26-21.19.11:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.26-21.19.11:574][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.26-21.19.11:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.26-21.19.11:575][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchy Hierarchy.
+[2022.10.26-21.19.11:579][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.00 seconds
+[2022.10.26-21.19.11:580][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1094.39MBs, RandomWriteSpeed=300.85MBs. Assigned SpeedClass 'Local'
+[2022.10.26-21.19.11:582][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2022.10.26-21.19.11:582][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.26-21.19.11:583][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.26-21.19.11:589][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.26-21.19.11:589][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.26-21.19.11:590][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/Shaders/WorkingDirectory/17208/).
+[2022.10.26-21.19.11:591][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/r-s-h/AppData/Local/Temp/UnrealShaderWorkingDir/0B74910B4FE093C62CFB31BEDE237763/'.
+[2022.10.26-21.19.11:601][  0]LogXGEController: Display: Initialized XGE controller. XGE tasks will not be spawned on this machine.
+[2022.10.26-21.19.11:601][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2022.10.26-21.19.12:567][  0]LogInit: Using OS detected language (en-US).
+[2022.10.26-21.19.12:572][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.26-21.19.12:574][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.26-21.19.12:576][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.10.26-21.19.12:593][  0]LogAssetRegistry: FAssetRegistry took 0.0158 seconds to start up
+[2022.10.26-21.19.12:852][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.001180 seconds
+[2022.10.26-21.19.12:856][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.26-21.19.13:250][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.26-21.19.13:264][  0]LogDeviceProfileManager: Active device profile: [00000A28922B3D40][00000A288EF22800 50] WindowsEditor
+[2022.10.26-21.19.13:266][  0]LogDeviceProfileManager: Profiles: [00000A28922B3800][00000A288EF2A000 50] Windows, [00000A28922B3D40][00000A288EF22800 50] WindowsEditor, [00000A28922B0FC0][00000A288EF2C800 50] WindowsServer, [00000A28922B0E00][00000A288EDA2800 50] WindowsClient, [00000A28922B1A40][00000A2880F25000 50] IOS, [00000A28922B0540][00000A2884C55000 50] iPadAir2, [00000A28922B5940][00000A28922E2800 50] IPadPro, [00000A28922B5CC0][00000A28922E0000 50] iPadAir3, [00000A28922B55C0][00000A28922E7800 50] iPadAir4, [00000A28922B5240][00000A28922EA000 50] iPadMini4, [00000A28922B16C0][00000A28922EC800 50] iPadMini5, [00000A28922B1F80][00000A288EF25000 50] iPadMini6, [00000A28922B8C00][00000A2892315000 50] iPhone6S, [00000A28922B8F80][00000A2892312800 50] iPhone7, [00000A28922B9300][00000A2892310000 50] iPodTouch7, [00000A28922B3640][00000A289231A000 50] iPhone6SPlus, [00000A28922B6040][00000A289231C800 50] iPhone7Plus, [00000A28922B08C0][00000A28922E5000 50] iPhoneSE, [00000A28922B1340][00000A2892320000 50] iPhone8, [00000A28922B6580][00000A2892325000 50] iPhone8Plus, [00000A28922B7540][00000A2892327800 50] iPhoneX, [00000A28922B4B40][00000A289232A000 50] iPhoneXS, [00000A28922B5780][00000A289232C800 50] iPhoneXSMax, [00000A28922B4D00][00000A2892317800 50] iPhoneXR, [00000A28922B4980][00000A2892330000 50] iPhone11, [00000A28922B7FC0][00000A2892335000 50] iPhone11Pro, [00000A28922B5080][00000A2892337800 50] iPhone11ProMax, [00000A28922B9840][00000A289233A000 50] iPhoneSE2, [00000A28922B0C40][00000A289233C800 50] iPhone12Mini, [00000A28922B5400][00000A2892322800 50] iPhone12, [00000A28922B6E40][00000A2892360000 50] iPhone12Pro, [00000A28922B0700][00000A2892365000 50] iPhone12ProMax, [00000A28922B7700][00000A2892367800 50] iPhone13Mini, [00000A28922B9A00][00000A289236A000 50] iPhone13, [00000A28922B7A80][00000A289236C800 50] iPhone13Pro, [00000A28922B9680][00000A2892332800 50] iPhone13ProMax, [00000A28922B8880][00000A2892370000 50] iPadPro105, [00000A28922B4600][00000A2892375000 50] iPadPro129, [00000A28922B63C0][00000A2892377800 50] iPadPro97, [00000A28922B2F40][00000A289237A000 50] iPadPro2_129, [00000A28922B86C0][00000A289237C800 50] iPad5, [00000A28922B4440][00000A2892362800 50] iPad6, [00000A28922B78C0][00000A2892380000 50] iPad7, [00000A28922B1880][00000A2892385000 50] iPad8, [00000A28922B1C00][00000A2892387800 50] iPad9, [00000A28922B6200][00000A289238A000 50] iPadPro11, [00000A28922B1DC0][00000A289238C800 50] iPadPro2_11, [00000A28922B6900][00000A2892372800 50] iPadPro3_11, [00000A28922B2A00][00000A28922D0000 50] iPadPro3_129, [00000A28922B2BC0][00000A28922D5000 50] iPadPro4_129, [00000A28922B3F00][00000A28922D7800 50] iPadPro5_129, [00000A28922B5E80][00000A28922DA000 50] AppleTV, [00000A28922B0380][00000A28922DC800 50] AppleTV4K, [00000A28922B3100][00000A2892382800 50] TVOS, [00000A28922BAD40][00000A2892392800 50] Mac, [00000A28922BB0C0][00000A2892390000 50] MacEditor, [00000A28922BA640][00000A2892397800 50] MacClient, [00000A28922BB280][00000A289239A000 50] MacServer, [00000A28922B7380][00000A28922D2800 50] Linux, [00000A28922B47C0][00000A289239C800 50] LinuxEditor, [00000A28922B4280][00000A28923A0000 50] LinuxArm64Editor, [00000A28922BAB80][00000A28923A5000 50] LinuxArm64, [00000A28922B4EC0][00000A28923A7800 50] LinuxClient, [00000A28922BB980][00000A28923AA000 50] LinuxArm64Client, [00000A28922B8DC0][00000A28923AC800 50] LinuxServer, [00000A28922BBB40][00000A2892395000 50] LinuxArm64Server, [00000A28922B9F40][00000A28923B0000 50] Android, [00000A28922B1500][00000A28923B5000 50] Android_Preview_OpenGL, [00000A28922BAF00][00000A28923B7800 50] Android_Preview_Vulkan, [00000A28922B01C0][00000A28923BA000 50] Android_Low, [00000A28922B5B00][00000A28923BC800 50] Android_Mid, [00000A28922B7C40][00000A28923A2800 50] Android_High, [00000A28922B1180][00000A28923C0000 50] Android_Default, [00000A28922B9140][00000A28923C5000 50] Android_Adreno4xx, [00000A28922B0A80][00000A28923C7800 50] Android_Adreno5xx_Low, [00000A28922B2300][00000A28923CA000 50] Android_Adreno5xx, [00000A28922B2140][00000A28923CC800 50] Android_Adreno6xx, [00000A28922B0000][00000A28923B2800 50] Android_Adreno6xx_Vulkan, [00000A28922B94C0][00000A28923D0000 50] Android_Adreno7xx, [00000A28922BA9C0][00000A28923D5000 50] Android_Adreno7xx_Vulkan, [00000A28922B2680][00000A28923D7800 50] Android_Mali_T6xx, [00000A28922B8180][00000A28923DA000 50] Android_Mali_T7xx, [00000A28922B8340][00000A28923DC800 50] Android_Mali_T8xx, [00000A28922B24C0][00000A28923C2800 50] Android_Mali_G71, [00000A28922BA480][00000A28923E0000 50] Android_Mali_G72, [00000A28922B7000][00000A28923E5000 50] Android_Mali_G72_Vulkan, [00000A28922BA2C0][00000A28923E7800 50] Android_Mali_G76, [00000A28922B8A40][00000A28923EA000 50] Android_Mali_G76_Vulkan, [00000A28922B71C0][00000A28923EC800 50] Android_Mali_G77, [00000A28922B2D80][00000A28923D2800 50] Android_Mali_G77_Vulkan, [00000A28922B6AC0][00000A28923F0000 50] Android_Mali_G78, [00000A28922B9D80][00000A28923F5000 50] Android_Mali_G78_Vulkan, [00000A28922BB600][00000A28923F7800 50] Android_Mali_G710, [00000A28922B32C0][00000A28923FA000 50] Android_Mali_G710_Vulkan, [00000A28922BCB00][00000A28923FC800 50] Android_Xclipse_920, [00000A28922BBD00][00000A28923E2800 50] Android_Xclipse_920_Vulkan, [00000A28922BC940][00000A2892400000 50] Android_Vulkan_SM5, [00000A28922BB7C0][00000A2892405000 50] Android_PowerVR_G6xxx, [00000A28922B7E00][00000A2892407800 50] Android_PowerVR_GT7xxx, [00000A28922BC240][00000A289240A000 50] Android_PowerVR_GE8xxx, [00000A28922BBEC0][00000A289240C800 50] Android_PowerVR_GM9xxx, [00000A28922BD3C0][00000A28923F2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000A28922BC5C0][00000A2892410000 50] Android_TegraK1, [00000A28922BCCC0][00000A2892415000 50] Android_Unknown_Vulkan, [00000A28922BCE80][00000A2892417800 50] Oculus_Quest, [00000A28922BD040][00000A289241A000 50] Oculus_Quest2, [00000A28922BA100][00000A289241C800 50] HoloLens, 
+[2022.10.26-21.19.13:266][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.26-21.19.13:299][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.26-21.19.13:302][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.26-21.19.13:308][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.26-21.19.13:310][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.26-21.19.13:310][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.26-21.19.13:331][  0]LogNetVersion: FortniteGameMain 1.0.0, NetCL: 0, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3472119483)
+[2022.10.26-21.19.13:462][  0]SourceControl: Source control is disabled
+[2022.10.26-21.19.13:480][  0]SourceControl: Source control is disabled
+[2022.10.26-21.19.13:481][  0]SourceControl: Source control is disabled
+[2022.10.26-21.19.13:731][  0]LogPython: Using Python 3.9.7
+[2022.10.26-21.19.14:497][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1BA7B93A472DE8E4802CED9AFC3756B9 | Instance: A0A92AE24E96E926852643AA323D8DF3 (DESKTOP-EKA57D5-17208).
+[2022.10.26-21.19.14:516][  0]LogCollectionManager: Loaded 0 collections in 0.000889 seconds
+[2022.10.26-21.19.14:520][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Collections/' took 0.00s
+[2022.10.26-21.19.14:520][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Developers/rsh/Collections/' took 0.00s
+[2022.10.26-21.19.14:520][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Collections/' took 0.00s
+[2022.10.26-21.19.14:520][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.10.26-21.19.14:542][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.26-21.19.14:546][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.26-21.19.14:600][  0]SourceControl: Source control is disabled
+[2022.10.26-21.19.14:605][  0]LogUProjectInfo: Found projects:
+[2022.10.26-21.19.14:689][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.26-21.19.14:730][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.26-21.19.14:750][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.26-21.19.14:750][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.26-21.19.14:872][  0]LogUObjectArray: 26007 objects as part of root set at end of initial load.
+[2022.10.26-21.19.14:872][  0]LogUObjectAllocator: 7384368 out of 0 bytes used by permanent object pool.
+[2022.10.26-21.19.14:873][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.26-21.19.14:943][  0]LogEngine: Initializing Engine...
+[2022.10.26-21.19.14:950][  0]LogGameFeatures: Initializing game features subsystem
+[2022.10.26-21.19.14:952][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.26-21.19.14:981][  0]LogGameFeatures: Scanning for built-in game feature plugins
+[2022.10.26-21.19.14:982][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.26-21.19.14:982][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.26-21.19.14:983][  0]LogInit: Texture streaming: Disabled
+[2022.10.26-21.19.15:013][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.26-21.19.15:017][  0]LogLiveCoding: Error: Unable to start live coding session. Missing executable 'E:/Source/UnrealEngine/Engine/Binaries/Win64/LiveCodingConsole.exe'. Use the LiveCoding.ConsolePath console variable to modify.
+[2022.10.26-21.19.15:018][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-21.19.15:018][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-21.19.15:021][  0]LogInit: Display: Game Engine Initialized.
+[2022.10.26-21.19.15:021][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.10.26-21.19.15:046][  0]LogInit: Display: Starting Game.
+[2022.10.26-21.19.15:047][  0]LogNet: Browse: /Game/Maps/Athena_Grid_4x4_WP?Name=Player
+[2022.10.26-21.19.15:047][  0]LogLoad: LoadMap: /Game/Maps/Athena_Grid_4x4_WP?Name=Player
+[2022.10.26-21.19.15:047][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.10.26-21.19.15:047][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-21.19.15:057][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.26-21.19.15:583][  0]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.26-21.19.15:594][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-21.19.15:628][  0]LogAIModule: Creating AISystem for world Athena_Grid_4x4_WP
+[2022.10.26-21.19.15:628][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.26-21.19.15:629][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=1, IsCooking=0)
+[2022.10.26-21.19.15:637][  0]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.26-21.19.15:638][  0]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.26-21.19.15:638][  0]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.26-21.19.15:638][  0]LogWorldPartition: Display: ValidateSingleActorReferer took 2 us
+[2022.10.26-21.19.15:638][  0]LogWorldPartition: Display: GetPartitionedActors took 296 us
+[2022.10.26-21.19.15:666][  0]LogWorldPartition: Display: GenerateStreaming took 28 ms
+[2022.10.26-21.19.15:668][  0]LogWorldPartition: Display: WorldPartition initialize took 39 ms
+[2022.10.26-21.19.15:668][  0]LogLoad: Game class is 'Athena_GameMode_C'
+[2022.10.26-21.19.15:669][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.26-21.19.15:669][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.26-21.19.15:669][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.26-21.19.15:669][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.26-21.19.15:670][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.26-21.19.15:670][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2022.10.26-21.19.15:677][  0]LogWorld: Bringing World /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 30) at 2022.10.26-17.19.15
+[2022.10.26-21.19.15:677][  0]LogWorld: Bringing up level for play took: 0.002618
+[2022.10.26-21.19.15:677][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.26-21.19.15:678][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.26-21.19.15:678][  0]LogLoad: Took 0.631129 seconds to LoadMap(/Game/Maps/Athena_Grid_4x4_WP)
+[2022.10.26-21.19.15:708][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.26-21.19.15:708][  0]LogLoad: (Engine Initialization) Total time: 6.00 seconds
+[2022.10.26-21.19.15:708][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.26-21.19.15:749][  0]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(3), CellsToLoad(0), CellsToUnload(0)
+[2022.10.26-21.19.15:769][  1]LogLinker: ResetLoaders(/Engine/PythonTypes) is flushing async loading
+[2022.10.26-21.19.15:769][  1]LogStreaming: Display: FlushAsyncLoading: 3 QueuedPackages, 0 AsyncPackages
+[2022.10.26-21.19.15:985][  6]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59548
+[2022.10.26-21.19.15:985][  6]LogHandshake: SendConnectChallenge. Timestamp: 0.276531, Cookie: 059160206039162232231139079221111172247073038044112198071176
+[2022.10.26-21.19.16:018][  7]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59548
+[2022.10.26-21.19.16:018][  7]LogHandshake: SendChallengeAck. InCookie: 059160206039162232231139079221111172247073038044112198071176
+[2022.10.26-21.19.16:018][  7]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59548
+[2022.10.26-21.19.16:018][  7]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.26-21.19.16:019][  7]LogNet: NotifyAcceptedConnection: Name: Athena_Grid_4x4_WP, TimeStamp: 10/26/22 17:19:16, [UNetConnection] RemoteAddr: 127.0.0.1:59548, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.26-21.19.16:019][  7]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59548, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.26-21.19.16:051][  8]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP: Accepted
+[2022.10.26-21.19.16:051][  8]LogNet: Remote platform little endian=1
+[2022.10.26-21.19.16:051][  8]LogNet: This platform little endian=1
+[2022.10.26-21.19.16:051][  8]LogNetVersion: FortniteGameMain 1.0.0.0, NetCL: 0, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3589962461)
+[2022.10.26-21.19.16:084][  9]LogNet: Login request: ?Name=DESKTOP-EKA57D5-808F0DFC4BC13A33A16D51A9F97084AF userId: NULL:DESKTOP-EKA57D5-808F0DFC4BC13A33A16D51A9F97084AF platform: NULL
+[2022.10.26-21.19.16:118][ 10]LogNet: Client netspeed is 100000
+[2022.10.26-21.19.16:183][ 12]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-EKA57D5-808F0DFC4BC13A33A16D51A9F97084AF?SplitscreenCount=1
+[2022.10.26-21.19.16:183][ 12]LogScript: Warning: Accessed None trying to read property CursorPickaxe
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:123C
+[2022.10.26-21.19.16:184][ 12]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.16:184][ 12]LogScript: Warning: Accessed None trying to read property HealthBar
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:08EC
+[2022.10.26-21.19.16:184][ 12]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.16:185][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:28ED
+[2022.10.26-21.19.16:185][ 12]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.16:185][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:2916
+[2022.10.26-21.19.16:186][ 12]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.16:186][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:293F
+[2022.10.26-21.19.16:186][ 12]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.16:186][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:2968
+[2022.10.26-21.19.16:187][ 12]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.16:187][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:2991
+[2022.10.26-21.19.16:187][ 12]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.16:187][ 12]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.26-21.19.16:189][ 12]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.26-21.19.16:192][ 12]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.26-21.19.16:193][ 12]LogNet: Join succeeded: DESKTOP-EKA57D5-808F
+[2022.10.26-21.19.17:210][ 42]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61457
+[2022.10.26-21.19.17:210][ 42]LogHandshake: SendConnectChallenge. Timestamp: 1.501263, Cookie: 222186024171148243244056025243144065007132026235025008221112
+[2022.10.26-21.19.17:243][ 43]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61457
+[2022.10.26-21.19.17:250][ 43]LogHandshake: SendChallengeAck. InCookie: 222186024171148243244056025243144065007132026235025008221112
+[2022.10.26-21.19.17:252][ 43]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61457
+[2022.10.26-21.19.17:256][ 43]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.26-21.19.17:256][ 43]LogNet: NotifyAcceptedConnection: Name: Athena_Grid_4x4_WP, TimeStamp: 10/26/22 17:19:17, [UNetConnection] RemoteAddr: 127.0.0.1:61457, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.26-21.19.17:256][ 43]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61457, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.26-21.19.17:257][ 43]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP: Accepted
+[2022.10.26-21.19.17:257][ 43]LogNet: Remote platform little endian=1
+[2022.10.26-21.19.17:257][ 43]LogNet: This platform little endian=1
+[2022.10.26-21.19.17:276][ 44]LogNet: Login request: ?Name=DESKTOP-EKA57D5-5B229AB74FEF35C576488598B81522D4 userId: NULL:DESKTOP-EKA57D5-5B229AB74FEF35C576488598B81522D4 platform: NULL
+[2022.10.26-21.19.17:308][ 45]LogNet: Client netspeed is 100000
+[2022.10.26-21.19.18:075][ 67]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-EKA57D5-5B229AB74FEF35C576488598B81522D4?SplitscreenCount=1
+[2022.10.26-21.19.18:076][ 67]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.26-21.19.18:077][ 67]LogScript: Warning: Accessed None trying to read property CursorPickaxe
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:123C
+[2022.10.26-21.19.18:077][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.18:077][ 67]LogScript: Warning: Accessed None trying to read property HealthBar
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:08EC
+[2022.10.26-21.19.18:078][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.18:078][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:28ED
+[2022.10.26-21.19.18:088][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.18:089][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:2916
+[2022.10.26-21.19.18:089][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.18:090][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:293F
+[2022.10.26-21.19.18:092][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.18:097][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:2968
+[2022.10.26-21.19.18:098][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.18:098][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_7
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:2991
+[2022.10.26-21.19.18:099][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.18:100][ 67]LogScript: Warning: Accessed None trying to read property Inventory
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:2A38
+[2022.10.26-21.19.18:101][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.26-21.19.18:102][ 67]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.26-21.19.18:105][ 67]LogNet: Join succeeded: DESKTOP-EKA57D5-5B22
+[2022.10.26-21.19.18:444][ 78]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.26-21.19.18:444][ 78]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.10.26-21.19.18:444][ 78]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.26-21.19.18:444][ 78]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.26-21.19.18:445][ 78]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.26-21.19.18:445][ 78]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.26-21.19.18:445][ 78]LogTurnkeySupport: Turnkey Platform: Mac: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.26-21.19.18:445][ 78]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.26-21.19.18:445][ 78]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.26-21.19.24:785][266]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] true
+[2022.10.26-21.19.25:321][282]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] false
+[2022.10.26-21.19.26:761][325]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: WID_002_Athena_Pump_C_0, ObjOuter: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel 
+[2022.10.26-21.19.26:763][325]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Weapon
+	Athena_PlayerState_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerState_C_0
+	Function /Game/Athena/Athena_PlayerState.Athena_PlayerState_C:ExecuteUbergraph_Athena_PlayerState:0C45
+[2022.10.26-21.19.26:763][325]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerState.Athena_PlayerState_C:EquipWeapon
+	Function /Game/Athena/Athena_PlayerState.Athena_PlayerState_C:ExecuteUbergraph_Athena_PlayerState
+
+[2022.10.26-21.19.29:505][407]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: WID_002_Athena_Pump_C_0, ObjOuter: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel 
+[2022.10.26-21.19.29:505][407]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Weapon
+	Athena_PlayerState_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerState_C_0
+	Function /Game/Athena/Athena_PlayerState.Athena_PlayerState_C:ExecuteUbergraph_Athena_PlayerState:0C45
+[2022.10.26-21.19.29:506][407]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerState.Athena_PlayerState_C:EquipWeapon
+	Function /Game/Athena/Athena_PlayerState.Athena_PlayerState_C:ExecuteUbergraph_Athena_PlayerState
+
