@@ -1141,3 +1141,218 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.26-18.03.37:983][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2022.10.26-18.03.37:993][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2022.10.26-18.03.38:010][577]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.10.26-18.03.56:035][185]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.26-18.03.56:140][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.26-18.03.56:783][195]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.26-18.03.56:784][195]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerController8B614C1B4A14F226436193BD2D4AAFFD.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.26-18.03.56:795][195]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.26-18.03.56:795][195]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.26-18.04.18:257][700]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.04.18:460][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.26-18.04.18:890][714]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.04.18:891][714]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateAE6F7F554C08AE3A24EA4983ACD771C6.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.04.18:904][714]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.04.18:905][714]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.04.28:700][374]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.04.28:779][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.26-18.04.29:334][400]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.04.29:334][400]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateE01C518F40636F04E44DEF89E0D8E83E.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.04.29:344][400]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.04.29:344][400]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.04.33:878][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.26-18.04.35:253][804]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.26-18.04.35:293][804]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Athena/ActorComponents/AC_EditingManager.AC_EditingManager
+	Asset Type: Blueprint
+[2022.10.26-18.04.35:762][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.26-18.04.35:802][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.26-18.04.35:839][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.26-18.04.36:038][804]SourceControl: Error: Updated 0 paths from the index
+[2022.10.26-18.04.36:164][804]SourceControl: rm 'Content/Athena/ActorComponents/AC_EditingManager.uasset'
+[2022.10.26-18.04.40:859][247]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.26-18.04.40:872][247]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.26-18.04.40:882][248]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.26-18.04.44:565][687]LogContentBrowser: Attempting asset rename: NewFolder -> ActorComponents
+[2022.10.26-18.04.44:566][687]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.26-18.04.49:612][113]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.26-18.04.49:618][113]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.26-18.04.49:623][113]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.26-18.04.49:642][115]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.26-18.05.01:028][478]LogContentBrowser: Attempting asset rename: NewBlueprint -> AC_InventoryManager
+[2022.10.26-18.05.01:100][478]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.26-18.05.01:989][560]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_InventoryManager
+[2022.10.26-18.05.01:989][560]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_InventoryManager1196EECB46F285042C6C9CBD5099C794.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_InventoryManager.uasset'
+[2022.10.26-18.05.02:161][560]AssetCheck: New page: Asset Save: AC_InventoryManager
+[2022.10.26-18.05.02:161][560]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.26-18.05.02:319][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.26-18.05.02:319][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.05.06:215][828]BlueprintLog: New page: Compile AC_InventoryManager
+[2022.10.26-18.05.06:259][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.26-18.05.06:758][856]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_InventoryManager
+[2022.10.26-18.05.06:758][856]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_InventoryManager2061AD4742D585D044BCD2A398B3D35C.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_InventoryManager.uasset'
+[2022.10.26-18.05.06:770][856]AssetCheck: New page: Asset Save: AC_InventoryManager
+[2022.10.26-18.05.06:770][856]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.26-18.11.18:882][582]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.11.18:900][582]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerState.uasset: [Compiler] This blueprint (self) is not a ChildActorComponent, therefore ' Target ' must have a connection.
+[2022.10.26-18.11.18:977][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.26-18.11.19:489][603]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.11.19:490][603]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState4A46AFD84E0BD1D7B36BB3AE7889EBE4.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.11.19:502][603]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.11.19:502][603]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.11.25:100][123]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.11.25:112][123]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerState.uasset: [Compiler] This blueprint (self) is not a ChildActorComponent, therefore ' Target ' must have a connection.
+[2022.10.26-18.11.25:182][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.26-18.11.25:687][145]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.11.25:687][145]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState131EBB064FD0D16D93A9E88C246DC708.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.11.25:699][145]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.11.25:699][145]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.11.56:500][344]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.11.56:581][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.26-18.11.57:067][364]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.11.57:068][364]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState6779DBFB4DA6141F0819C29E3731C3BC.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.11.57:081][364]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.11.57:081][364]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.12.00:224][573]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.12.00:306][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.26-18.12.00:843][596]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.12.00:843][596]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState31C558D245810A77340D8A920F1DE23F.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.12.00:855][596]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.12.00:855][596]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.12.02:747][724]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.12.02:828][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.26-18.12.03:254][740]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.12.03:255][740]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateB0CF86B349CD7B245B92288136006D26.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.12.03:267][740]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.12.03:267][740]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.12.15:836][  6]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.12.15:836][  6]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateBD74D2F847F98245FB6A5589DE7B9EFB.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.12.15:848][  6]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.12.15:848][  6]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.13.35:625][513]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.13.35:717][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.26-18.13.36:230][534]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.13.36:231][534]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateC60EF8364ACB7F29D55729BD9011E7AE.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.13.36:242][534]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.13.36:242][534]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.13.50:120][739]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.13.50:131][739]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerState.uasset: [Compiler] This blueprint (self) is not a CID_001_Athena_Default_C, therefore ' Target ' must have a connection.
+[2022.10.26-18.13.50:133][739]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\Athena\Athena_PlayerState.uasset: [Compiler] Variable node  Set ECharacterHoldingState  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.10.26-18.13.50:203][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.26-18.13.50:632][757]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.13.50:633][757]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateBC7393004B1242B6E88A8F886B393F12.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.13.50:645][757]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.13.50:645][757]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.13.54:782][ 99]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.13.54:866][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.26-18.13.55:624][140]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.13.55:624][140]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateBA1BF4924B5079B0293B688EF6F0CBED.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.13.55:636][140]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.13.55:636][140]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.14.09:298][344]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.14.09:381][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.26-18.14.09:828][362]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.14.09:829][362]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateF804609A41C1ED642CF2609DE8491151.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.14.09:843][362]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.14.09:843][362]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.14.33:538][178]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.14.33:625][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.26-18.14.34:100][197]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.14.34:100][197]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState86CF04EA42683F8A24595DB1233CB733.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.14.34:112][197]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.14.34:112][197]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.14.46:957][144]BlueprintLog: New page: Compile AC_InventoryManager
+[2022.10.26-18.14.47:003][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.26-18.14.48:843][295]BlueprintLog: New page: Compile AC_InventoryManager
+[2022.10.26-18.14.48:844][295]LogClass: Warning: Type mismatch in Inventory of AC_InventoryManager_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2022.10.26-18.14.48:888][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.26-18.14.49:258][315]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_InventoryManager
+[2022.10.26-18.14.49:258][315]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_InventoryManagerC50E8D0B4B3BF864A8E5E2A0BC399126.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_InventoryManager.uasset'
+[2022.10.26-18.14.49:270][315]AssetCheck: New page: Asset Save: AC_InventoryManager
+[2022.10.26-18.14.49:270][315]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.26-18.14.51:819][497]BlueprintLog: New page: Compile AC_InventoryManager
+[2022.10.26-18.14.51:862][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.26-18.14.52:275][520]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_InventoryManager
+[2022.10.26-18.14.52:275][520]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_InventoryManager22A8A2904042279ED09969A354AD81B7.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_InventoryManager.uasset'
+[2022.10.26-18.14.52:287][520]AssetCheck: New page: Asset Save: AC_InventoryManager
+[2022.10.26-18.14.52:287][520]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.26-18.15.15:191][272]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.15.15:280][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.26-18.15.15:811][290]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.15.15:811][290]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState4A2452A2456A261020A95FBC05F2A92C.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.15.15:824][290]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.15.15:824][290]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.15.17:718][410]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.15.17:815][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.26-18.15.18:245][423]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.15.18:246][423]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState0D0E54D54D8B4818C9359D854A76B12C.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.15.18:259][423]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.15.18:259][423]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.15.26:450][124]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.15.26:533][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.26-18.15.26:974][142]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.15.26:974][142]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState91E963254A7D5A567F0A63BB1017CAAF.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.15.26:985][142]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.15.26:985][142]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.15.31:250][546]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.26-18.15.31:251][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.15.33:026][622]LogViewport: Scene viewport resized to 1136x693, mode Windowed.
+[2022.10.26-18.15.39:753][152]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.26-18.15.39:911][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.26-18.15.40:269][162]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.26-18.15.40:269][162]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_Default59B8942D40D10317243EF18B8835C26F.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.26-18.15.40:281][162]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.26-18.15.40:281][162]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.26-18.15.48:251][686]BlueprintLog: New page: Compile AC_InventoryManager
+[2022.10.26-18.15.48:329][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.26-18.15.49:061][739]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_InventoryManager
+[2022.10.26-18.15.49:061][739]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_InventoryManagerCA96A914401F86C320B9768DCFC03D88.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_InventoryManager.uasset'
+[2022.10.26-18.15.49:073][739]AssetCheck: New page: Asset Save: AC_InventoryManager
+[2022.10.26-18.15.49:073][739]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.26-18.15.56:341][192]BlueprintLog: New page: Compile AC_InventoryManager
+[2022.10.26-18.15.56:420][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.26-18.15.56:812][213]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_InventoryManager
+[2022.10.26-18.15.56:813][213]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_InventoryManagerAA7C7562404641008AFCDEB63A6A0AE2.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_InventoryManager.uasset'
+[2022.10.26-18.15.56:825][213]AssetCheck: New page: Asset Save: AC_InventoryManager
+[2022.10.26-18.15.56:825][213]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.26-18.15.59:092][402]BlueprintLog: New page: Compile AC_InventoryManager
+[2022.10.26-18.15.59:165][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.26-18.15.59:550][423]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_InventoryManager
+[2022.10.26-18.15.59:550][423]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_InventoryManager834EB61E4B0927B0DB89CBA97E1765B2.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_InventoryManager.uasset'
+[2022.10.26-18.15.59:562][423]AssetCheck: New page: Asset Save: AC_InventoryManager
+[2022.10.26-18.15.59:562][423]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.26-18.16.25:163][124]BlueprintLog: New page: Compile AC_InventoryManager
+[2022.10.26-18.16.25:239][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.26-18.16.25:647][146]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_InventoryManager
+[2022.10.26-18.16.25:648][146]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_InventoryManager1134BFF34A8021295740C180D2DDF102.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_InventoryManager.uasset'
+[2022.10.26-18.16.25:659][146]AssetCheck: New page: Asset Save: AC_InventoryManager
+[2022.10.26-18.16.25:660][146]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.26-18.16.50:205][429]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.16.50:421][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.26-18.16.50:705][432]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.16.50:705][432]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState94AA67D6471750377D21EFA01AB6699E.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.16.50:719][432]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.16.50:719][432]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.17.00:800][319]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.17.00:902][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.26-18.17.01:343][333]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.17.01:343][333]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState8AC15B3B45D6F4B35483E88BFEDCD165.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.17.01:357][333]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.17.01:357][333]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.17.08:693][857]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.17.08:802][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.26-18.17.09:101][859]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.17.09:101][859]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState3DAF271F43A0EF5800183DAF34641CFB.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.17.09:115][859]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.17.09:115][859]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.17.13:151][220]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.17.13:243][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.26-18.17.13:602][232]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.17.13:602][232]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerState9293D9DC47913F101D9D39A40F0B7E7D.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.17.13:614][232]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.17.13:614][232]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.17.18:275][627]BlueprintLog: New page: Compile Athena_PlayerState
+[2022.10.26-18.17.18:365][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.26-18.17.18:739][639]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerState
+[2022.10.26-18.17.18:739][639]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateCF52C5714F7E30D5DFB99AA1E8F3D4A0.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
+[2022.10.26-18.17.18:751][639]AssetCheck: New page: Asset Save: Athena_PlayerState
+[2022.10.26-18.17.18:751][639]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
