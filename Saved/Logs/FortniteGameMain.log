@@ -1356,3 +1356,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.26-18.17.18:739][639]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerStateCF52C5714F7E30D5DFB99AA1E8F3D4A0.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerState.uasset'
 [2022.10.26-18.17.18:751][639]AssetCheck: New page: Asset Save: Athena_PlayerState
 [2022.10.26-18.17.18:751][639]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerState.Athena_PlayerState
+[2022.10.26-18.36.01:545][541]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-0+++UE5+Release-5.0
+[2022.10.26-18.36.01:596][541]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.UnrealEngine.Release SessionId={EBA42B90-4439-499E-25C7-368AF636FD18}
+[2022.10.26-18.47.52:849][ 70]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:10.624 and deleted 5 file(s) with total size 0 MiB.
