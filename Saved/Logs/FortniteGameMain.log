@@ -725,3 +725,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.26-17.46.33:825][469]BlueprintLog: New page: Compile CID_001_Athena_Default
 [2022.10.26-17.46.33:927][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2022.10.26-17.47.50:672][787]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:08.247 and deleted 15 file(s) with total size 0 MiB.
+[2022.10.26-17.49.05:487][264]LogSlate: Window 'Source Control Login' being destroyed
