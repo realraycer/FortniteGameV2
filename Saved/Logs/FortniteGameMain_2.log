@@ -559,3 +559,113 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.27-19.37.25:914][  0]LogUObjectArray: 27290 objects as part of root set at end of initial load.
 [2022.10.27-19.37.25:914][  0]LogUObjectAllocator: 7783512 out of 0 bytes used by permanent object pool.
 [2022.10.27-19.37.25:914][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.27-19.37.25:999][  0]LogEngine: Initializing Engine...
+[2022.10.27-19.37.26:000][  0]LogGameFeatures: Initializing game features subsystem
+[2022.10.27-19.37.26:002][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.27-19.37.26:210][  0]LogGameFeatures: Scanning for built-in game feature plugins
+[2022.10.27-19.37.26:210][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.27-19.37.26:210][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.27-19.37.26:216][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.27-19.37.26:216][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.27-19.37.26:216][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.27-19.37.26:217][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.27-19.37.26:217][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.27-19.37.26:217][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-19.37.26:217][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-19.37.26:217][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-19.37.26:217][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-19.37.26:217][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-19.37.26:217][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-19.37.26:217][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-19.37.26:217][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-19.37.26:218][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-19.37.26:218][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-19.37.26:218][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-19.37.26:223][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-19.37.26:266][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-19.37.26:266][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-19.37.26:268][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-19.37.26:268][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-19.37.26:269][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.27-19.37.26:269][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.27-19.37.26:270][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.27-19.37.26:270][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.27-19.37.26:270][  0]LogInit: FAudioDevice initialized.
+[2022.10.27-19.37.26:270][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.27-19.37.26:270][  0]LogInit: Texture streaming: Enabled
+[2022.10.27-19.37.26:387][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.27-19.37.26:390][  0]LogLiveCoding: Error: Unable to start live coding session. Missing executable 'E:/Source/UnrealEngine/Engine/Binaries/Win64/LiveCodingConsole.exe'. Use the LiveCoding.ConsolePath console variable to modify.
+[2022.10.27-19.37.26:391][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-19.37.26:391][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-19.37.26:393][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.27-19.37.26:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-19.37.26:395][  0]LogInit: Display: Game Engine Initialized.
+[2022.10.27-19.37.26:396][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.10.27-19.37.26:418][  0]LogInit: Display: Starting Game.
+[2022.10.27-19.37.26:418][  0]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP?Name=Player
+[2022.10.27-19.37.26:418][  0]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.27-19.37.26:418][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.27-19.37.26:418][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-19.37.26:418][  0]LogNet: Game client on port 17777, rate 100000
+[2022.10.27-19.37.26:419][  0]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.10.27-19.37.26:521][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.27-19.37.26:547][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.27-19.37.26:547][  0]LogLoad: (Engine Initialization) Total time: 6.38 seconds
+[2022.10.27-19.37.26:547][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.27-19.37.26:549][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.27-19.37.26:555][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.37.27:311][856]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.27-19.37.27:311][856]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.10.27-19.37.27:311][856]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.27-19.37.27:311][856]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.27:311][856]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.27:311][856]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.27:311][856]LogTurnkeySupport: Turnkey Platform: Mac: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.27:311][856]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.27:311][856]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.27-19.37.27:426][964]LogHandshake: SendChallengeResponse. Timestamp: 1.606042, Cookie: 129194180177076033153255139005151006004191131120024196097171
+[2022.10.27-19.37.27:460][  7]LogNetVersion: FortniteGameMain 1.0.0.0, NetCL: 0, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3589962461)
+[2022.10.27-19.37.27:460][  7]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-19.37.27:492][ 52]LogNet: Welcomed by server (Level: /Game/Maps/Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.27-19.37.27:492][ 52]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP?Name=Player?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.27-19.37.27:492][ 52]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.10.27-19.37.27:493][ 52]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-19.37.27:493][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.37.27:500][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-19.37.27:506][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_GetDataTableRowFromName_OutRow_1'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_GetDataTableRowFromName_OutRow_2'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_GetDataTableRowFromName_OutRow_3'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:K2Node_MakeArray_Array.K2Node_MakeArray_Array'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_Array_Random_OutItem'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_GetDataTableRowFromName_OutRow_4'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_GetDataTableRowFromName_OutRow_5'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_GetDataTableRowFromName_OutRow_6'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_GetDataTableRowFromName_OutRow_7'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:K2Node_MakeArray_Array_1.K2Node_MakeArray_Array_1'. Unknown structure.
+[2022.10.27-19.37.27:607][ 52]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Athena/Items/LootPool_Manager.LootPool_Manager_C:ExecuteUbergraph_LootPool_Manager:CallFunc_Array_Random_OutItem_1'. Unknown structure.
+[2022.10.27-19.37.28:042][ 52]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.27-19.37.28:047][ 52]LogAudio: Display: Audio Device (ID: 1) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.27-19.37.28:047][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-19.37.28:048][ 52]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-19.37.28:048][ 52]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=1, IsCooking=0)
+[2022.10.27-19.37.28:054][ 52]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.27-19.37.28:054][ 52]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.27-19.37.28:054][ 52]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.27-19.37.28:054][ 52]LogWorldPartition: Display: ValidateSingleActorReferer took 2 us
+[2022.10.27-19.37.28:054][ 52]LogWorldPartition: Display: GetPartitionedActors took 62 us
+[2022.10.27-19.37.28:111][ 52]LogWorldPartition: Display: GenerateStreaming took 57 ms
+[2022.10.27-19.37.28:114][ 52]LogWorldPartition: Display: WorldPartition initialize took 66 ms
+[2022.10.27-19.37.28:132][ 52]LogWorld: Bringing World /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.27-15.37.28
+[2022.10.27-19.37.28:132][ 52]LogWorld: Bringing up level for play took: 0.003678
+[2022.10.27-19.37.28:134][ 52]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.27-19.37.28:137][ 52]LogLoad: Took 0.644925 seconds to LoadMap(/Game/Maps/Athena_Grid_4x4_WP)
+[2022.10.27-19.37.28:137][ 52]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.27-19.37.28:138][ 52]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.27-19.37.28:138][ 52]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.27-19.37.28:175][ 53]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.27-19.37.28:177][ 53]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.27-19.37.28:448][ 54]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.27-19.37.28:544][ 55]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=34530.000 Y=23634.000 Z=290.100
+[2022.10.27-19.37.28:642][ 56]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)

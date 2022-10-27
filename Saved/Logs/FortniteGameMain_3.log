@@ -544,3 +544,153 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.27-19.37.25:860][  0]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(3), CellsToLoad(0), CellsToUnload(0)
 [2022.10.27-19.37.25:882][  1]LogLinker: ResetLoaders(/Engine/PythonTypes) is flushing async loading
 [2022.10.27-19.37.25:882][  1]LogStreaming: Display: FlushAsyncLoading: 3 QueuedPackages, 0 AsyncPackages
+[2022.10.27-19.37.26:160][  8]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54909
+[2022.10.27-19.37.26:160][  8]LogHandshake: SendConnectChallenge. Timestamp: 0.341051, Cookie: 144030055236072059002173101244240245096137188005147105071245
+[2022.10.27-19.37.26:472][ 17]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54909
+[2022.10.27-19.37.26:473][ 17]LogHandshake: SendChallengeAck. InCookie: 144030055236072059002173101244240245096137188005147105071245
+[2022.10.27-19.37.26:478][ 17]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54909
+[2022.10.27-19.37.26:481][ 17]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-19.37.26:486][ 17]LogNet: NotifyAcceptedConnection: Name: Athena_Grid_4x4_WP, TimeStamp: 10/27/22 15:37:26, [UNetConnection] RemoteAddr: 127.0.0.1:54909, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-19.37.26:492][ 17]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54909, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-19.37.26:818][ 27]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP: Accepted
+[2022.10.27-19.37.26:827][ 27]LogNet: Remote platform little endian=1
+[2022.10.27-19.37.26:838][ 27]LogNet: This platform little endian=1
+[2022.10.27-19.37.26:839][ 27]LogNetVersion: FortniteGameMain 1.0.0.0, NetCL: 0, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3589962461)
+[2022.10.27-19.37.27:158][ 37]LogNet: Login request: ?Name=DESKTOP-EKA57D5-B046FF624510AC8CA45BE9804700673E userId: NULL:DESKTOP-EKA57D5-B046FF624510AC8CA45BE9804700673E platform: NULL
+[2022.10.27-19.37.27:425][ 45]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55071
+[2022.10.27-19.37.27:425][ 45]LogHandshake: SendConnectChallenge. Timestamp: 1.606042, Cookie: 129194180177076033153255139005151006004191131120024196097171
+[2022.10.27-19.37.27:458][ 46]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55071
+[2022.10.27-19.37.27:458][ 46]LogHandshake: SendChallengeAck. InCookie: 129194180177076033153255139005151006004191131120024196097171
+[2022.10.27-19.37.27:459][ 46]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55071
+[2022.10.27-19.37.27:460][ 46]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-19.37.27:460][ 46]LogNet: NotifyAcceptedConnection: Name: Athena_Grid_4x4_WP, TimeStamp: 10/27/22 15:37:27, [UNetConnection] RemoteAddr: 127.0.0.1:55071, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-19.37.27:460][ 46]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55071, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-19.37.27:461][ 46]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP: Accepted
+[2022.10.27-19.37.27:461][ 46]LogNet: Remote platform little endian=1
+[2022.10.27-19.37.27:462][ 46]LogNet: This platform little endian=1
+[2022.10.27-19.37.27:491][ 47]LogNet: Login request: ?Name=DESKTOP-EKA57D5-0AAC1C9540981153F922419F1DEAE8AD userId: NULL:DESKTOP-EKA57D5-0AAC1C9540981153F922419F1DEAE8AD platform: NULL
+[2022.10.27-19.37.27:491][ 47]LogNet: Client netspeed is 100000
+[2022.10.27-19.37.27:590][ 50]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-EKA57D5-B046FF624510AC8CA45BE9804700673E?SplitscreenCount=1
+[2022.10.27-19.37.27:591][ 50]LogScript: Warning: Accessed None trying to read property CursorPickaxe
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:2942
+[2022.10.27-19.37.27:591][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.27:593][ 50]LogScript: Warning: Accessed None trying to read property HealthBar
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:0996
+[2022.10.27-19.37.27:594][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.27:595][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1A9C
+[2022.10.27-19.37.27:595][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.27:595][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1AC5
+[2022.10.27-19.37.27:596][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.27:596][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1AEE
+[2022.10.27-19.37.27:597][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.27:597][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1B17
+[2022.10.27-19.37.27:598][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.27:598][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_0
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1B40
+[2022.10.27-19.37.27:599][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.27:599][ 50]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.27-19.37.27:601][ 50]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-19.37.27:604][ 50]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-19.37.27:604][ 50]LogNet: Join succeeded: DESKTOP-EKA57D5-B046
+[2022.10.27-19.37.28:154][ 67]LogNet: Client netspeed is 100000
+[2022.10.27-19.37.28:155][ 67]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-EKA57D5-0AAC1C9540981153F922419F1DEAE8AD?SplitscreenCount=1
+[2022.10.27-19.37.28:156][ 67]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.27-19.37.28:157][ 67]LogScript: Warning: Accessed None trying to read property CursorPickaxe
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:2942
+[2022.10.27-19.37.28:158][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.28:158][ 67]LogScript: Warning: Accessed None trying to read property HealthBar
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:0996
+[2022.10.27-19.37.28:159][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.28:159][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1A9C
+[2022.10.27-19.37.28:160][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.28:160][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1AC5
+[2022.10.27-19.37.28:160][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.28:161][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1AEE
+[2022.10.27-19.37.28:161][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.28:161][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1B17
+[2022.10.27-19.37.28:162][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.28:162][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1B40
+[2022.10.27-19.37.28:162][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.28:163][ 67]LogScript: Warning: Accessed None trying to read property Inventory
+	Athena_PlayerController_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.Athena_PlayerController_C_1
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController:1BE7
+[2022.10.27-19.37.28:163][ 67]LogScript: Warning: Script call stack:
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Athena/Athena_PlayerController.Athena_PlayerController_C:ExecuteUbergraph_Athena_PlayerController
+
+[2022.10.27-19.37.28:164][ 67]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.27-19.37.28:167][ 67]LogNet: Join succeeded: DESKTOP-EKA57D5-0AAC
+[2022.10.27-19.37.29:713][113]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.27-19.37.29:713][113]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.10.27-19.37.29:715][113]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.27-19.37.29:715][113]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.29:715][113]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.29:716][113]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.29:716][113]LogTurnkeySupport: Turnkey Platform: Mac: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.29:716][113]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-19.37.29:716][113]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")

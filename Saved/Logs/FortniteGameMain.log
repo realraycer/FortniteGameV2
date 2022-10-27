@@ -2979,3 +2979,35 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.27-19.37.20:142][273]LogContentValidation: Display: Validating DataTable /Game/Balance/LootPool/DT_Loot_Pool_Weapons.DT_Loot_Pool_Weapons
 [2022.10.27-19.37.20:142][273]LogContentValidation: Display: Validating DataTable /Game/Weapons/Ammo/Types/DT_Loot_Pool_Ammo.DT_Loot_Pool_Ammo
 [2022.10.27-19.37.20:142][273]LogContentValidation: Display: Validating Blueprint /Game/Athena/Items/LootPool_Manager.LootPool_Manager
+[2022.10.27-19.37.26:460][292]LogHandshake: SendChallengeResponse. Timestamp: 0.341051, Cookie: 144030055236072059002173101244240245096137188005147105071245
+[2022.10.27-19.37.26:791][293]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_11, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-19.37.27:130][294]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2022.10.27-19.37.27:466][295]LogNet: Welcomed by server (Level: /Game/Maps/Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.27-19.37.27:467][295]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.27-19.37.27:467][295]LogWorld: BeginTearingDown for /Temp/Untitled_12
+[2022.10.27-19.37.27:467][295]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-19.37.27:467][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.37.27:554][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-19.37.27:561][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.10.27-19.37.27:563][295]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.27-19.37.27:571][295]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.27-19.37.27:571][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007309s)
+[2022.10.27-19.37.27:571][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.007412s)
+[2022.10.27-19.37.27:571][295]LogAudio: Display: Audio Device (ID: 13) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.27-19.37.27:571][295]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-19.37.27:572][295]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-19.37.27:572][295]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.27-19.37.27:574][295]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.10.27-19.37.27:574][295]LogPlayLevel: PIE: World Init took: (0.002945s)
+[2022.10.27-19.37.27:575][295]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 3) at 2022.10.27-15.37.27
+[2022.10.27-19.37.27:575][295]LogWorld: Bringing up level for play took: 0.001124
+[2022.10.27-19.37.27:575][295]LogLoad: Took 0.109422 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.27-19.37.27:576][295]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.27-19.37.27:576][295]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.27-19.37.27:576][295]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.27-19.37.27:804][296]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.27-19.37.27:809][296]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.27-19.37.27:810][296]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 2 AsyncPackages
+[2022.10.27-19.37.27:813][296]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.27-19.37.28:140][297]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=30573.000 Y=31006.000 Z=363.300
+[2022.10.27-19.37.28:473][298]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
