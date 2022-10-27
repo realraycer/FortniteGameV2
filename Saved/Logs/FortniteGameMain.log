@@ -3011,3 +3011,173 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.27-19.37.27:813][296]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
 [2022.10.27-19.37.28:140][297]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=30573.000 Y=31006.000 Z=363.300
 [2022.10.27-19.37.28:473][298]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.27-19.37.41:536][377]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.27-19.37.51:996][ 13]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: true
+[2022.10.27-19.37.52:309][ 33]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.27-19.37.52:309][ 33]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.27-19.37.52:854][ 67]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: false
+[2022.10.27-19.37.53:534][109]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: agda
+[2022.10.27-19.37.54:374][160]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Pump
+[2022.10.27-19.37.56:532][290]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	BH_Inventory_Popout_C /Engine/Transient.UnrealEdEngine_0:GameInstance_11.BH_Inventory_Popout_C_0
+	Function /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout_C:ExecuteUbergraph_BH_Inventory_Popout:0303
+[2022.10.27-19.37.56:532][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Keys Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Popout Blueprint:  BH_Inventory_Popout
+[2022.10.27-19.37.56:532][290]LogScript: Warning: Accessed None
+	BH_Inventory_Popout_C /Engine/Transient.UnrealEdEngine_0:GameInstance_11.BH_Inventory_Popout_C_0
+	Function /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout_C:ExecuteUbergraph_BH_Inventory_Popout:02E4
+[2022.10.27-19.37.56:532][290]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Keys Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Popout Blueprint:  BH_Inventory_Popout
+[2022.10.27-19.37.59:837][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-19.37.59:837][488]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.27-19.37.59:839][488]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 0]  (64-bit/SM5)' being destroyed
+[2022.10.27-19.37.59:842][488]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-19.37.59:843][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.37.59:851][488]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2022.10.27-19.37.59:851][488]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2022.10.27-19.37.59:851][488]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-B046FF624510AC8CA45BE9804700673E, Channels: 19, Time: 2022.10.27-19.37.59
+[2022.10.27-19.37.59:852][488]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-B046FF624510AC8CA45BE9804700673E
+[2022.10.27-19.37.59:852][488]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2022.10.27-19.37.59:854][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-19.37.59:864][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.37.59:946][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.10.27-19.37.59:947][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.10.27-19.37.59:955][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.27-19.37.59:999][489]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.10.27-19.38.17:280][885]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.27-19.38.17:280][885]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.27-19.38.22:604][275]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.27-19.38.22:604][275]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.27-19.38.41:972][826]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.27-19.38.41:972][826]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.27-19.38.54:145][504]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.38.54:235][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.27-19.38.54:745][526]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.38.54:745][526]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_Popout22C73381429D6DFFB87B028FD94495B3.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.38.54:757][526]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.38.54:758][526]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
+[2022.10.27-19.39.00:729][999]LogEditorTransaction: Undo Set Vector Property
+[2022.10.27-19.39.06:190][449]LogEditorTransaction: Undo Set Vector Property
+[2022.10.27-19.39.07:961][557]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.39.08:072][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.27-19.39.08:524][574]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.39.08:524][574]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_PopoutC681BC4949D824D20287139A51224731.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.39.08:537][574]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.39.08:537][574]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
+[2022.10.27-19.39.15:008][ 47]LogEditorTransaction: Undo Edit Wrap Size
+[2022.10.27-19.39.26:826][888]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.39.26:936][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.27-19.39.27:375][904]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.39.27:375][904]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_PopoutC674B5444FDCC7CE5F373899D4ED8636.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.39.27:387][904]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.39.27:387][904]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
+[2022.10.27-19.40.12:622][474]Launching UnrealBuildTool... [E:/Source/UnrealEngine/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="E:/Source/UnrealEngine/Engine/Intermediate/TargetInfo.json"]
+[2022.10.27-19.40.13:338][474]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-EKA57D5
+[2022.10.27-19.40.13:338][474]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyReport_1.log" -log="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyLog_1.log" -project="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject"  -Device=Win64@DESKTOP-EKA57D5'
+[2022.10.27-19.40.13:338][474]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Source/UnrealEngine/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyReport_1.log" -log="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Intermediate/TurnkeyLog_1.log" -project="E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/FortniteGameMain.uproject"  -Device=Win64@DESKTOP-EKA57D5" -nocompile ]
+[2022.10.27-19.40.15:470][532]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.10.27-19.40.15:470][532]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-EKA57D5: (Name=DESKTOP-EKA57D5, Status=Valid, Installed=10.0.19043.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.10.27-19.40.21:496][215]SourceControl: fatal: /Script: '/Script' is outside repository at 'E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain'
+[2022.10.27-19.40.22:764][339]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.27-19.40.22:843][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.10.27-19.40.24:002][339]LogSlate: Window 'Save Content' being destroyed
+[2022.10.27-19.40.24:120][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Athena_Grid_4x4_WP/5/DM/NDTI5ESX916ZUSMYRV97F3
+[2022.10.27-19.40.24:120][339]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/NDTI5ESX916ZUSMYRV97F3551412924D367DBFFA7C9D85F6218D9D.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/__ExternalActors__/Maps/Athena_Grid_4x4_WP/5/DM/NDTI5ESX916ZUSMYRV97F3.uasset'
+[2022.10.27-19.40.24:136][339]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.27-19.40.24:136][339]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.27-19.40.24:136][339]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.27-19.40.24:136][339]LogWorldPartition: Display: ValidateSingleActorReferer took 1 us
+[2022.10.27-19.40.24:136][339]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2022.10.27-19.40.24:137][339]LogWorldPartition: Display: GenerateStreaming took 260 us
+[2022.10.27-19.40.24:137][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.27-19.40.24:137][339]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 27, 2022, 11:40:24 AM)
+[2022.10.27-19.40.24:194][339]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.27-19.40.24:201][339]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.27-19.40.24:201][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006454s)
+[2022.10.27-19.40.24:201][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.006560s)
+[2022.10.27-19.40.24:201][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-19.40.24:201][339]LogAIModule: Creating AISystem for world Athena_Grid_4x4_WP
+[2022.10.27-19.40.24:202][339]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-19.40.24:202][339]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.27-19.40.24:203][339]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.27-19.40.24:203][339]LogPlayLevel: PIE: World Init took: (0.002692s)
+[2022.10.27-19.40.24:278][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.27-19.40.24:280][339]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.10.27-19.40.24:280][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-19.40.24:280][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-19.40.24:280][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-19.40.24:280][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-19.40.24:280][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-19.40.24:280][339]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-19.40.24:280][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-19.40.24:280][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-19.40.24:281][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-19.40.24:281][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-19.40.24:281][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-19.40.24:283][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-19.40.24:313][339]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-19.40.24:313][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-19.40.24:313][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-19.40.24:313][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-19.40.24:314][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.10.27-19.40.24:314][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.10.27-19.40.24:315][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.10.27-19.40.24:315][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.10.27-19.40.24:315][339]LogInit: FAudioDevice initialized.
+[2022.10.27-19.40.24:315][339]LogAudio: Display: Audio Device (ID: 14) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.27-19.40.24:330][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-19.40.24:330][339]LogLoad: Game class is 'Athena_GameMode_C'
+[2022.10.27-19.40.24:331][339]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.27-15.40.24
+[2022.10.27-19.40.24:331][339]LogWorld: Bringing up level for play took: 0.001317
+[2022.10.27-19.40.24:333][339]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2022.10.27-19.40.24:342][339]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=34570.000 Y=29145.000 Z=192.000
+[2022.10.27-19.40.24:342][339]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.27-19.40.24:342][339]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=34570.000 Y=29145.000 Z=192.000,P=0.000000 Y=90.000002 R=-0.000000
+[2022.10.27-19.40.24:343][339]LogStreaming: Display: FlushAsyncLoading: 2 QueuedPackages, 0 AsyncPackages
+[2022.10.27-19.40.24:349][339]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-19.40.24:349][339]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-19.40.24:349][339]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-19.40.24:353][339]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-19.40.24:358][339]PIE: Server logged in
+[2022.10.27-19.40.24:360][339]PIE: Play in editor total start time 1.592 seconds.
+[2022.10.27-19.40.24:392][339]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.27-19.40.24:422][340]AssetCheck: New page: Asset Save: LootPool_Manager_C_1
+[2022.10.27-19.40.24:422][340]LogContentValidation: Display: Validating LootPool_Manager_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LootPool_Manager_C_1
+[2022.10.27-19.40.27:249][400]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Swing
+[2022.10.27-19.40.38:601][494]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Swing
+[2022.10.27-19.40.47:549][171]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] true
+[2022.10.27-19.40.47:785][189]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Looting Chest
+[2022.10.27-19.40.48:240][222]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] false
+[2022.10.27-19.40.48:581][247]LogBlueprintUserMessages: [Athena_PlayerController_C_0] agda
+[2022.10.27-19.40.49:243][297]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Pump
+[2022.10.27-19.40.51:566][473]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	BH_Inventory_Popout_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.BH_Inventory_Popout_C_0
+	Function /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout_C:ExecuteUbergraph_BH_Inventory_Popout:0303
+[2022.10.27-19.40.51:566][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Keys Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Popout Blueprint:  BH_Inventory_Popout
+[2022.10.27-19.40.51:566][473]LogScript: Warning: Accessed None
+	BH_Inventory_Popout_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.BH_Inventory_Popout_C_0
+	Function /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout_C:ExecuteUbergraph_BH_Inventory_Popout:02E4
+[2022.10.27-19.40.51:567][473]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Keys Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Popout Blueprint:  BH_Inventory_Popout
+[2022.10.27-19.40.56:182][739]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Swing
+[2022.10.27-19.40.58:166][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-19.40.58:166][890]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.27-19.40.58:167][890]LogSlate: Window 'FortniteGameMain Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.27-19.40.58:174][890]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-19.40.58:176][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.40.58:186][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-19.40.58:196][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.40.58:275][890]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-19.40.58:275][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.10.27-19.40.58:276][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.10.27-19.40.58:329][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.10.27-19.40.58:372][891]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.10.27-19.41.04:874][649]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.41.04:989][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.10.27-19.41.05:391][675]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.41.05:391][675]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_Popout6C0638AD47978B942312FCBAE41A672F.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.41.05:405][675]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.41.05:406][675]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
+[2022.10.27-19.41.45:600][786]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.41.45:707][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.10.27-19.41.46:178][821]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.41.46:179][821]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_Popout08C87BF74C4B7FE56573CCB49F8406A2.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.41.46:192][821]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.41.46:192][821]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
