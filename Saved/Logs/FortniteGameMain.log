@@ -2837,3 +2837,145 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.27-19.35.21:506][122]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerControllerF403C0164BB8D153C1E0049FEFA3F684.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
 [2022.10.27-19.35.21:518][122]AssetCheck: New page: Asset Save: Athena_PlayerController
 [2022.10.27-19.35.21:518][122]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.27-19.35.47:893][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.10.27-19.35.47:896][448]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Athena_Grid_4x4_WP' took 0.077
+[2022.10.27-19.35.47:899][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/Ammo/Types/FAmmoProperties] ([1] browsable assets)...
+[2022.10.27-19.35.47:899][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Ammo/Types/FAmmoProperties]
+[2022.10.27-19.35.47:900][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/Ammo/Types/FAmmoProperties_Auto4
+[2022.10.27-19.35.47:900][448]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/FAmmoProperties_Auto42EC33CF3405CB47A78676C9BAACCBFBA.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Autosaves/Game/Weapons/Ammo/Types/FAmmoProperties_Auto4.uasset'
+[2022.10.27-19.35.47:901][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Balance/LootPool/FLootPoolUtilityProperties] ([1] browsable assets)...
+[2022.10.27-19.35.47:901][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Balance/LootPool/FLootPoolUtilityProperties]
+[2022.10.27-19.35.47:903][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Balance/LootPool/FLootPoolUtilityProperties_Auto4
+[2022.10.27-19.35.47:903][448]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/FLootPoolUtilityProperties_Auto4939DB3D545B51FFE9F394E87EA4941DC.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Autosaves/Game/Balance/LootPool/FLootPoolUtilityProperties_Auto4.uasset'
+[2022.10.27-19.35.47:903][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Balance/LootPool/FLootPoolWeaponProperties] ([1] browsable assets)...
+[2022.10.27-19.35.47:903][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Balance/LootPool/FLootPoolWeaponProperties]
+[2022.10.27-19.35.47:905][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Balance/LootPool/FLootPoolWeaponProperties_Auto4
+[2022.10.27-19.35.47:905][448]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/FLootPoolWeaponProperties_Auto45574F5804E6C4F07EE8A858D1EDC3A49.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Autosaves/Game/Balance/LootPool/FLootPoolWeaponProperties_Auto4.uasset'
+[2022.10.27-19.35.47:906][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Pickup/PickupItemUI] ([2] browsable assets)...
+[2022.10.27-19.35.47:910][448]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Pickup/PickupItemUI.PickupItemUI]
+[2022.10.27-19.35.47:910][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Pickup/PickupItemUI]
+[2022.10.27-19.35.47:926][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Pickup/PickupItemUI_Auto4
+[2022.10.27-19.35.47:926][448]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/PickupItemUI_Auto4A37FB4E743C8E3FFDB8869B7B82C50E9.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Autosaves/Game/UI/Pickup/PickupItemUI_Auto4.uasset'
+[2022.10.27-19.35.47:927][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Athena/Items/LootPool_Manager] ([2] browsable assets)...
+[2022.10.27-19.35.47:927][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Athena/Items/LootPool_Manager]
+[2022.10.27-19.35.47:937][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Athena/Items/LootPool_Manager_Auto4
+[2022.10.27-19.35.47:937][448]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/LootPool_Manager_Auto4C74D7E13451D65B6E48CA1A9013037D7.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Autosaves/Game/Athena/Items/LootPool_Manager_Auto4.uasset'
+[2022.10.27-19.35.47:937][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Balance/LootPool/DT_Loot_Pool_Utility] ([1] browsable assets)...
+[2022.10.27-19.35.47:937][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Balance/LootPool/DT_Loot_Pool_Utility]
+[2022.10.27-19.35.47:938][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Balance/LootPool/DT_Loot_Pool_Utility_Auto4
+[2022.10.27-19.35.47:938][448]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/DT_Loot_Pool_Utility_Auto450D1E3304FDADA5860F69AAC0C7310C9.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Autosaves/Game/Balance/LootPool/DT_Loot_Pool_Utility_Auto4.uasset'
+[2022.10.27-19.35.47:939][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Balance/LootPool/DT_Loot_Pool_Weapons] ([1] browsable assets)...
+[2022.10.27-19.35.47:939][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Balance/LootPool/DT_Loot_Pool_Weapons]
+[2022.10.27-19.35.47:940][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Balance/LootPool/DT_Loot_Pool_Weapons_Auto4
+[2022.10.27-19.35.47:940][448]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/DT_Loot_Pool_Weapons_Auto4C5E60F4644FB6484B242C1988BA185C6.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Autosaves/Game/Balance/LootPool/DT_Loot_Pool_Weapons_Auto4.uasset'
+[2022.10.27-19.35.47:940][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/Ammo/Types/DT_Loot_Pool_Ammo] ([1] browsable assets)...
+[2022.10.27-19.35.47:940][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Ammo/Types/DT_Loot_Pool_Ammo]
+[2022.10.27-19.35.47:941][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/Ammo/Types/DT_Loot_Pool_Ammo_Auto4
+[2022.10.27-19.35.47:941][448]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/DT_Loot_Pool_Ammo_Auto422F6915845641F28ABBA3E8021C9108A.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Autosaves/Game/Weapons/Ammo/Types/DT_Loot_Pool_Ammo_Auto4.uasset'
+[2022.10.27-19.35.47:941][448]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.10.27-19.35.56:525][930]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.35.56:739][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.10.27-19.35.58:256][ 76]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.35.58:257][ 76]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_Popout2060A51A4BCD11AB8CFB6D969438F919.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.35.58:269][ 76]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.35.58:269][ 76]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
+[2022.10.27-19.36.02:884][503]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.36.02:993][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.27-19.36.03:414][524]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.36.03:414][524]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_Popout7627A56049BEA0BDA1A98194DD980CC8.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.36.03:426][524]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.36.03:426][524]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
+[2022.10.27-19.36.13:748][955]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.36.13:856][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.27-19.36.14:487][990]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.36.14:488][990]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_PopoutE2AE008C44A2B3CC0D2354AD21DAF292.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.36.14:500][990]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.36.14:500][990]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
+[2022.10.27-19.36.44:543][703]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.36.44:655][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.10.27-19.36.44:990][716]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.36.44:990][716]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_PopoutAA7108914AEDC710DE77AE8E7FF0F5FD.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.36.45:003][716]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.36.45:003][716]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
+[2022.10.27-19.36.53:008][860]BlueprintLog: New page: Compile BH_Inventory_Popout
+[2022.10.27-19.36.53:120][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.27-19.36.53:554][881]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_Inventory_Popout
+[2022.10.27-19.36.53:554][881]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_Inventory_Popout4B8077B749FB3E4A952F38B01551E7C6.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_Inventory_Popout.uasset'
+[2022.10.27-19.36.53:566][881]AssetCheck: New page: Asset Save: BH_Inventory_Popout
+[2022.10.27-19.36.53:566][881]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_Inventory_Popout.BH_Inventory_Popout
+[2022.10.27-19.37.17:297][272]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.27-19.37.17:378][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.27-19.37.18:857][272]LogSlate: Window 'Save Content' being destroyed
+[2022.10.27-19.37.19:070][272]LogSavePackage: Moving output files for package: /Game/Weapons/Ammo/Types/DT_Loot_Pool_Ammo
+[2022.10.27-19.37.19:071][272]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/DT_Loot_Pool_Ammo4BC9AE8844069F19042CDA8C97C57F56.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Weapons/Ammo/Types/DT_Loot_Pool_Ammo.uasset'
+[2022.10.27-19.37.19:072][272]LogSavePackage: Moving output files for package: /Game/Balance/LootPool/DT_Loot_Pool_Utility
+[2022.10.27-19.37.19:073][272]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/DT_Loot_Pool_UtilityBE41520649FDF7B80C951896062CA972.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Balance/LootPool/DT_Loot_Pool_Utility.uasset'
+[2022.10.27-19.37.19:076][272]LogSavePackage: Moving output files for package: /Game/Balance/LootPool/DT_Loot_Pool_Weapons
+[2022.10.27-19.37.19:076][272]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/DT_Loot_Pool_Weapons82E2EAE14D5F00995D6B15A6BDFE9224.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Balance/LootPool/DT_Loot_Pool_Weapons.uasset'
+[2022.10.27-19.37.19:078][272]LogSavePackage: Moving output files for package: /Game/Weapons/Ammo/Types/FAmmoProperties
+[2022.10.27-19.37.19:078][272]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/FAmmoProperties8A815DBF4A916B57439539AE396B3F24.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Weapons/Ammo/Types/FAmmoProperties.uasset'
+[2022.10.27-19.37.19:080][272]LogSavePackage: Moving output files for package: /Game/Balance/LootPool/FLootPoolUtilityProperties
+[2022.10.27-19.37.19:081][272]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/FLootPoolUtilityPropertiesFFA6DE8C4470EF0E2BA72586C77B1869.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Balance/LootPool/FLootPoolUtilityProperties.uasset'
+[2022.10.27-19.37.19:083][272]LogSavePackage: Moving output files for package: /Game/Balance/LootPool/FLootPoolWeaponProperties
+[2022.10.27-19.37.19:084][272]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/FLootPoolWeaponPropertiesBD26C5594E95D76A0DE00A8245699A61.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Balance/LootPool/FLootPoolWeaponProperties.uasset'
+[2022.10.27-19.37.19:093][272]LogSavePackage: Moving output files for package: /Game/Athena/Items/LootPool_Manager
+[2022.10.27-19.37.19:094][272]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/LootPool_Manager7803F25F4BC5FC20C771FC95ADD212F4.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Items/LootPool_Manager.uasset'
+[2022.10.27-19.37.19:110][272]LogSavePackage: Moving output files for package: /Game/UI/Pickup/PickupItemUI
+[2022.10.27-19.37.19:111][272]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/PickupItemUIB5444C3541AFBA4739B724BD62D22C63.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/Pickup/PickupItemUI.uasset'
+[2022.10.27-19.37.19:116][272]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.27-19.37.19:116][272]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.27-19.37.19:116][272]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.27-19.37.19:116][272]LogWorldPartition: Display: ValidateSingleActorReferer took 1 us
+[2022.10.27-19.37.19:116][272]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2022.10.27-19.37.19:116][272]LogWorldPartition: Display: GenerateStreaming took 266 us
+[2022.10.27-19.37.19:118][272]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.27-19.37.19:120][272]LogPlayLevel: [PlayLevel] Compiling LootPool_Manager before play...
+[2022.10.27-19.37.19:162][272]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.10.27-19.37.19:173][272]LogPlayLevel: [PlayLevel] Compiling PickupItemUI before play...
+[2022.10.27-19.37.19:323][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.27-19.37.19:325][272]LogPlayLevel: PlayLevel: Blueprint regeneration took 206 ms (3 blueprints)
+[2022.10.27-19.37.19:325][272]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 27, 2022, 11:37:19 AM)
+[2022.10.27-19.37.19:975][272]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-19.37.19:975][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-19.37.19:976][272]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2022.10.27-19.37.19:976][272]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.10.27-19.37.19:976][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-19.37.19:976][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-19.37.19:976][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-19.37.19:976][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-19.37.19:976][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-19.37.19:976][272]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-19.37.19:976][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-19.37.19:976][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-19.37.19:977][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-19.37.19:977][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-19.37.19:977][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-19.37.19:979][272]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-19.37.20:008][272]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-19.37.20:008][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-19.37.20:008][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-19.37.20:008][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-19.37.20:009][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.10.27-19.37.20:009][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.10.27-19.37.20:010][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.10.27-19.37.20:010][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.10.27-19.37.20:010][272]LogInit: FAudioDevice initialized.
+[2022.10.27-19.37.20:010][272]LogAudio: Display: Audio Device (ID: 13) registered with world 'Untitled'.
+[2022.10.27-19.37.20:030][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-19.37.20:030][272]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.27-19.37.20:030][272]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.27-19.37.20:031][272]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.27-19.37.20:031][272]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-19.37.20:031][272]LogNet: Game client on port 17777, rate 100000
+[2022.10.27-19.37.20:035][272]PIE: Client logged in
+[2022.10.27-19.37.20:037][272]PIE: Play in editor total start time 2.735 seconds.
+[2022.10.27-19.37.20:061][272]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.27-19.37.20:141][273]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.27-19.37.20:141][273]LogContentValidation: Display: Validating UserDefinedStruct /Game/Weapons/Ammo/Types/FAmmoProperties.FAmmoProperties
+[2022.10.27-19.37.20:141][273]LogContentValidation: Display: Validating UserDefinedStruct /Game/Balance/LootPool/FLootPoolUtilityProperties.FLootPoolUtilityProperties
+[2022.10.27-19.37.20:141][273]LogContentValidation: Display: Validating UserDefinedStruct /Game/Balance/LootPool/FLootPoolWeaponProperties.FLootPoolWeaponProperties
+[2022.10.27-19.37.20:141][273]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Pickup/PickupItemUI.PickupItemUI
+[2022.10.27-19.37.20:142][273]LogContentValidation: Display: Validating DataTable /Game/Balance/LootPool/DT_Loot_Pool_Utility.DT_Loot_Pool_Utility
+[2022.10.27-19.37.20:142][273]LogContentValidation: Display: Validating DataTable /Game/Balance/LootPool/DT_Loot_Pool_Weapons.DT_Loot_Pool_Weapons
+[2022.10.27-19.37.20:142][273]LogContentValidation: Display: Validating DataTable /Game/Weapons/Ammo/Types/DT_Loot_Pool_Ammo.DT_Loot_Pool_Ammo
+[2022.10.27-19.37.20:142][273]LogContentValidation: Display: Validating Blueprint /Game/Athena/Items/LootPool_Manager.LootPool_Manager
