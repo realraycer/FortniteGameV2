@@ -744,3 +744,358 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.28-20.55.23:908][626]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventoryMenu9FC34C54496477BAA14068A1AB9B0FD3.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventoryMenu.uasset'
 [2022.10.28-20.55.23:918][626]AssetCheck: New page: Asset Save: BH_InventoryMenu
 [2022.10.28-20.55.23:918][626]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventoryMenu.BH_InventoryMenu
+[2022.10.28-20.55.37:540][918]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.28-20.55.37:582][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.28-20.55.37:585][918]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.28-20.55.37:585][918]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.28-20.55.37:585][918]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.28-20.55.37:585][918]LogWorldPartition: Display: ValidateSingleActorReferer took 1 us
+[2022.10.28-20.55.37:585][918]LogWorldPartition: Display: GetPartitionedActors took 57 us
+[2022.10.28-20.55.37:585][918]LogWorldPartition: Display: GenerateStreaming took 275 us
+[2022.10.28-20.55.37:586][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-20.55.37:586][918]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 28, 2022, 12:55:37 PM)
+[2022.10.28-20.55.37:589][918]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.28-20.55.37:589][918]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.28-20.55.37:608][918]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-20.55.37:608][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-20.55.37:608][918]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2022.10.28-20.55.37:608][918]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.28-20.55.37:608][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-20.55.37:608][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-20.55.37:609][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-20.55.37:609][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-20.55.37:609][918]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-20.55.37:609][918]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-20.55.37:609][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-20.55.37:609][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-20.55.37:609][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-20.55.37:609][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-20.55.37:609][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-20.55.37:611][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-20.55.37:639][918]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.28-20.55.37:639][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-20.55.37:639][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-20.55.37:639][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-20.55.37:640][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.28-20.55.37:640][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.28-20.55.37:642][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.28-20.55.37:642][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.28-20.55.37:642][918]LogInit: FAudioDevice initialized.
+[2022.10.28-20.55.37:642][918]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled'.
+[2022.10.28-20.55.37:662][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-20.55.37:662][918]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.28-20.55.37:663][918]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.28-20.55.37:663][918]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.28-20.55.37:663][918]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.28-20.55.37:663][918]LogNet: Game client on port 17777, rate 100000
+[2022.10.28-20.55.37:668][918]PIE: Client logged in
+[2022.10.28-20.55.37:671][918]PIE: Play in editor total start time 0.125 seconds.
+[2022.10.28-20.55.37:733][918]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.28-20.55.43:364][ 81]LogHandshake: SendChallengeResponse. Timestamp: 0.033890, Cookie: 011214123228179086092169165077196209136167166100234018213047
+[2022.10.28-20.55.43:699][ 82]LogNetVersion: FortniteGameMain 1.0.0.0, NetCL: 0, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3589962461)
+[2022.10.28-20.55.43:699][ 82]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.28-20.55.44:036][ 83]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.10.28-20.55.44:371][ 84]LogNet: Welcomed by server (Level: /Game/Maps/Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.28-20.55.44:372][ 84]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.28-20.55.44:372][ 84]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2022.10.28-20.55.44:372][ 84]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-20.55.44:372][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-20.55.44:427][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-20.55.44:429][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.28-20.55.44:430][ 84]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.28-20.55.44:438][ 84]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.28-20.55.44:438][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007783s)
+[2022.10.28-20.55.44:438][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.007890s)
+[2022.10.28-20.55.44:438][ 84]LogAudio: Display: Audio Device (ID: 2) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.28-20.55.44:438][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-20.55.44:439][ 84]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.28-20.55.44:439][ 84]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.28-20.55.44:440][ 84]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.28-20.55.44:441][ 84]LogPlayLevel: PIE: World Init took: (0.002366s)
+[2022.10.28-20.55.44:442][ 84]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 3) at 2022.10.28-16.55.44
+[2022.10.28-20.55.44:442][ 84]LogWorld: Bringing up level for play took: 0.001237
+[2022.10.28-20.55.44:442][ 84]LogLoad: Took 0.070516 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.28-20.55.44:442][ 84]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.28-20.55.44:442][ 84]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.28-20.55.44:443][ 84]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.28-20.55.45:055][ 85]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.28-20.55.45:063][ 85]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.28-20.55.45:063][ 85]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 2 AsyncPackages
+[2022.10.28-20.55.45:067][ 85]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.28-20.55.45:083][ 86]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.28-20.55.45:124][ 88]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.28-20.55.45:128][ 88]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=34797.495 Y=28700.575 Z=290.200
+[2022.10.28-20.55.49:797][360]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=34284.172 Y=29046.037 Z=567.056 on base None
+[2022.10.28-20.55.53:561][621]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=33096.008 Y=28299.961 Z=987.218 on base None
+[2022.10.28-20.55.54:973][720]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=32835.301 Y=27962.002 Z=674.237 on base None
+[2022.10.28-20.55.56:347][814]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=32250.422 Y=27818.429 Z=664.213 on base Mesh
+[2022.10.28-20.55.58:029][930]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.28-20.55.58:532][965]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: true
+[2022.10.28-20.55.59:476][ 30]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.28-20.55.59:477][ 30]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.28-20.55.59:923][ 60]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Your add
+[2022.10.28-20.55.59:952][ 62]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: false
+[2022.10.28-20.56.00:253][ 83]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: true
+[2022.10.28-20.56.00:555][104]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.28-20.56.00:555][104]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.28-20.56.01:559][173]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD57C4201_1436639679] Client 0: false
+[2022.10.28-20.56.02:490][237]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.28-20.56.02:490][237]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.28-20.56.03:266][291]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.28-20.56.03:958][339]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.28-20.56.03:958][339]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.28-20.56.04:602][383]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Your add
+[2022.10.28-20.56.04:838][399]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: agda
+[2022.10.28-20.56.05:132][419]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: agda
+[2022.10.28-20.56.05:232][426]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: PumpShotgun
+[2022.10.28-20.56.05:515][446]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Your add
+[2022.10.28-20.56.05:766][463]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.28-20.56.05:766][463]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.28-20.56.06:378][506]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.28-20.56.06:378][506]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.28-20.56.06:661][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-20.56.06:661][524]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.28-20.56.06:663][524]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 0]  (64-bit/SM5)' being destroyed
+[2022.10.28-20.56.06:666][524]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-20.56.06:667][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-20.56.06:678][524]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2022.10.28-20.56.06:678][524]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2022.10.28-20.56.06:678][524]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-C13EACC048E1A48584106BA42CCB6DCE, Channels: 39, Time: 2022.10.28-20.56.06
+[2022.10.28-20.56.06:678][524]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-C13EACC048E1A48584106BA42CCB6DCE
+[2022.10.28-20.56.06:678][524]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2022.10.28-20.56.06:680][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-20.56.06:692][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-20.56.06:748][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.28-20.56.06:750][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.28-20.56.06:788][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.10.28-20.56.06:816][525]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.10.28-20.56.42:645][875]LogSlate: Window 'BH_InventoryMenu' being destroyed
+[2022.10.28-20.56.42:648][875]LogSlate: Window 'BH_InventoryMenu' being destroyed
+[2022.10.28-20.56.42:658][875]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-20.56.42:658][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-20.56.42:666][875]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-20.56.42:666][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-20.56.47:166][175]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-20.56.47:167][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-20.56.47:180][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-20.56.47:615][175]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-20.56.47:615][175]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-20.57.56:013][710]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.28-20.57.57:805][710]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.28-20.57.57:810][710]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.28-20.57.57:815][710]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.28-20.57.57:826][711]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.28-20.57.58:667][807]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2022.10.28-20.57.58:764][807]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.28-20.57.59:197][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.10.28-20.57.59:867][837]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.28-20.57.59:955][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.28-20.58.02:782][ 45]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.28-20.58.02:794][ 45]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.28-20.58.02:798][ 45]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.28-20.58.02:807][ 46]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.28-20.58.06:573][495]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> ItemTooltip
+[2022.10.28-20.58.06:640][495]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.28-20.58.07:101][536]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-20.58.07:101][536]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip15A9EF9145B4CE9CA0488583DF429DC9.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-20.58.07:270][536]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-20.58.07:271][536]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-20.58.07:783][585]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-20.58.07:783][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-20.58.07:797][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-20.58.08:147][585]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-20.58.08:147][585]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-20.58.16:075][ 31]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.28-20.58.16:815][ 88]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-20.58.16:866][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.28-20.58.49:240][327]LogSlate: Took 0.001784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.10.28-20.59.36:197][359]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-20.59.36:247][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.28-20.59.36:677][375]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-20.59.36:678][375]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip68042D6C4432E166785E1FAF403B5816.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-20.59.36:689][375]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-20.59.36:689][375]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-20.59.55:402][835]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-20.59.55:453][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.28-20.59.55:801][844]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-20.59.55:801][844]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip5739BB5A4C401423AF62ECAF56DD0911.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-20.59.55:812][844]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-20.59.55:813][844]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.00.09:670][197]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.28-21.00.16:164][686]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.00.16:214][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.10.28-21.00.16:696][705]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.00.16:697][705]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip36DB3BE44FEDDA86E53F17989F889117.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.00.16:708][705]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.00.16:708][705]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.00.36:049][ 19]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-21.00.36:049][ 19]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-21.00.51:171][161]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.00.51:230][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.28-21.00.51:627][170]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.00.51:627][170]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltipEE32560E4BB48FE60FD126A09F126E7B.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.00.51:638][170]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.00.51:638][170]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.00.52:224][216]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.00.52:265][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.28-21.00.52:820][248]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_InventorySlot
+[2022.10.28-21.00.52:821][248]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlotD115B39949A12B13F44FDA963FD80A29.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventorySlot.uasset'
+[2022.10.28-21.00.52:831][248]AssetCheck: New page: Asset Save: BH_InventorySlot
+[2022.10.28-21.00.52:831][248]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-21.01.19:707][972]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.28-21.01.33:317][ 78]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.28-21.01.57:588][158]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.01.57:640][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.28-21.01.58:044][178]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.01.58:045][178]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip7137B69A41D9DF88C14BC88F5D36A9B4.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.01.58:055][178]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.01.58:055][178]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.02.17:744][291]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.02.17:795][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.28-21.02.18:223][314]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.02.18:224][314]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip6E7695E94F88891BEC8782BAF36A2875.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.02.18:234][314]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.02.18:234][314]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.03.04:212][297]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.03.04:264][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.28-21.03.19:550][186]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.03.19:600][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.28-21.03.43:449][212]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.03.43:499][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.28-21.03.43:886][230]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.03.43:886][230]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip3BC93F594CA7C8C074F7C499B47204ED.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.03.43:896][230]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.03.43:897][230]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.03.47:846][615]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.28-21.03.47:846][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-21.03.55:385][261]BlueprintLog: New page: Compile AC_InventoryManager
+[2022.10.28-21.03.55:447][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.28-21.03.55:811][278]LogSavePackage: Moving output files for package: /Game/Athena/ActorComponents/AC_InventoryManager
+[2022.10.28-21.03.55:811][278]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/AC_InventoryManagerECFF899D466DCAFBF18F5589E7B8A506.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/ActorComponents/AC_InventoryManager.uasset'
+[2022.10.28-21.03.55:825][278]AssetCheck: New page: Asset Save: AC_InventoryManager
+[2022.10.28-21.03.55:825][278]LogContentValidation: Display: Validating Blueprint /Game/Athena/ActorComponents/AC_InventoryManager.AC_InventoryManager
+[2022.10.28-21.04.08:584][658]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-21.04.08:584][658]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-21.04.14:859][199]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.04.14:905][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.10.28-21.04.15:279][211]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.04.15:280][211]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip43846C6049BF18A11538A99AA79E5A2F.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.04.15:292][211]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.04.15:292][211]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.04.50:785][ 93]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.04.50:846][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.28-21.04.51:333][116]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.04.51:333][116]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip8029DF924F0E09CB8228AA8CF27F78B6.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.04.51:344][116]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.04.51:344][116]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.05.06:315][734]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.05.06:374][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.28-21.05.06:831][753]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.05.06:831][753]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip9CA7A83A4358EDD9F2C5E88270E38E56.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.05.06:844][753]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.05.06:844][753]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.05.38:758][656]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.05.38:818][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.28-21.05.39:183][666]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.05.39:183][666]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltipB8DB24DE41C60AA3A2E8DB821C55C753.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.05.39:195][666]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.05.39:195][666]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.05.59:883][754]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.28-21.06.01:688][925]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.06.01:693][925]LogBlueprint: Warning: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\UI\BaseHUD\BH_InventorySlot.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2022.10.28-21.06.01:737][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.28-21.06.02:130][943]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_InventorySlot
+[2022.10.28-21.06.02:130][943]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlot99BD98E448A4D4DBA3E209BEE857A751.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventorySlot.uasset'
+[2022.10.28-21.06.02:141][943]AssetCheck: New page: Asset Save: BH_InventorySlot
+[2022.10.28-21.06.02:141][943]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-21.06.31:743][655]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.06.31:747][655]LogBlueprint: Warning: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\UI\BaseHUD\BH_InventorySlot.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2022.10.28-21.06.31:805][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.28-21.06.32:208][675]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_InventorySlot
+[2022.10.28-21.06.32:208][675]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlot360583254BC0E54EF2B3389560107066.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventorySlot.uasset'
+[2022.10.28-21.06.32:219][675]AssetCheck: New page: Asset Save: BH_InventorySlot
+[2022.10.28-21.06.32:219][675]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-21.06.47:613][561]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.06.47:662][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.28-21.06.48:057][579]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.06.48:057][579]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltipC40E4F8A4568C80C37D808A755DC1791.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.06.48:070][579]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.06.48:070][579]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.06.51:251][858]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.06.51:255][858]LogBlueprint: Warning: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\UI\BaseHUD\BH_InventorySlot.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2022.10.28-21.06.51:300][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.28-21.06.51:741][880]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_InventorySlot
+[2022.10.28-21.06.51:742][880]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlot801F2DDC4D02451618E0BB828BF1DD7F.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventorySlot.uasset'
+[2022.10.28-21.06.51:753][880]AssetCheck: New page: Asset Save: BH_InventorySlot
+[2022.10.28-21.06.51:753][880]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-21.06.58:108][161]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.06.58:111][161]LogBlueprint: Warning: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\UI\BaseHUD\BH_InventorySlot.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2022.10.28-21.06.58:169][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.28-21.06.58:595][183]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_InventorySlot
+[2022.10.28-21.06.58:596][183]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlotEF59E1C84AA3F6BF4EB5CAB788405E30.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventorySlot.uasset'
+[2022.10.28-21.06.58:607][183]AssetCheck: New page: Asset Save: BH_InventorySlot
+[2022.10.28-21.06.58:607][183]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-21.07.21:841][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-21.07.21:841][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-21.07.38:886][595]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.07.38:936][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.28-21.07.39:087][597]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.07.39:133][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.28-21.07.39:491][609]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.07.39:491][609]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltipF6CDA2904566F55D608DD1BCCB7E9133.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.07.39:503][609]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.07.39:503][609]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.08.08:193][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.28-21.08.08:195][252]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Athena_Grid_4x4_WP' took 0.053
+[2022.10.28-21.08.08:195][252]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BaseHUD/BH_InventorySlot] ([2] browsable assets)...
+[2022.10.28-21.08.08:197][252]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot]
+[2022.10.28-21.08.08:197][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BaseHUD/BH_InventorySlot]
+[2022.10.28-21.08.08:207][252]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/BaseHUD/BH_InventorySlot_Auto1
+[2022.10.28-21.08.08:207][252]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlot_Auto17ACC3354418D4C6D795511A72BA827CD.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Autosaves/Game/UI/BaseHUD/BH_InventorySlot_Auto1.uasset'
+[2022.10.28-21.08.08:208][252]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.10.28-21.09.34:020][166]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.09.34:024][166]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\UI\BaseHUD\BH_InventorySlot.uasset: [Compiler] The property associated with  Tooltip Window  could not be found in '/Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot_C'
+[2022.10.28-21.09.34:082][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.28-21.09.34:396][179]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_InventorySlot
+[2022.10.28-21.09.34:396][179]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlot255DC7FA4BDECF3E7E71D98A77AEA841.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventorySlot.uasset'
+[2022.10.28-21.09.34:408][179]AssetCheck: New page: Asset Save: BH_InventorySlot
+[2022.10.28-21.09.34:408][179]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-21.10.07:853][570]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.10.07:857][570]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\UI\BaseHUD\BH_InventorySlot.uasset: [Compiler] This blueprint (self) is not a CanvasPanelSlot, therefore ' Target ' must have a connection.
+[2022.10.28-21.10.07:915][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.28-21.10.17:373][467]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.10.17:376][467]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\UI\BaseHUD\BH_InventorySlot.uasset: [Compiler] This blueprint (self) is not a CanvasPanelSlot, therefore ' Target ' must have a connection.
+[2022.10.28-21.10.17:419][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.28-21.10.38:166][388]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.10.38:170][388]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\UI\BaseHUD\BH_InventorySlot.uasset: [Compiler] The property associated with  Tooltip Window  could not be found in '/Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot_C'
+[2022.10.28-21.10.38:212][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.28-21.10.41:829][682]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.10.41:834][682]LogBlueprint: Error: [AssetLog] E:\Unreal Engine\Unreal Games\Zipped Up Projects\Fortnite\0.02\FortniteGameMain\Content\UI\BaseHUD\BH_InventorySlot.uasset: [Compiler] The property associated with  Tooltip Window  could not be found in '/Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot_C'
+[2022.10.28-21.10.41:876][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.28-21.10.42:314][703]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_InventorySlot
+[2022.10.28-21.10.42:315][703]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlot611FF9DE4C96253701196BA76A563932.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventorySlot.uasset'
+[2022.10.28-21.10.42:326][703]AssetCheck: New page: Asset Save: BH_InventorySlot
+[2022.10.28-21.10.42:326][703]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-21.10.45:275][931]BlueprintLog: New page: Compile ItemTooltip
+[2022.10.28-21.10.45:328][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.28-21.10.45:773][948]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/ItemTooltip
+[2022.10.28-21.10.45:774][948]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/ItemTooltip480955D448A28C1F4FA68D98C83461AE.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/ItemTooltip.uasset'
+[2022.10.28-21.10.45:785][948]AssetCheck: New page: Asset Save: ItemTooltip
+[2022.10.28-21.10.45:785][948]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/ItemTooltip.ItemTooltip
+[2022.10.28-21.10.46:760][ 28]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.10.46:808][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.28-21.10.47:285][ 54]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_InventorySlot
+[2022.10.28-21.10.47:285][ 54]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlot63A5599C4421C17C89ED6C98C7B6FBA4.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventorySlot.uasset'
+[2022.10.28-21.10.47:297][ 54]AssetCheck: New page: Asset Save: BH_InventorySlot
+[2022.10.28-21.10.47:297][ 54]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-21.10.48:830][173]BlueprintLog: New page: Compile BH_InventorySlot
+[2022.10.28-21.10.48:890][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.28-21.10.50:578][296]LogSavePackage: Moving output files for package: /Game/UI/BaseHUD/BH_InventorySlot
+[2022.10.28-21.10.50:579][296]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/BH_InventorySlotD414C0704FF0FBF640FFCAAFD95F6D34.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/UI/BaseHUD/BH_InventorySlot.uasset'
+[2022.10.28-21.10.50:589][296]AssetCheck: New page: Asset Save: BH_InventorySlot
+[2022.10.28-21.10.50:589][296]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/BaseHUD/BH_InventorySlot.BH_InventorySlot
+[2022.10.28-21.11.29:169][964]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.28-21.11.29:215][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.28-21.11.31:028][964]LogSlate: Window 'Save Content' being destroyed
+[2022.10.28-21.11.31:039][964]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2022.10.28-21.11.31:039][964]PIE: Warning: PIE failed because map save was canceled
