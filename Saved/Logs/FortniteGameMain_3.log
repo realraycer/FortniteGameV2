@@ -682,3 +682,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 
 [2022.10.28-20.31.00:760][ 69]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
 [2022.10.28-20.31.00:763][ 69]LogNet: Join succeeded: DESKTOP-EKA57D5-D009
+[2022.10.28-20.31.00:890][ 73]LogNet: Server connection received: ActorChannelFailure [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60921, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-BA15C87A4216901BCF16D08658B97B3E
