@@ -7539,3 +7539,139 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.29-17.15.12:102][636]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2022.10.29-17.15.12:102][636]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2022.10.29-17.15.12:102][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-17.15.21:461][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.29-17.15.21:472][713]LogStall: Shutdown...
+[2022.10.29-17.15.21:478][713]LogStall: Shutdown complete.
+[2022.10.29-17.15.21:505][713]LogSlate: Window 'Output Log' being destroyed
+[2022.10.29-17.15.21:507][713]LogSlate: Window 'FortniteGameMain - Unreal Editor' being destroyed
+[2022.10.29-17.15.21:541][713]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.10.29-17.15.21:541][713]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Plugins/' was aborted.
+[2022.10.29-17.15.22:057][714]Cmd: QUIT_EDITOR
+[2022.10.29-17.15.22:057][714]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.10.29-17.15.22:062][714]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.10.29-17.15.22:063][714]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.10.29-17.15.22:063][714]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.10.29-17.15.22:067][714]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.UnrealEngine.Release SessionId={C024B8B4-486D-5EE0-16F0-369FAA6C7710}
+[2022.10.29-17.15.22:819][714]LogGameFeatures: Shutting down game features subsystem
+[2022.10.29-17.15.22:819][714]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.10.29-17.15.22:819][714]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.10.29-17.15.22:819][714]LogAudio: Display: Audio Device unregistered from world 'Athena_Grid_4x4_WP'.
+[2022.10.29-17.15.22:819][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.10.29-17.15.22:821][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.10.29-17.15.22:830][714]LogAudio: Display: Audio Device Manager Shutdown
+[2022.10.29-17.15.22:832][714]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.10.29-17.15.22:833][714]LogExit: Preparing to exit.
+[2022.10.29-17.15.22:859][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.22:863][714]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.10.29-17.15.23:883][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:883][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:883][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:883][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:883][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:883][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:883][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:883][714]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-17.15.23:885][714]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-17.15.23:887][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:887][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:887][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:887][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:887][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:887][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:887][714]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.10.29-17.15.23:887][714]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-17.15.23:889][714]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-17.15.23:892][714]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-17.15.23:926][714]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.10.29-17.15.23:939][714]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.10.29-17.15.23:939][714]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.10.29-17.15.23:945][714]LogExit: Editor shut down
+[2022.10.29-17.15.23:946][714]LogExit: Transaction tracking system shut down
+[2022.10.29-17.15.24:224][714]LogExit: Object subsystem successfully closed.
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: ================================================
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.29-17.15.24:230][714]LogShaderCompilers: Display: ================================================
+[2022.10.29-17.15.24:293][714]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.29-17.15.24:293][714]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module BlueprintGraph (881)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module Voice (879)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (875)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (873)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module AddContentDialog (871)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module WidgetCarousel (870)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module SceneOutliner (867)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module SubobjectEditor (865)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module StatusBar (861)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (859)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module DataLayerEditor (857)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module StatsViewer (855)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module AutomationWorker (852)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (850)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module GooglePADEditor (848)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (846)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (844)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (842)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (840)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (838)
+[2022.10.29-17.15.24:307][714]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (836)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (834)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (832)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (830)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (828)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module WebMMedia (826)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (824)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (822)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module SequenceRecorder (821)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (818)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (816)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (814)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (812)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (810)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (808)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (806)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module PlanarCut (804)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module CharacterAI (802)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module TextureAlignMode (800)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module BspMode (798)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module GeometryMode (796)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (794)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module IKRigEditor (792)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (790)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module ControlRigEditor (788)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module AnimationEditor (787)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module SmartSnapping (784)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module SessionServices (782)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module MeshPaint (780)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (778)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module PlacementMode (777)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (770)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module ActorPickerMode (768)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module ViewportSnapping (766)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module EditorWidgets (764)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module ViewportInteraction (762)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module ClothPainter (760)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (759)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module LogVisualizer (756)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module IntroTutorials (754)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (752)
+[2022.10.29-17.15.24:308][714]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (751)
+[2022.10.29-17.15.24:309][714]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (749)
