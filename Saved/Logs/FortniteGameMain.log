@@ -877,3 +877,102 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.29-15.44.08:755][300]LogContentValidation: Display: Validating OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_UAID_B42E99F74CD5884401_1621996906
 [2022.10.29-15.44.08:755][300]LogContentValidation: Display: Validating SkyLight /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.SkyLight_UAID_B42E99F74CD5884401_1556021905
 [2022.10.29-15.44.08:755][300]LogContentValidation: Display: Validating BR_FF_Main_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.BR_FF_Main_C_UAID_B42E99F74CD5884401_1481362904
+[2022.10.29-15.44.37:808][604]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_15 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B6A01E27C13535E99091305F7242ACF1CB5AEA6), compiling. 
+[2022.10.29-15.44.37:813][604]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_16 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D26BC81628AFBBD40F1A1F56E044E673CCC6B94), compiling. 
+[2022.10.29-15.44.37:816][604]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_17 in PCD3D_SM5, Default, SM5 (DDC key hash: F4F4DA5796A6CB77B7FDD88779613E9949DFDCF6), compiling. 
+[2022.10.29-15.44.37:850][604]LogViewport: Scene viewport resized to 1141x902, mode Windowed.
+[2022.10.29-15.44.45:406][295]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_16 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.45:407][295]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_17 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.45:408][295]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_8 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.45:439][295]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_9 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.45:439][295]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Athena_Grid_4x4_WP/E/LW/H8UZ3UTR3V9M546KSMIFIS
+[2022.10.29-15.44.45:440][295]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/H8UZ3UTR3V9M546KSMIFIS92FBB62D4FC2D37556A7B297853D6E34.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/__ExternalActors__/Maps/Athena_Grid_4x4_WP/E/LW/H8UZ3UTR3V9M546KSMIFIS.uasset'
+[2022.10.29-15.44.45:454][295]AssetCheck: New page: Asset Save: LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0
+[2022.10.29-15.44.45:454][295]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0
+[2022.10.29-15.44.46:225][382]LogViewport: Scene viewport resized to 1532x902, mode Windowed.
+[2022.10.29-15.44.47:555][528]LogEditorViewport: Clicking Background
+[2022.10.29-15.44.48:278][610]LogViewport: Scene viewport resized to 1141x902, mode Windowed.
+[2022.10.29-15.44.52:347][ 30]Cmd: TRANSACTION UNDO
+[2022.10.29-15.44.52:347][ 30]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.29-15.44.52:353][ 30]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_11 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.52:354][ 30]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_9 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.52:356][ 30]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_18 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.52:356][ 30]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_10 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.52:358][ 30]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_16 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.52:377][ 30]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_8 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.53:858][115]Cmd: TRANSACTION UNDO
+[2022.10.29-15.44.53:858][115]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.29-15.44.53:874][115]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_11 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.53:877][115]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_9 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.53:879][115]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_10 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.53:917][116]LogTexture: Display: Building textures: /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.LandscapeStreamingProxy_8CI08ING6ABXT3G7C08867CRW_1_0_0_0.Heightmap_8 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.29-15.44.55:171][199]Cmd: TRANSACTION UNDO
+[2022.10.29-15.44.55:171][199]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.29-15.44.59:788][555]LogViewport: Scene viewport resized to 1532x902, mode Windowed.
+[2022.10.29-15.45.04:765][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.04:765][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.04:767][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_2
+[2022.10.29-15.45.04:769][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_2
+[2022.10.29-15.45.05:234][116]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.05:234][116]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.05:237][116]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_UAID_B42E99F74CD5884401_1708237908
+[2022.10.29-15.45.05:239][116]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_UAID_B42E99F74CD5884401_1708237908
+[2022.10.29-15.45.07:994][412]Cmd: DELETE
+[2022.10.29-15.45.07:994][412]Cmd: ACTOR DELETE
+[2022.10.29-15.45.07:996][412]LogEditorActor: Deleted Actor: OID_001_Athena_Chest_C
+[2022.10.29-15.45.08:032][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.29-15.45.08:035][412]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.10.29-15.45.09:133][540]Cmd: TRANSACTION UNDO
+[2022.10.29-15.45.09:133][540]LogEditorTransaction: Undo Delete Elements
+[2022.10.29-15.45.12:858][791]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.12:858][791]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.12:860][791]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_3
+[2022.10.29-15.45.12:862][791]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_3
+[2022.10.29-15.45.13:300][830]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.13:300][830]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.13:303][830]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_UAID_B42E99F74CD5884401_1716303909
+[2022.10.29-15.45.13:305][830]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_UAID_B42E99F74CD5884401_1716303909
+[2022.10.29-15.45.18:804][431]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.18:804][431]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.18:806][431]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_4
+[2022.10.29-15.45.18:808][431]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_4
+[2022.10.29-15.45.19:546][494]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.19:547][494]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.19:549][494]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_UAID_B42E99F74CD5884401_1722550910
+[2022.10.29-15.45.19:551][494]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_UAID_B42E99F74CD5884401_1722550910
+[2022.10.29-15.45.28:887][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.28:888][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.28:890][573]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_5
+[2022.10.29-15.45.28:892][573]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_5
+[2022.10.29-15.45.29:376][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.29:376][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest_C
+[2022.10.29-15.45.29:378][612]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_UAID_B42E99F74CD5884401_1732379911
+[2022.10.29-15.45.29:381][612]LogActorFactory: Actor Factory spawned Blueprint /Game/Athena/Items/Chest/OID_001_Athena_Chest.OID_001_Athena_Chest as actor: OID_001_Athena_Chest_C /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP:PersistentLevel.OID_001_Athena_Chest_C_UAID_B42E99F74CD5884401_1732379911
+[2022.10.29-15.45.29:468][617]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Maps/Athena_Grid_4x4_WP/C/': No such file or directory
+[2022.10.29-15.45.35:178][279]Cmd: SELECT NONE
+[2022.10.29-15.45.43:787][235]Cmd: SELECT NONE
+[2022.10.29-15.46.04:720][528]LogSlate: Window 'BR_FF_Main' being destroyed
+[2022.10.29-15.46.04:723][528]LogSlate: Window 'BR_FF_Main' being destroyed
+[2022.10.29-15.46.04:727][528]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-15.46.04:727][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-15.46.09:528][ 24]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.29-15.46.09:528][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-15.46.33:010][178]LogEditorTransaction: Undo Move Node
+[2022.10.29-15.46.40:329][849]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.29-15.46.40:429][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.29-15.46.41:590][909]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.29-15.46.41:591][909]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerController0EF7CE2F4D52ED1F548DFDBD53F28080.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.29-15.46.41:601][909]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.29-15.46.41:601][909]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.29-15.46.51:929][822]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.29-15.46.52:024][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.29-15.46.52:816][849]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.29-15.46.52:816][849]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerControllerABDC195C4CC1429B976B21A2F1463FA8.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.29-15.46.52:827][849]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.29-15.46.52:827][849]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.29-15.47.54:566][809]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.29-15.47.54:660][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.29-15.47.55:349][828]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.29-15.47.55:349][828]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerControllerF6780FC144A418A74C2225B21F6CD466.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.29-15.47.55:359][828]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.29-15.47.55:359][828]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
