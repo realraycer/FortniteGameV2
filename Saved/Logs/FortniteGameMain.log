@@ -759,3 +759,61 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.29-02.52.10:740][159]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_Default431CDD614DAC45D99EBA61B3A91982B0.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
 [2022.10.29-02.52.10:754][159]AssetCheck: New page: Asset Save: CID_001_Athena_Default
 [2022.10.29-02.52.10:754][159]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-03.01.09:984][443]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-03.01.10:390][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.29-03.01.10:792][444]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-03.01.10:793][444]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_DefaultA62A09404DA1F21F24664BACAA5419EA.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-03.01.10:809][444]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-03.01.10:809][444]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-03.02.19:987][959]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-03.02.20:159][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.29-03.02.20:780][970]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-03.02.20:781][970]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_Default9ADB942A4F1F5BE5A08F68B2C74943D3.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-03.02.20:794][970]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-03.02.20:794][970]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-03.03.28:493][432]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-03.03.28:639][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.29-03.03.29:240][442]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-03.03.29:240][442]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_DefaultBFA2592347ACFE72EC922C8EA15B5EAB.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-03.03.29:254][442]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-03.03.29:254][442]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-03.03.30:991][551]LogSlate: Window 'CID_001_Athena_Default' being destroyed
+[2022.10.29-03.03.30:995][551]LogSlate: Window 'CID_001_Athena_Default' being destroyed
+[2022.10.29-03.03.30:999][551]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-03.03.30:999][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-03.03.34:367][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Athena/Athena_GameMode.Athena_GameMode
+[2022.10.29-03.03.34:367][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-03.04.03:478][422]BlueprintLog: New page: Compile Athena_GameMode
+[2022.10.29-03.04.03:563][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.29-03.04.04:022][449]LogSavePackage: Moving output files for package: /Game/Athena/Athena_GameMode
+[2022.10.29-03.04.04:022][449]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_GameMode4113B5EE4AFD081ABA2A9C8E2460445E.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_GameMode.uasset'
+[2022.10.29-03.04.04:035][449]AssetCheck: New page: Asset Save: Athena_GameMode
+[2022.10.29-03.04.04:035][449]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_GameMode.Athena_GameMode
+[2022.10.29-03.04.40:925][911]BlueprintLog: New page: Compile Athena_GameMode
+[2022.10.29-03.04.41:009][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.29-03.04.41:463][937]LogSavePackage: Moving output files for package: /Game/Athena/Athena_GameMode
+[2022.10.29-03.04.41:464][937]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_GameMode5DF66CC6498C8DEC6CB66ABED8378B26.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_GameMode.uasset'
+[2022.10.29-03.04.41:475][937]AssetCheck: New page: Asset Save: Athena_GameMode
+[2022.10.29-03.04.41:475][937]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_GameMode.Athena_GameMode
+[2022.10.29-03.05.01:308][  9]BlueprintLog: New page: Compile Athena_GameMode
+[2022.10.29-03.05.01:392][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.29-03.05.01:817][ 32]LogSavePackage: Moving output files for package: /Game/Athena/Athena_GameMode
+[2022.10.29-03.05.01:818][ 32]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_GameModeF5483F744E43B1555815D18CCE57F039.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_GameMode.uasset'
+[2022.10.29-03.05.01:829][ 32]AssetCheck: New page: Asset Save: Athena_GameMode
+[2022.10.29-03.05.01:829][ 32]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_GameMode.Athena_GameMode
+[2022.10.29-03.05.06:898][427]BlueprintLog: New page: Compile Athena_GameMode
+[2022.10.29-03.05.06:980][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.29-03.05.07:399][450]LogSavePackage: Moving output files for package: /Game/Athena/Athena_GameMode
+[2022.10.29-03.05.07:400][450]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_GameModeBF88604B4A09672C57C41788F9FB1548.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_GameMode.uasset'
+[2022.10.29-03.05.07:411][450]AssetCheck: New page: Asset Save: Athena_GameMode
+[2022.10.29-03.05.07:411][450]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_GameMode.Athena_GameMode
+[2022.10.29-03.05.11:362][802]BlueprintLog: New page: Compile Athena_GameMode
+[2022.10.29-03.05.11:446][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.29-03.05.11:847][824]LogSavePackage: Moving output files for package: /Game/Athena/Athena_GameMode
+[2022.10.29-03.05.11:847][824]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_GameMode9104B38143A237E1D6680FB8E7D0AC73.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_GameMode.uasset'
+[2022.10.29-03.05.11:859][824]AssetCheck: New page: Asset Save: Athena_GameMode
+[2022.10.29-03.05.11:859][824]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_GameMode.Athena_GameMode
+[2022.10.29-03.05.12:147][846]LogSlate: Window 'Athena_GameMode' being destroyed
+[2022.10.29-03.05.12:151][846]LogSlate: Window 'Athena_GameMode' being destroyed
+[2022.10.29-03.05.12:154][846]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-03.05.12:154][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
