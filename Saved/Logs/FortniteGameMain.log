@@ -13395,3 +13395,1219 @@ Script Stack (0 frames):
 [2022.10.29-20.25.53:509][990]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2022.10.29-20.25.53:509][990]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2022.10.29-20.25.53:510][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.35.56:366][865]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:04.418 and deleted 154 file(s) with total size 30 MiB.
+[2022.10.29-20.40.09:160][876]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-20.40.09:160][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.40.16:076][297]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-20.40.16:312][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.29-20.40.16:814][312]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-20.40.16:815][312]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_Default23613DE24BFF3EE4E92C6E9E93FD0E07.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-20.40.16:824][312]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-20.40.16:824][312]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-20.40.20:410][551]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-20.40.20:647][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.29-20.40.21:157][568]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-20.40.21:157][568]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_Default3B3B1E8F42A0CCCD9ADC2FB4992D2113.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-20.40.21:167][568]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-20.40.21:167][568]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-20.40.21:522][593]LogSlate: Window 'CID_001_Athena_Default' being destroyed
+[2022.10.29-20.40.21:524][593]LogSlate: Window 'CID_001_Athena_Default' being destroyed
+[2022.10.29-20.40.21:528][593]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.40.21:528][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.40.22:291][660]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.29-20.40.22:298][660]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-20.40.22:298][660]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-20.40.22:298][660]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-20.40.22:298][660]LogWorldPartition: Display: ValidateSingleActorReferer took 2 us
+[2022.10.29-20.40.22:298][660]LogWorldPartition: Display: GetPartitionedActors took 57 us
+[2022.10.29-20.40.22:298][660]LogWorldPartition: Display: GenerateStreaming took 333 us
+[2022.10.29-20.40.22:298][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-20.40.22:298][660]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 29, 2022, 12:40:22 PM)
+[2022.10.29-20.40.22:298][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.40.22:305][660]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.40.22:305][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006431s)
+[2022.10.29-20.40.22:305][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.006500s)
+[2022.10.29-20.40.22:305][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.40.22:305][660]LogAIModule: Creating AISystem for world Athena_Grid_4x4_WP
+[2022.10.29-20.40.22:306][660]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.40.22:306][660]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.40.22:307][660]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.29-20.40.22:307][660]LogPlayLevel: PIE: World Init took: (0.002299s)
+[2022.10.29-20.40.22:335][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.29-20.40.22:347][660]LogLoad: Game class is 'Athena_GameMode_C'
+[2022.10.29-20.40.22:348][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.29-16.40.22
+[2022.10.29-20.40.22:349][660]LogWorld: Bringing up level for play took: 0.001097
+[2022.10.29-20.40.22:349][660]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.29-20.40.22:349][660]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.29-20.40.22:349][660]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.29-20.40.22:349][660]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.29-20.40.22:349][660]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.40.22:349][660]LogNet: GameNetDriver IpNetDriver_117 IpNetDriver listening on port 17777
+[2022.10.29-20.40.22:349][660]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.29-20.40.22:349][660]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.29-20.40.22:349][660]PIE: Server logged in
+[2022.10.29-20.40.22:350][660]PIE: Play in editor total start time 0.052 seconds.
+[2022.10.29-20.40.22:350][660]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.29-20.40.22:350][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.40.22:350][660]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2022.10.29-20.40.22:350][660]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2022.10.29-20.40.22:350][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.40.22:350][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.40.22:350][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.40.22:351][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.40.22:351][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.40.22:351][660]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.40.22:351][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.40.22:351][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.40.22:351][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.40.22:351][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.40.22:351][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.40.22:353][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.40.22:380][660]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.29-20.40.22:380][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.40.22:380][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.40.22:380][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.40.22:381][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2022.10.29-20.40.22:381][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2022.10.29-20.40.22:382][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2022.10.29-20.40.22:382][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2022.10.29-20.40.22:382][660]LogInit: FAudioDevice initialized.
+[2022.10.29-20.40.22:382][660]LogAudio: Display: Audio Device (ID: 80) registered with world 'Untitled'.
+[2022.10.29-20.40.22:401][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.40.22:401][660]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.29-20.40.22:402][660]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.29-20.40.22:402][660]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.29-20.40.22:402][660]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.40.22:402][660]LogNet: Game client on port 17777, rate 100000
+[2022.10.29-20.40.22:404][660]PIE: Client logged in
+[2022.10.29-20.40.22:406][660]PIE: Play in editor total start time 0.109 seconds.
+[2022.10.29-20.40.22:406][660]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.29-20.40.22:406][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.40.22:407][660]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2022.10.29-20.40.22:407][660]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2022.10.29-20.40.22:407][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.40.22:407][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.40.22:407][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.40.22:407][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.40.22:407][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.40.22:407][660]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.40.22:407][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.40.22:407][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.40.22:408][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.40.22:408][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.40.22:408][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.40.22:409][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.40.22:432][660]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.29-20.40.22:432][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.40.22:432][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.40.22:432][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.40.22:433][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2022.10.29-20.40.22:433][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2022.10.29-20.40.22:435][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2022.10.29-20.40.22:435][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2022.10.29-20.40.22:435][660]LogInit: FAudioDevice initialized.
+[2022.10.29-20.40.22:435][660]LogAudio: Display: Audio Device (ID: 81) registered with world 'Untitled'.
+[2022.10.29-20.40.22:457][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.40.22:457][660]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.29-20.40.22:458][660]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.29-20.40.22:458][660]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.29-20.40.22:458][660]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.40.22:458][660]LogNet: Game client on port 17777, rate 100000
+[2022.10.29-20.40.22:460][660]PIE: Client logged in
+[2022.10.29-20.40.22:461][660]PIE: Play in editor total start time 0.164 seconds.
+[2022.10.29-20.40.22:461][660]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(7), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.40.22:463][660]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2022.10.29-20.40.22:485][660]LogViewport: Scene viewport resized to 722x629, mode Windowed.
+[2022.10.29-20.40.22:500][660]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.10.29-20.40.23:418][767]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60314
+[2022.10.29-20.40.23:418][767]LogHandshake: SendConnectChallenge. Timestamp: 1.134968, Cookie: 008233090230178151218026110033049102231116021166086168050000
+[2022.10.29-20.40.23:418][767]LogHandshake: SendChallengeResponse. Timestamp: 1.134968, Cookie: 008233090230178151218026110033049102231116021166086168050000
+[2022.10.29-20.40.23:426][768]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60314
+[2022.10.29-20.40.23:426][768]LogHandshake: SendChallengeAck. InCookie: 008233090230178151218026110033049102231116021166086168050000
+[2022.10.29-20.40.23:426][768]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60314
+[2022.10.29-20.40.23:427][768]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.40.23:427][768]LogNet: NotifyAcceptedConnection: Name: Athena_Grid_4x4_WP, TimeStamp: 10/29/22 16:40:23, [UNetConnection] RemoteAddr: 127.0.0.1:60314, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.40.23:427][768]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60314, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.40.23:427][768]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_156, Driver: PendingNetDriver IpNetDriver_118, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.40.23:435][769]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP: Accepted
+[2022.10.29-20.40.23:435][769]LogNet: Remote platform little endian=1
+[2022.10.29-20.40.23:435][769]LogNet: This platform little endian=1
+[2022.10.29-20.40.23:436][769]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2022.10.29-20.40.23:443][770]LogNet: Login request: ?Name=DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1 userId: NULL:DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1 platform: NULL
+[2022.10.29-20.40.23:443][770]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.29-20.40.23:443][770]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.29-20.40.23:443][770]LogWorld: BeginTearingDown for /Temp/Untitled_525
+[2022.10.29-20.40.23:444][770]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.40.23:444][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.40.23:466][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-20.40.23:468][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.29-20.40.23:476][770]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.40.23:476][770]LogAudio: Display: Audio Device (ID: 80) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.29-20.40.23:476][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.40.23:477][770]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.40.23:477][770]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.40.23:478][770]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.29-20.40.23:478][770]LogPlayLevel: PIE: World Init took: (0.002223s)
+[2022.10.29-20.40.23:479][770]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.29-16.40.23
+[2022.10.29-20.40.23:479][770]LogWorld: Bringing up level for play took: 0.000800
+[2022.10.29-20.40.23:480][770]LogLoad: Took 0.036026 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.29-20.40.23:480][770]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.40.23:480][770]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.40.23:480][770]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.40.23:490][771]LogNet: Client netspeed is 100000
+[2022.10.29-20.40.23:490][771]LogNet: Join request: /Game/Maps/Athena_Grid_4x4_WP?Name=DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1?SplitscreenCount=1
+[2022.10.29-20.40.23:491][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CursorPickaxe". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:491][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HealthBar". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:491][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot1 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:491][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot2 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:491][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot3 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:491][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot4 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:491][771]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.40.23:492][771]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.29-20.40.23:494][771]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 10 AsyncPackages
+[2022.10.29-20.40.23:500][771]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.29-20.40.23:500][771]LogNet: Join succeeded: DESKTOP-EKA57D5-00A1
+[2022.10.29-20.40.23:500][771]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60315
+[2022.10.29-20.40.23:500][771]LogHandshake: SendConnectChallenge. Timestamp: 1.202131, Cookie: 234241228022065028031027066106161255081188151014226018091059
+[2022.10.29-20.40.23:501][771]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.29-20.40.23:502][771]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.40.23:502][771]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.40.23:502][771]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=90.000000 R=0.000000
+[2022.10.29-20.40.23:503][771]LogHandshake: SendChallengeResponse. Timestamp: 1.202131, Cookie: 234241228022065028031027066106161255081188151014226018091059
+[2022.10.29-20.40.23:567][772]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60315
+[2022.10.29-20.40.23:567][772]LogHandshake: SendChallengeAck. InCookie: 234241228022065028031027066106161255081188151014226018091059
+[2022.10.29-20.40.23:567][772]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60315
+[2022.10.29-20.40.23:568][772]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.40.23:568][772]LogNet: NotifyAcceptedConnection: Name: Athena_Grid_4x4_WP, TimeStamp: 10/29/22 16:40:23, [UNetConnection] RemoteAddr: 127.0.0.1:60315, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.40.23:568][772]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60315, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.40.23:570][772]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_157, Driver: PendingNetDriver IpNetDriver_119, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.40.23:587][773]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP: Accepted
+[2022.10.29-20.40.23:587][773]LogNet: Remote platform little endian=1
+[2022.10.29-20.40.23:587][773]LogNet: This platform little endian=1
+[2022.10.29-20.40.23:597][773]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.40.23:600][773]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2022.10.29-20.40.23:605][774]LogNet: Login request: ?Name=DESKTOP-EKA57D5-7C03384640B95BF7D93556AC307E06AA userId: NULL:DESKTOP-EKA57D5-7C03384640B95BF7D93556AC307E06AA platform: NULL
+[2022.10.29-20.40.23:606][774]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=34800.000 Y=23899.000 Z=290.200
+[2022.10.29-20.40.23:606][774]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.29-20.40.23:607][774]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.29-20.40.23:607][774]LogWorld: BeginTearingDown for /Temp/Untitled_526
+[2022.10.29-20.40.23:607][774]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.40.23:607][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.40.23:633][774]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-20.40.23:635][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.29-20.40.23:643][774]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.40.23:643][774]LogAudio: Display: Audio Device (ID: 81) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.29-20.40.23:643][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.40.23:643][774]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.40.23:644][774]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.40.23:645][774]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.29-20.40.23:645][774]LogPlayLevel: PIE: World Init took: (0.002432s)
+[2022.10.29-20.40.23:646][774]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.29-16.40.23
+[2022.10.29-20.40.23:646][774]LogWorld: Bringing up level for play took: 0.000873
+[2022.10.29-20.40.23:647][774]LogLoad: Took 0.039877 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.29-20.40.23:647][774]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.40.23:647][774]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.40.23:647][774]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.40.23:663][775]LogNet: Client netspeed is 100000
+[2022.10.29-20.40.23:663][775]LogNet: Join request: /Game/Maps/Athena_Grid_4x4_WP?Name=DESKTOP-EKA57D5-7C03384640B95BF7D93556AC307E06AA?SplitscreenCount=1
+[2022.10.29-20.40.23:663][775]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.29-20.40.23:664][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CursorPickaxe". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:664][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HealthBar". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:664][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot1 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:664][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot2 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:664][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot3 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:664][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot4 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.40.23:664][775]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.40.23:667][775]LogNet: Join succeeded: DESKTOP-EKA57D5-7C03
+[2022.10.29-20.40.23:670][775]LogNet: Warning: UActorChannel::ProcessBunch: SerializeNewActor failed to find/spawn actor. Actor: None, Channel: 13
+[2022.10.29-20.40.23:671][775]LogNet: Warning: UActorChannel::ProcessBunch: SerializeNewActor failed to find/spawn actor. Actor: None, Channel: 15
+[2022.10.29-20.40.23:671][775]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.40.23:673][775]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.29-20.40.23:674][775]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.40.23:674][775]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.40.23:674][775]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=90.000000 R=0.000000
+[2022.10.29-20.40.23:867][776]LogNet: Server connection received: ActorChannelFailure [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60314, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1
+[2022.10.29-20.40.23:867][776]LogNet: Server connection received: ActorChannelFailure [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60314, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1
+[2022.10.29-20.40.23:869][776]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.40.23:870][776]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.40.23:870][776]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=90.000000 R=0.000000
+[2022.10.29-20.40.24:055][777]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 2 AsyncPackages
+[2022.10.29-20.40.24:060][777]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.40.24:072][778]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=31245.000 Y=27997.000 Z=366.700
+[2022.10.29-20.40.24:504][801]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.40.28:892][ 50]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=33089.014 Y=24614.359 Z=363.798 on base None
+[2022.10.29-20.40.30:137][120]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=32679.769 Y=25053.400 Z=382.242 on base Mesh
+[2022.10.29-20.40.30:741][154]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=32643.983 Y=25354.477 Z=368.440 on base Mesh
+[2022.10.29-20.40.31:348][188]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=32614.354 Y=25655.338 Z=376.141 on base None
+[2022.10.29-20.40.32:517][253]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=32520.131 Y=26103.543 Z=379.191 on base Mesh
+[2022.10.29-20.40.34:711][374]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=31825.741 Y=26584.229 Z=367.754 on base Mesh
+[2022.10.29-20.40.36:642][480]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: true
+[2022.10.29-20.40.36:643][480]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: true
+[2022.10.29-20.40.36:659][481]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: true
+[2022.10.29-20.40.36:915][495]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.40.36:915][495]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.40.37:665][536]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.40.37:665][536]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.40.38:393][575]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: false
+[2022.10.29-20.40.38:393][575]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: false
+[2022.10.29-20.40.38:410][576]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: false
+[2022.10.29-20.40.38:411][576]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.40.39:169][618]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.40.41:232][730]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.40.41:232][730]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.29-20.40.41:232][730]LogScript: Warning: Accessed None trying to read property Tooltip
+	BH_InventoryItems_C /Engine/Transient.UnrealEdEngine_0:GameInstance_118.BH_InventoryMenu_C_0.WidgetTree.BH_InventoryItems
+	Function /Game/UI/BaseHUD/BH_InventoryItems.BH_InventoryItems_C:ExecuteUbergraph_BH_InventoryItems:01F0
+[2022.10.29-20.40.41:232][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.40.41:626][751]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.40.41:626][751]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.40.42:708][810]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: true
+[2022.10.29-20.40.42:709][810]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: true
+[2022.10.29-20.40.42:724][811]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: true
+[2022.10.29-20.40.43:336][845]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.40.43:337][845]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.40.44:075][886]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.40.44:075][886]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.40.44:652][917]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: false
+[2022.10.29-20.40.44:669][918]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: false
+[2022.10.29-20.40.44:670][918]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: false
+[2022.10.29-20.40.44:854][928]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.40.45:109][942]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.40.45:826][981]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.40.46:148][999]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.40.46:148][999]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.40.46:148][999]LogScript: Warning: Accessed None trying to read property Tooltip
+	BH_InventoryItems_C /Engine/Transient.UnrealEdEngine_0:GameInstance_118.BH_InventoryMenu_C_1.WidgetTree.BH_InventoryItems
+	Function /Game/UI/BaseHUD/BH_InventoryItems.BH_InventoryItems_C:ExecuteUbergraph_BH_InventoryItems:01F0
+[2022.10.29-20.40.46:148][999]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.40.46:974][ 45]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.40.46:974][ 45]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.40.47:538][ 76]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: true
+[2022.10.29-20.40.47:539][ 76]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: true
+[2022.10.29-20.40.47:555][ 77]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: true
+[2022.10.29-20.40.47:755][ 88]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.40.47:755][ 88]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.40.48:237][114]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.40.48:237][114]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.40.48:607][134]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.40.49:316][173]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.40.49:316][173]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.40.49:935][206]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.40.49:935][206]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.40.49:935][206]LogScript: Warning: Accessed None trying to read property Tooltip
+	BH_InventoryItems_C /Engine/Transient.UnrealEdEngine_0:GameInstance_118.BH_InventoryMenu_C_2.WidgetTree.BH_InventoryItems
+	Function /Game/UI/BaseHUD/BH_InventoryItems.BH_InventoryItems_C:ExecuteUbergraph_BH_InventoryItems:01F0
+[2022.10.29-20.40.49:935][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.40.50:188][220]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.40.50:188][220]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.40.50:672][246]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: false
+[2022.10.29-20.40.50:728][249]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: true
+[2022.10.29-20.40.50:801][253]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.40.51:110][270]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.40.51:402][286]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.40.51:402][286]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.40.51:669][300]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: false
+[2022.10.29-20.40.51:688][301]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: false
+[2022.10.29-20.40.51:766][305]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: false
+[2022.10.29-20.40.52:683][355]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.40.53:191][383]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.40.53:719][412]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.40.53:719][412]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.40.53:719][412]LogScript: Warning: Accessed None trying to read property Tooltip
+	BH_InventoryItems_C /Engine/Transient.UnrealEdEngine_0:GameInstance_118.BH_InventoryMenu_C_3.WidgetTree.BH_InventoryItems
+	Function /Game/UI/BaseHUD/BH_InventoryItems.BH_InventoryItems_C:ExecuteUbergraph_BH_InventoryItems:01F0
+[2022.10.29-20.40.53:719][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.40.55:017][484]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.40.55:885][532]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.40.56:552][569]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.40.58:465][675]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.40.59:869][753]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.00:841][807]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.02:082][876]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.03:359][947]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.04:369][  3]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.05:098][ 43]LogViewport: Scene viewport resized to 1920x1006, mode Windowed.
+[2022.10.29-20.41.06:003][ 83]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.07:038][135]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.07:802][173]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.08:462][206]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.12:229][394]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.41.12:229][394]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.41.12:859][424]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.41.13:377][450]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.13:537][458]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.13:718][467]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.13:818][472]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.13:937][478]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.14:056][484]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.14:176][490]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.14:297][496]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.14:417][502]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.14:557][509]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.14:763][519]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.41.15:072][534]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.41.15:072][534]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.41.15:072][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.41.17:136][636]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.41.17:136][636]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.41.17:261][642]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.41.17:963][676]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.41.18:184][687]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.41.18:746][715]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.41.19:883][771]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.41.19:883][771]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.41.19:883][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.41.20:413][797]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.20:816][817]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.21:945][872]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.22:293][889]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.22:313][890]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=31089.013 Y=26629.858 Z=443.015 -> New Position: X=76.165 Y=83.742 Z=20246.935
+[2022.10.29-20.41.22:313][890]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=31245.000 Y=27997.000 Z=366.700 -> New Position: X=-40.000 Y=-180.000 Z=20099.799
+[2022.10.29-20.41.22:873][922]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.23:524][962]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.23:910][985]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.24:344][ 11]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.25:293][ 67]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.26:189][120]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.41.26:189][120]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.41.40:861][874]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.41.40:862][874]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.41.40:862][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.41.41:477][903]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.41.41:477][903]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.41.41:771][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.41.41:771][915]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_Athena_Grid_4x4_WP
+[2022.10.29-20.41.41:773][915]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 2]  (64-bit/SM5)' being destroyed
+[2022.10.29-20.41.41:775][915]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.41.41:776][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.41.41:784][915]LogNet: World NetDriver shutdown IpNetDriver_119 [GameNetDriver]
+[2022.10.29-20.41.41:784][915]LogNet: DestroyNamedNetDriver IpNetDriver_119 [GameNetDriver]
+[2022.10.29-20.41.41:784][915]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_157, Driver: GameNetDriver IpNetDriver_119, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-7C03384640B95BF7D93556AC307E06AA, Channels: 37, Time: 2022.10.29-20.41.41
+[2022.10.29-20.41.41:784][915]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_157, Driver: GameNetDriver IpNetDriver_119, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-7C03384640B95BF7D93556AC307E06AA
+[2022.10.29-20.41.41:784][915]LogExit: GameNetDriver IpNetDriver_119 shut down
+[2022.10.29-20.41.41:785][915]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Athena_Grid_4x4_WP
+[2022.10.29-20.41.41:785][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.41.41:785][915]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 1]  (64-bit/SM5)' being destroyed
+[2022.10.29-20.41.41:789][915]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.41.41:790][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.41.41:795][915]LogNet: World NetDriver shutdown IpNetDriver_118 [GameNetDriver]
+[2022.10.29-20.41.41:795][915]LogNet: DestroyNamedNetDriver IpNetDriver_118 [GameNetDriver]
+[2022.10.29-20.41.41:795][915]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_156, Driver: GameNetDriver IpNetDriver_118, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1, Channels: 37, Time: 2022.10.29-20.41.41
+[2022.10.29-20.41.41:796][915]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_156, Driver: GameNetDriver IpNetDriver_118, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1
+[2022.10.29-20.41.41:796][915]LogExit: GameNetDriver IpNetDriver_118 shut down
+[2022.10.29-20.41.41:797][915]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.41.41:798][915]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.41.41:798][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.41.41:799][915]LogNet: World NetDriver shutdown IpNetDriver_117 [GameNetDriver]
+[2022.10.29-20.41.41:799][915]LogNet: DestroyNamedNetDriver IpNetDriver_117 [GameNetDriver]
+[2022.10.29-20.41.41:799][915]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:60315, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: Athena_PlayerController_C_1, Owner: Athena_PlayerController_C_1, UniqueId: NULL:DESKTOP-EKA57D5-7C03384640B95BF7D93556AC307E06AA
+[2022.10.29-20.41.41:799][915]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60315, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: Athena_PlayerController_C_1, Owner: Athena_PlayerController_C_1, UniqueId: NULL:DESKTOP-EKA57D5-7C03384640B95BF7D93556AC307E06AA, Channels: 37, Time: 2022.10.29-20.41.41
+[2022.10.29-20.41.41:799][915]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.29-20.41.41:799][915]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.29-20.41.41:799][915]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60315, Name: IpConnection_159, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: Athena_PlayerController_C_1, Owner: Athena_PlayerController_C_1, UniqueId: NULL:DESKTOP-EKA57D5-7C03384640B95BF7D93556AC307E06AA
+[2022.10.29-20.41.41:799][915]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:60314, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1
+[2022.10.29-20.41.41:799][915]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60314, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1, Channels: 37, Time: 2022.10.29-20.41.41
+[2022.10.29-20.41.41:799][915]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.29-20.41.41:799][915]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.29-20.41.41:799][915]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60314, Name: IpConnection_158, Driver: GameNetDriver IpNetDriver_117, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-00A183EE4C65C62533F3EF8AC4E923C1
+[2022.10.29-20.41.41:799][915]LogExit: GameNetDriver IpNetDriver_117 shut down
+[2022.10.29-20.41.41:801][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-20.41.41:808][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.41.41:843][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2022.10.29-20.41.41:844][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2022.10.29-20.41.41:847][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2022.10.29-20.41.41:849][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2022.10.29-20.41.41:861][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.29-20.41.41:913][916]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2022.10.29-20.41.41:913][916]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2022.10.29-20.41.41:913][916]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2022.10.29-20.41.44:069][ 97]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.29-20.41.44:076][ 97]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-20.41.44:076][ 97]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-20.41.44:076][ 97]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-20.41.44:076][ 97]LogWorldPartition: Display: ValidateSingleActorReferer took 2 us
+[2022.10.29-20.41.44:076][ 97]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2022.10.29-20.41.44:076][ 97]LogWorldPartition: Display: GenerateStreaming took 332 us
+[2022.10.29-20.41.44:076][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-20.41.44:076][ 97]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 29, 2022, 12:41:44 PM)
+[2022.10.29-20.41.44:076][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.41.44:083][ 97]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.41.44:083][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006412s)
+[2022.10.29-20.41.44:083][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.006476s)
+[2022.10.29-20.41.44:083][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.41.44:083][ 97]LogAIModule: Creating AISystem for world Athena_Grid_4x4_WP
+[2022.10.29-20.41.44:083][ 97]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.41.44:083][ 97]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.41.44:085][ 97]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.29-20.41.44:085][ 97]LogPlayLevel: PIE: World Init took: (0.002296s)
+[2022.10.29-20.41.44:109][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.29-20.41.44:110][ 97]LogLoad: Game class is 'Athena_GameMode_C'
+[2022.10.29-20.41.44:111][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.29-16.41.44
+[2022.10.29-20.41.44:111][ 97]LogWorld: Bringing up level for play took: 0.001023
+[2022.10.29-20.41.44:111][ 97]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.29-20.41.44:112][ 97]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.29-20.41.44:112][ 97]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.29-20.41.44:112][ 97]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.29-20.41.44:112][ 97]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.41.44:112][ 97]LogNet: GameNetDriver IpNetDriver_120 IpNetDriver listening on port 17777
+[2022.10.29-20.41.44:112][ 97]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.29-20.41.44:112][ 97]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.29-20.41.44:112][ 97]PIE: Server logged in
+[2022.10.29-20.41.44:112][ 97]PIE: Play in editor total start time 0.037 seconds.
+[2022.10.29-20.41.44:112][ 97]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.29-20.41.44:112][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.41.44:113][ 97]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2022.10.29-20.41.44:113][ 97]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2022.10.29-20.41.44:113][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.41.44:113][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.41.44:113][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.41.44:113][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.41.44:113][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.41.44:113][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.41.44:113][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.41.44:113][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.41.44:113][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.41.44:113][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.41.44:113][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.41.44:115][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.41.44:141][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.29-20.41.44:141][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.41.44:141][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.41.44:141][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.41.44:142][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2022.10.29-20.41.44:142][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2022.10.29-20.41.44:143][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2022.10.29-20.41.44:143][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2022.10.29-20.41.44:143][ 97]LogInit: FAudioDevice initialized.
+[2022.10.29-20.41.44:143][ 97]LogAudio: Display: Audio Device (ID: 82) registered with world 'Untitled'.
+[2022.10.29-20.41.44:162][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.41.44:162][ 97]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.29-20.41.44:163][ 97]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.29-20.41.44:163][ 97]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.29-20.41.44:163][ 97]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.41.44:163][ 97]LogNet: Game client on port 17777, rate 100000
+[2022.10.29-20.41.44:165][ 97]PIE: Client logged in
+[2022.10.29-20.41.44:167][ 97]PIE: Play in editor total start time 0.092 seconds.
+[2022.10.29-20.41.44:167][ 97]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.29-20.41.44:167][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.41.44:168][ 97]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2022.10.29-20.41.44:168][ 97]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.10.29-20.41.44:168][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.41.44:168][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.41.44:168][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.41.44:168][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.41.44:168][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.41.44:168][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.41.44:168][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.41.44:168][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.41.44:169][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.41.44:169][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.41.44:169][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.41.44:170][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.41.44:194][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.29-20.41.44:194][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.41.44:194][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.41.44:194][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.41.44:195][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2022.10.29-20.41.44:195][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2022.10.29-20.41.44:196][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2022.10.29-20.41.44:196][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2022.10.29-20.41.44:196][ 97]LogInit: FAudioDevice initialized.
+[2022.10.29-20.41.44:196][ 97]LogAudio: Display: Audio Device (ID: 83) registered with world 'Untitled'.
+[2022.10.29-20.41.44:218][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.41.44:219][ 97]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.29-20.41.44:219][ 97]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.29-20.41.44:219][ 97]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.29-20.41.44:219][ 97]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.41.44:219][ 97]LogNet: Game client on port 17777, rate 100000
+[2022.10.29-20.41.44:222][ 97]PIE: Client logged in
+[2022.10.29-20.41.44:223][ 97]PIE: Play in editor total start time 0.149 seconds.
+[2022.10.29-20.41.44:224][ 97]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(7), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.41.44:226][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2022.10.29-20.41.44:249][ 97]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.10.29-20.41.44:261][ 97]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.10.29-20.41.45:177][204]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56400
+[2022.10.29-20.41.45:177][204]LogHandshake: SendConnectChallenge. Timestamp: 1.116595, Cookie: 120170251023138071126052068072157046056252248162053039234177
+[2022.10.29-20.41.45:177][204]LogHandshake: SendChallengeResponse. Timestamp: 1.116595, Cookie: 120170251023138071126052068072157046056252248162053039234177
+[2022.10.29-20.41.45:185][205]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56400
+[2022.10.29-20.41.45:185][205]LogHandshake: SendChallengeAck. InCookie: 120170251023138071126052068072157046056252248162053039234177
+[2022.10.29-20.41.45:186][205]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56400
+[2022.10.29-20.41.45:186][205]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.41.45:186][205]LogNet: NotifyAcceptedConnection: Name: Athena_Grid_4x4_WP, TimeStamp: 10/29/22 16:41:45, [UNetConnection] RemoteAddr: 127.0.0.1:56400, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.41.45:186][205]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56400, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.41.45:186][205]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_160, Driver: PendingNetDriver IpNetDriver_121, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.41.45:194][206]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP: Accepted
+[2022.10.29-20.41.45:194][206]LogNet: Remote platform little endian=1
+[2022.10.29-20.41.45:194][206]LogNet: This platform little endian=1
+[2022.10.29-20.41.45:196][206]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2022.10.29-20.41.45:202][207]LogNet: Login request: ?Name=DESKTOP-EKA57D5-A982EE03443718EF1DF10CA064C349F1 userId: NULL:DESKTOP-EKA57D5-A982EE03443718EF1DF10CA064C349F1 platform: NULL
+[2022.10.29-20.41.45:203][207]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.29-20.41.45:203][207]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.29-20.41.45:203][207]LogWorld: BeginTearingDown for /Temp/Untitled_561
+[2022.10.29-20.41.45:203][207]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.41.45:203][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.41.45:226][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-20.41.45:227][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.29-20.41.45:235][207]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.41.45:235][207]LogAudio: Display: Audio Device (ID: 82) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.29-20.41.45:235][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.41.45:236][207]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.41.45:236][207]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.41.45:237][207]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.29-20.41.45:237][207]LogPlayLevel: PIE: World Init took: (0.002204s)
+[2022.10.29-20.41.45:238][207]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.29-16.41.45
+[2022.10.29-20.41.45:238][207]LogWorld: Bringing up level for play took: 0.000808
+[2022.10.29-20.41.45:239][207]LogLoad: Took 0.035799 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.29-20.41.45:239][207]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.41.45:239][207]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.41.45:239][207]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.41.45:249][208]LogNet: Client netspeed is 100000
+[2022.10.29-20.41.45:249][208]LogNet: Join request: /Game/Maps/Athena_Grid_4x4_WP?Name=DESKTOP-EKA57D5-A982EE03443718EF1DF10CA064C349F1?SplitscreenCount=1
+[2022.10.29-20.41.45:250][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CursorPickaxe". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:250][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HealthBar". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:250][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot1 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:250][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot2 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:250][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot3 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:250][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot4 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:250][208]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.41.45:251][208]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.29-20.41.45:253][208]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 10 AsyncPackages
+[2022.10.29-20.41.45:259][208]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.29-20.41.45:259][208]LogNet: Join succeeded: DESKTOP-EKA57D5-A982
+[2022.10.29-20.41.45:259][208]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56401
+[2022.10.29-20.41.45:259][208]LogHandshake: SendConnectChallenge. Timestamp: 1.183587, Cookie: 255125240233150186214205075224037088110243076114198092142012
+[2022.10.29-20.41.45:260][208]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.29-20.41.45:261][208]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.41.45:261][208]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.41.45:261][208]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=90.000000 R=0.000000
+[2022.10.29-20.41.45:262][208]LogHandshake: SendChallengeResponse. Timestamp: 1.183587, Cookie: 255125240233150186214205075224037088110243076114198092142012
+[2022.10.29-20.41.45:330][209]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56401
+[2022.10.29-20.41.45:330][209]LogHandshake: SendChallengeAck. InCookie: 255125240233150186214205075224037088110243076114198092142012
+[2022.10.29-20.41.45:330][209]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56401
+[2022.10.29-20.41.45:330][209]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.41.45:331][209]LogNet: NotifyAcceptedConnection: Name: Athena_Grid_4x4_WP, TimeStamp: 10/29/22 16:41:45, [UNetConnection] RemoteAddr: 127.0.0.1:56401, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.41.45:331][209]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56401, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.41.45:332][209]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_161, Driver: PendingNetDriver IpNetDriver_122, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.41.45:350][210]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP: Accepted
+[2022.10.29-20.41.45:350][210]LogNet: Remote platform little endian=1
+[2022.10.29-20.41.45:350][210]LogNet: This platform little endian=1
+[2022.10.29-20.41.45:361][210]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.41.45:364][210]LogOnline: OSS: Created online subsystem instance for: :Context_132
+[2022.10.29-20.41.45:370][211]LogNet: Login request: ?Name=DESKTOP-EKA57D5-502EB6B94A7C004F180D0EA9941743B0 userId: NULL:DESKTOP-EKA57D5-502EB6B94A7C004F180D0EA9941743B0 platform: NULL
+[2022.10.29-20.41.45:372][211]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=25057.000 Y=28380.000 Z=433.900
+[2022.10.29-20.41.45:372][211]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.29-20.41.45:372][211]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.29-20.41.45:372][211]LogWorld: BeginTearingDown for /Temp/Untitled_562
+[2022.10.29-20.41.45:372][211]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.41.45:373][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.41.45:398][211]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-20.41.45:400][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.29-20.41.45:409][211]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.41.45:409][211]LogAudio: Display: Audio Device (ID: 83) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.29-20.41.45:409][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.41.45:410][211]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.41.45:410][211]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.41.45:412][211]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.29-20.41.45:412][211]LogPlayLevel: PIE: World Init took: (0.002552s)
+[2022.10.29-20.41.45:413][211]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.29-16.41.45
+[2022.10.29-20.41.45:413][211]LogWorld: Bringing up level for play took: 0.000981
+[2022.10.29-20.41.45:413][211]LogLoad: Took 0.040673 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.29-20.41.45:413][211]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.41.45:413][211]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.41.45:413][211]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.41.45:426][212]LogNet: Client netspeed is 100000
+[2022.10.29-20.41.45:426][212]LogNet: Join request: /Game/Maps/Athena_Grid_4x4_WP?Name=DESKTOP-EKA57D5-502EB6B94A7C004F180D0EA9941743B0?SplitscreenCount=1
+[2022.10.29-20.41.45:426][212]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.29-20.41.45:426][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CursorPickaxe". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:426][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HealthBar". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:427][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot1 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:427][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot2 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:427][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot3 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:427][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_4". Node:  Set InventorySlot4 Graph:  EventGraph Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.41.45:427][212]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.41.45:429][212]LogNet: Join succeeded: DESKTOP-EKA57D5-502E
+[2022.10.29-20.41.45:430][212]LogNet: Warning: UActorChannel::ProcessBunch: SerializeNewActor failed to find/spawn actor. Actor: None, Channel: 14
+[2022.10.29-20.41.45:430][212]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.41.45:432][212]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.29-20.41.45:434][212]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.41.45:434][212]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.41.45:434][212]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=90.000000 R=0.000000
+[2022.10.29-20.41.45:695][213]LogNet: Server connection received: ActorChannelFailure [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56400, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-A982EE03443718EF1DF10CA064C349F1
+[2022.10.29-20.41.45:696][213]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.41.45:697][213]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.41.45:697][213]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=90.000000 R=0.000000
+[2022.10.29-20.41.45:874][214]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 1 AsyncPackages
+[2022.10.29-20.41.45:875][214]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.41.45:876][214]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.41.45:885][215]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=34800.000 Y=28700.000 Z=290.200
+[2022.10.29-20.41.46:999][273]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=25436.886 Y=28494.478 Z=333.900 on base LandscapeHeightfieldCollisionComponent_2
+[2022.10.29-20.41.47:411][295]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=25633.828 Y=28436.335 Z=524.748 on base Mesh
+[2022.10.29-20.41.52:940][583]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=27815.254 Y=27955.172 Z=1233.282 on base None
+[2022.10.29-20.41.53:494][612]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=28054.509 Y=27822.967 Z=1280.037 on base None
+[2022.10.29-20.41.56:928][783]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=29610.738 Y=27370.157 Z=1273.179 on base None
+[2022.10.29-20.42.03:430][111]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: true
+[2022.10.29-20.42.03:448][112]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: true
+[2022.10.29-20.42.03:450][112]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: true
+[2022.10.29-20.42.03:702][125]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.42.03:702][125]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.42.04:128][146]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: false
+[2022.10.29-20.42.04:129][146]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: false
+[2022.10.29-20.42.04:147][147]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: false
+[2022.10.29-20.42.04:342][157]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.04:481][164]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.04:944][188]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.05:815][232]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: true
+[2022.10.29-20.42.05:816][232]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: true
+[2022.10.29-20.42.05:834][233]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: true
+[2022.10.29-20.42.06:046][244]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.42.06:046][244]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.42.06:572][271]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.42.06:572][271]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.42.06:939][290]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.42.06:939][290]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.42.07:734][331]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.42.07:734][331]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.42.08:216][356]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Looting Chest
+[2022.10.29-20.42.08:217][356]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.42.08:967][394]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.42.09:248][408]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 1: false
+[2022.10.29-20.42.09:248][408]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 2: false
+[2022.10.29-20.42.09:266][409]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Server: false
+[2022.10.29-20.42.09:526][422]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.42.10:209][457]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.11:011][498]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.42.11:011][498]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.29-20.42.11:011][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.42.12:329][565]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.42.12:329][565]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.42.12:843][591]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.42.13:250][611]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.13:721][635]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.42.13:721][635]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.42.13:721][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.42.14:170][658]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.42.14:171][658]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.42.14:288][664]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.42.14:626][681]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.42.14:862][693]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.15:573][730]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.15:999][752]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.42.15:999][752]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.42.15:999][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.42.16:616][784]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.42.16:616][784]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.42.17:683][839]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.18:109][861]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.19:837][950]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.42.20:784][999]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtAssaultRifle
+[2022.10.29-20.42.21:456][ 34]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.21:749][ 49]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.22:194][ 72]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.42.22:195][ 72]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.42.22:195][ 72]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.42.23:007][114]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.24:042][167]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.25:108][221]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.25:492][241]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.26:673][301]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.27:845][361]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.42.27:845][361]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.42.28:060][372]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.28:612][400]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.42.28:612][400]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.42.28:613][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.42.29:046][422]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.30:133][477]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.42.30:133][477]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.42.30:468][494]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.42.30:468][494]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.42.30:468][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.42.30:904][517]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.31:781][563]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.42.31:781][563]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.42.32:217][585]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.32:647][607]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.33:278][639]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.33:395][645]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.33:511][651]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.33:724][662]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.33:861][669]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.33:978][675]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: PumpShotgun
+[2022.10.29-20.42.34:309][692]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.34:580][706]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.42.34:580][706]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.29-20.42.34:580][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.42.35:145][735]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.36:453][802]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.37:229][841]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.38:060][883]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.38:850][923]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.39:642][963]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: Swing
+[2022.10.29-20.42.40:640][ 14]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.42.40:640][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.42.40:797][ 22]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.40:837][ 24]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.41:191][ 42]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.41:312][ 48]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 1: LookingAtPump
+[2022.10.29-20.42.41:992][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.42.41:992][ 81]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_Athena_Grid_4x4_WP
+[2022.10.29-20.42.41:993][ 81]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 2]  (64-bit/SM5)' being destroyed
+[2022.10.29-20.42.41:998][ 81]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.42.41:999][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.42.42:007][ 81]LogNet: World NetDriver shutdown IpNetDriver_122 [GameNetDriver]
+[2022.10.29-20.42.42:007][ 81]LogNet: DestroyNamedNetDriver IpNetDriver_122 [GameNetDriver]
+[2022.10.29-20.42.42:007][ 81]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_161, Driver: GameNetDriver IpNetDriver_122, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-502EB6B94A7C004F180D0EA9941743B0, Channels: 40, Time: 2022.10.29-20.42.42
+[2022.10.29-20.42.42:007][ 81]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_161, Driver: GameNetDriver IpNetDriver_122, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-502EB6B94A7C004F180D0EA9941743B0
+[2022.10.29-20.42.42:007][ 81]LogExit: GameNetDriver IpNetDriver_122 shut down
+[2022.10.29-20.42.42:008][ 81]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Athena_Grid_4x4_WP
+[2022.10.29-20.42.42:008][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.42.42:008][ 81]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 1]  (64-bit/SM5)' being destroyed
+[2022.10.29-20.42.42:012][ 81]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.42.42:012][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.42.42:024][ 81]LogNet: World NetDriver shutdown IpNetDriver_121 [GameNetDriver]
+[2022.10.29-20.42.42:024][ 81]LogNet: DestroyNamedNetDriver IpNetDriver_121 [GameNetDriver]
+[2022.10.29-20.42.42:024][ 81]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_160, Driver: GameNetDriver IpNetDriver_121, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-A982EE03443718EF1DF10CA064C349F1, Channels: 41, Time: 2022.10.29-20.42.42
+[2022.10.29-20.42.42:024][ 81]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_160, Driver: GameNetDriver IpNetDriver_121, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-A982EE03443718EF1DF10CA064C349F1
+[2022.10.29-20.42.42:025][ 81]LogExit: GameNetDriver IpNetDriver_121 shut down
+[2022.10.29-20.42.42:026][ 81]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.42.42:027][ 81]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.42.42:028][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.42.42:028][ 81]LogNet: World NetDriver shutdown IpNetDriver_120 [GameNetDriver]
+[2022.10.29-20.42.42:028][ 81]LogNet: DestroyNamedNetDriver IpNetDriver_120 [GameNetDriver]
+[2022.10.29-20.42.42:028][ 81]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56401, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: Athena_PlayerController_C_1, Owner: Athena_PlayerController_C_1, UniqueId: NULL:DESKTOP-EKA57D5-502EB6B94A7C004F180D0EA9941743B0
+[2022.10.29-20.42.42:028][ 81]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56401, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: Athena_PlayerController_C_1, Owner: Athena_PlayerController_C_1, UniqueId: NULL:DESKTOP-EKA57D5-502EB6B94A7C004F180D0EA9941743B0, Channels: 40, Time: 2022.10.29-20.42.42
+[2022.10.29-20.42.42:028][ 81]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.29-20.42.42:028][ 81]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.29-20.42.42:028][ 81]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56401, Name: IpConnection_163, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: Athena_PlayerController_C_1, Owner: Athena_PlayerController_C_1, UniqueId: NULL:DESKTOP-EKA57D5-502EB6B94A7C004F180D0EA9941743B0
+[2022.10.29-20.42.42:028][ 81]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56400, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-A982EE03443718EF1DF10CA064C349F1
+[2022.10.29-20.42.42:028][ 81]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56400, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-A982EE03443718EF1DF10CA064C349F1, Channels: 41, Time: 2022.10.29-20.42.42
+[2022.10.29-20.42.42:028][ 81]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.29-20.42.42:028][ 81]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.29-20.42.42:028][ 81]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56400, Name: IpConnection_162, Driver: GameNetDriver IpNetDriver_120, IsServer: YES, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-A982EE03443718EF1DF10CA064C349F1
+[2022.10.29-20.42.42:029][ 81]LogExit: GameNetDriver IpNetDriver_120 shut down
+[2022.10.29-20.42.42:030][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-20.42.42:035][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.42.42:064][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2022.10.29-20.42.42:065][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2022.10.29-20.42.42:069][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2022.10.29-20.42.42:070][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2022.10.29-20.42.42:081][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.29-20.42.42:132][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2022.10.29-20.42.42:132][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2022.10.29-20.42.42:132][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2022.10.29-20.42.51:523][ 68]SourceControl: fatal: /Script: '/Script' is outside repository at 'E:/Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain'
+[2022.10.29-20.42.52:601][165]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.29-20.42.52:631][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.29-20.42.52:634][165]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-20.42.52:634][165]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-20.42.52:634][165]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-20.42.52:634][165]LogWorldPartition: Display: ValidateSingleActorReferer took 2 us
+[2022.10.29-20.42.52:634][165]LogWorldPartition: Display: GetPartitionedActors took 57 us
+[2022.10.29-20.42.52:634][165]LogWorldPartition: Display: GenerateStreaming took 331 us
+[2022.10.29-20.42.52:635][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-20.42.52:635][165]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 29, 2022, 12:42:52 PM)
+[2022.10.29-20.42.53:326][165]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.29-20.42.53:326][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.42.53:326][165]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2022.10.29-20.42.53:326][165]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2022.10.29-20.42.53:326][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.42.53:326][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.42.53:326][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.42.53:326][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.42.53:327][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.42.53:327][165]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.42.53:327][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.42.53:327][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.42.53:327][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.42.53:327][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.42.53:327][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.42.53:329][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.42.53:356][165]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.29-20.42.53:356][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.42.53:356][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.42.53:356][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.42.53:357][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2022.10.29-20.42.53:357][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2022.10.29-20.42.53:358][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2022.10.29-20.42.53:358][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2022.10.29-20.42.53:358][165]LogInit: FAudioDevice initialized.
+[2022.10.29-20.42.53:359][165]LogAudio: Display: Audio Device (ID: 84) registered with world 'Untitled'.
+[2022.10.29-20.42.53:386][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.42.53:386][165]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.29-20.42.53:386][165]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.29-20.42.53:386][165]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.29-20.42.53:386][165]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.42.53:387][165]LogNet: Game client on port 17777, rate 100000
+[2022.10.29-20.42.53:389][165]PIE: Client logged in
+[2022.10.29-20.42.53:391][165]PIE: Play in editor total start time 0.785 seconds.
+[2022.10.29-20.42.53:417][165]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.10.29-20.42.55:069][333]LogViewport: Scene viewport resized to 1920x1006, mode Windowed.
+[2022.10.29-20.42.56:014][444]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.10.29-20.42.57:113][487]LogViewport: Scene viewport resized to 1914x767, mode Windowed.
+[2022.10.29-20.43.01:305][836]LogViewport: Scene viewport resized to 825x767, mode Windowed.
+[2022.10.29-20.43.03:755][998]LogHandshake: SendChallengeResponse. Timestamp: 0.211116, Cookie: 072124187235162030149112205075201252058044053218053175249247
+[2022.10.29-20.43.03:789][  2]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_164, Driver: PendingNetDriver IpNetDriver_123, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.43.03:799][  3]LogOnline: OSS: Created online subsystem instance for: :Context_133
+[2022.10.29-20.43.03:822][  6]LogNet: Welcomed by server (Level: /Game/Maps/Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.29-20.43.03:822][  6]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.29-20.43.03:822][  6]LogWorld: BeginTearingDown for /Temp/Untitled_599
+[2022.10.29-20.43.03:822][  6]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.43.03:822][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.43.03:853][  6]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-20.43.03:856][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.29-20.43.03:858][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.43.03:866][  6]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.43.03:866][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008456s)
+[2022.10.29-20.43.03:866][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.008581s)
+[2022.10.29-20.43.03:866][  6]LogAudio: Display: Audio Device (ID: 84) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.29-20.43.03:866][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.43.03:867][  6]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.43.03:867][  6]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.43.03:869][  6]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.29-20.43.03:869][  6]LogPlayLevel: PIE: World Init took: (0.002747s)
+[2022.10.29-20.43.03:870][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.29-16.43.03
+[2022.10.29-20.43.03:870][  6]LogWorld: Bringing up level for play took: 0.001169
+[2022.10.29-20.43.03:871][  6]LogLoad: Took 0.048186 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.29-20.43.03:871][  6]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.43.03:871][  6]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.43.03:871][  6]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.43.03:882][  7]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.43.03:882][  7]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.43.03:982][  8]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.29-20.43.03:988][  8]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.43.03:989][  8]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.43.03:989][  8]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=90.000000 R=-0.000000
+[2022.10.29-20.43.03:990][  8]LogStreaming: Display: FlushAsyncLoading: 5 QueuedPackages, 7 AsyncPackages
+[2022.10.29-20.43.04:015][  8]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.43.04:044][ 10]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=30843.000 Y=31006.000 Z=356.100
+[2022.10.29-20.43.04:604][ 49]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.29-20.43.04:951][ 73]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.43.06:178][139]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=31146.998 Y=30759.337 Z=518.206 on base Mesh
+[2022.10.29-20.43.14:965][747]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 0: true
+[2022.10.29-20.43.15:198][763]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.29-20.43.15:198][763]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.43.15:687][798]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.29-20.43.15:687][798]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.43.16:210][836]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.29-20.43.16:210][836]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.43.17:031][893]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 0: false
+[2022.10.29-20.43.17:060][895]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: LookingAtPump
+[2022.10.29-20.43.19:091][ 42]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: PumpShotgun
+[2022.10.29-20.43.20:283][128]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.43.20:283][128]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.29-20.43.20:284][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.43.20:670][155]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.43.20:670][155]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.43.22:312][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.43.22:832][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.43.22:832][304]LogBlueprintUserMessages: [CID_001_Athena_Default_C_0] Client 0: 2
+[2022.10.29-20.43.28:771][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.43.28:771][500]LogBlueprintUserMessages: [CID_001_Athena_Default_C_0] Client 0: 2
+[2022.10.29-20.43.29:271][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.43.29:271][536]LogBlueprintUserMessages: [CID_001_Athena_Default_C_0] Client 0: 2
+[2022.10.29-20.43.29:271][536]PIE: Warning: The widget 'DamageCounter_C' was already added to the screen.
+[2022.10.29-20.43.29:412][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.43.29:412][546]LogBlueprintUserMessages: [CID_001_Athena_Default_C_0] Client 0: 2
+[2022.10.29-20.43.29:412][546]PIE: Warning: The widget 'DamageCounter_C' was already added to the screen.
+[2022.10.29-20.43.29:771][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.43.29:771][570]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.43.29:773][570]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 0]  (64-bit/SM5)' being destroyed
+[2022.10.29-20.43.29:782][570]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.43.29:783][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.43.29:795][570]LogNet: World NetDriver shutdown IpNetDriver_123 [GameNetDriver]
+[2022.10.29-20.43.29:795][570]LogNet: DestroyNamedNetDriver IpNetDriver_123 [GameNetDriver]
+[2022.10.29-20.43.29:795][570]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_164, Driver: GameNetDriver IpNetDriver_123, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-47E72259467E7887C5A32F94A88E940B, Channels: 24, Time: 2022.10.29-20.43.29
+[2022.10.29-20.43.29:795][570]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_164, Driver: GameNetDriver IpNetDriver_123, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-47E72259467E7887C5A32F94A88E940B
+[2022.10.29-20.43.29:796][570]LogExit: GameNetDriver IpNetDriver_123 shut down
+[2022.10.29-20.43.29:797][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-20.43.29:803][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.43.29:835][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2022.10.29-20.43.29:836][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2022.10.29-20.43.29:844][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.29-20.43.30:075][571]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2022.10.29-20.43.35:005][965]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-20.43.35:005][965]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.43.40:178][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.29-20.43.40:178][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.43.56:777][573]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-20.43.57:163][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.29-20.43.57:489][575]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-20.43.57:489][575]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_Default3B1C516B40322E65510A159F30BFF5BD.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-20.43.57:500][575]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-20.43.57:500][575]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-20.43.59:936][750]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-20.44.00:174][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.29-20.44.00:648][764]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-20.44.00:648][764]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_Default5C1D2EE2434B4042A46D5099292435B5.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-20.44.00:658][764]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-20.44.00:658][764]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-20.44.03:784][ 28]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-20.44.04:022][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.10.29-20.44.04:486][ 42]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-20.44.04:486][ 42]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_Default6BC1267B4E4050AFBA7CA3B6FEA3D60F.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-20.44.04:496][ 42]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-20.44.04:496][ 42]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-20.44.37:857][759]BlueprintLog: New page: Compile Athena_PlayerController
+[2022.10.29-20.44.38:038][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.29-20.44.38:557][775]LogSavePackage: Moving output files for package: /Game/Athena/Athena_PlayerController
+[2022.10.29-20.44.38:558][775]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/Athena_PlayerController7665CB7D409CAE7C182A888653E0D87A.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Athena/Athena_PlayerController.uasset'
+[2022.10.29-20.44.38:569][775]AssetCheck: New page: Asset Save: Athena_PlayerController
+[2022.10.29-20.44.38:569][775]LogContentValidation: Display: Validating Blueprint /Game/Athena/Athena_PlayerController.Athena_PlayerController
+[2022.10.29-20.45.24:317][221]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-20.45.24:679][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.29-20.45.25:051][228]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-20.45.25:051][228]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_DefaultC33E877F4E261CCEEA4F9187B9DB90EF.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-20.45.25:060][228]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-20.45.25:060][228]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-20.45.26:083][303]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.29-20.45.26:127][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.29-20.45.26:132][303]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-20.45.26:132][303]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-20.45.26:132][303]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-20.45.26:132][303]LogWorldPartition: Display: ValidateSingleActorReferer took 2 us
+[2022.10.29-20.45.26:132][303]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2022.10.29-20.45.26:132][303]LogWorldPartition: Display: GenerateStreaming took 326 us
+[2022.10.29-20.45.26:133][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-20.45.26:133][303]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 29, 2022, 12:45:26 PM)
+[2022.10.29-20.45.26:192][303]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.29-20.45.26:193][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.45.26:193][303]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2022.10.29-20.45.26:193][303]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2022.10.29-20.45.26:193][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.45.26:193][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.45.26:193][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.45.26:193][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.45.26:193][303]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.45.26:193][303]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.45.26:193][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.45.26:193][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.45.26:194][303]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.45.26:194][303]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.45.26:194][303]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.45.26:195][303]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.45.26:226][303]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.29-20.45.26:227][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.45.26:227][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.45.26:227][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.45.26:228][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2022.10.29-20.45.26:228][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2022.10.29-20.45.26:229][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2022.10.29-20.45.26:229][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2022.10.29-20.45.26:229][303]LogInit: FAudioDevice initialized.
+[2022.10.29-20.45.26:229][303]LogAudio: Display: Audio Device (ID: 85) registered with world 'Untitled'.
+[2022.10.29-20.45.26:253][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.45.26:253][303]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.29-20.45.26:253][303]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.29-20.45.26:253][303]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.29-20.45.26:254][303]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.45.26:254][303]LogNet: Game client on port 17777, rate 100000
+[2022.10.29-20.45.26:260][303]PIE: Client logged in
+[2022.10.29-20.45.26:264][303]PIE: Play in editor total start time 0.177 seconds.
+[2022.10.29-20.45.26:317][303]LogViewport: Scene viewport resized to 825x767, mode Windowed.
+[2022.10.29-20.45.32:511][456]LogHandshake: SendChallengeResponse. Timestamp: 0.924773, Cookie: 194207224038052141252082119109114077036055000204247220068074
+[2022.10.29-20.45.32:545][460]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_165, Driver: PendingNetDriver IpNetDriver_124, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.45.32:580][464]LogOnline: OSS: Created online subsystem instance for: :Context_136
+[2022.10.29-20.45.32:612][468]LogNet: Welcomed by server (Level: /Game/Maps/Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.29-20.45.32:613][468]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.29-20.45.32:613][468]LogWorld: BeginTearingDown for /Temp/Untitled_617
+[2022.10.29-20.45.32:613][468]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.45.32:613][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.45.32:659][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-20.45.32:661][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.29-20.45.32:663][468]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.45.32:671][468]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.45.32:671][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007816s)
+[2022.10.29-20.45.32:671][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.007934s)
+[2022.10.29-20.45.32:671][468]LogAudio: Display: Audio Device (ID: 85) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.29-20.45.32:671][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.45.32:672][468]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.45.32:672][468]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.45.32:674][468]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.10.29-20.45.32:674][468]LogPlayLevel: PIE: World Init took: (0.002845s)
+[2022.10.29-20.45.32:675][468]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.29-16.45.32
+[2022.10.29-20.45.32:675][468]LogWorld: Bringing up level for play took: 0.001153
+[2022.10.29-20.45.32:676][468]LogLoad: Took 0.063828 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.29-20.45.32:676][468]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.45.32:676][468]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.45.32:676][468]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.45.32:690][469]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.45.32:690][469]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.45.32:800][470]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.29-20.45.32:808][470]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.45.32:808][470]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.45.32:808][470]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=90.000000 R=-0.000000
+[2022.10.29-20.45.32:809][470]LogStreaming: Display: FlushAsyncLoading: 5 QueuedPackages, 7 AsyncPackages
+[2022.10.29-20.45.32:838][470]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.45.32:884][473]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=31245.000 Y=28262.000 Z=381.000
+[2022.10.29-20.45.33:114][487]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.29-20.45.33:913][543]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.45.37:646][790]LogCharacterMovement: CID_001_Athena_Default_C_0 is stuck and failed to move! Velocity: X=-35.99 Y=-498.70 Z=0.00 Location: X=31072.95 Y=26557.81 Z=1120.64 Normal: X=0.05 Y=0.64 Z=-0.77 PenetrationDepth:2.677 Actor:BID_004_Metal_Floor_C_0 Component:Mesh BoneName:None (0 other events since notify)
+[2022.10.29-20.45.40:717][  6]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 0: true
+[2022.10.29-20.45.41:015][ 26]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.29-20.45.41:015][ 26]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.45.41:490][ 58]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: LookingAtAssaultRifle
+[2022.10.29-20.45.41:935][ 89]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: LookingAtAssaultRifle
+[2022.10.29-20.45.42:157][105]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.29-20.45.42:157][105]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.45.42:511][129]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 0: false
+[2022.10.29-20.45.42:813][150]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: LookingAtAssaultRifle
+[2022.10.29-20.45.42:840][152]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 0: true
+[2022.10.29-20.45.43:209][178]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.29-20.45.43:209][178]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.45.43:414][192]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 0: false
+[2022.10.29-20.45.44:282][253]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: LookingAtAssaultRifle
+[2022.10.29-20.45.44:787][290]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: PumpShotgun
+[2022.10.29-20.45.45:457][338]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.45.45:457][338]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.29-20.45.45:457][338]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.45.45:870][368]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.45.45:870][368]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.45.47:256][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.45.48:083][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.45.48:535][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.45.49:092][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.45.49:092][599]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.45.49:094][599]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 0]  (64-bit/SM5)' being destroyed
+[2022.10.29-20.45.49:097][599]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.45.49:098][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.45.49:110][599]LogNet: World NetDriver shutdown IpNetDriver_124 [GameNetDriver]
+[2022.10.29-20.45.49:110][599]LogNet: DestroyNamedNetDriver IpNetDriver_124 [GameNetDriver]
+[2022.10.29-20.45.49:110][599]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_165, Driver: GameNetDriver IpNetDriver_124, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-9B1A8BFB41758BDC362E58A5D9BD86B4, Channels: 20, Time: 2022.10.29-20.45.49
+[2022.10.29-20.45.49:110][599]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_165, Driver: GameNetDriver IpNetDriver_124, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-9B1A8BFB41758BDC362E58A5D9BD86B4
+[2022.10.29-20.45.49:111][599]LogExit: GameNetDriver IpNetDriver_124 shut down
+[2022.10.29-20.45.49:112][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-20.45.49:119][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.45.49:163][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2022.10.29-20.45.49:165][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2022.10.29-20.45.49:172][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.29-20.45.49:213][600]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2022.10.29-20.45.54:942][939]BlueprintLog: New page: Compile CID_001_Athena_Default
+[2022.10.29-20.45.55:118][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.29-20.45.55:618][954]LogSavePackage: Moving output files for package: /Game/Characters/CID_001_Athena_Default
+[2022.10.29-20.45.55:618][954]LogSavePackage: Moving '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Saved/CID_001_Athena_DefaultB155F78146E8E7AF5AF74F83175F0151.tmp' to '../../../../../Unreal Engine/Unreal Games/Zipped Up Projects/Fortnite/0.02/FortniteGameMain/Content/Characters/CID_001_Athena_Default.uasset'
+[2022.10.29-20.45.55:630][954]AssetCheck: New page: Asset Save: CID_001_Athena_Default
+[2022.10.29-20.45.55:630][954]LogContentValidation: Display: Validating Blueprint /Game/Characters/CID_001_Athena_Default.CID_001_Athena_Default
+[2022.10.29-20.45.56:874][ 36]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.29-20.45.56:918][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.29-20.45.56:923][ 36]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-20.45.56:923][ 36]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-20.45.56:923][ 36]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-20.45.56:923][ 36]LogWorldPartition: Display: ValidateSingleActorReferer took 2 us
+[2022.10.29-20.45.56:923][ 36]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2022.10.29-20.45.56:924][ 36]LogWorldPartition: Display: GenerateStreaming took 335 us
+[2022.10.29-20.45.56:924][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-20.45.56:924][ 36]PIE: New page: PIE session: Athena_Grid_4x4_WP (Oct 29, 2022, 12:45:56 PM)
+[2022.10.29-20.45.56:942][ 36]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.29-20.45.56:942][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.45.56:943][ 36]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2022.10.29-20.45.56:943][ 36]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2022.10.29-20.45.56:943][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.45.56:943][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.45.56:943][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.45.56:943][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.45.56:943][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.45.56:943][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.45.56:943][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.45.56:943][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.45.56:944][ 36]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.45.56:944][ 36]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.45.56:944][ 36]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.45.56:945][ 36]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.45.56:973][ 36]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.29-20.45.56:974][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.45.56:974][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.45.56:974][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.45.56:974][ 36]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2022.10.29-20.45.56:974][ 36]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2022.10.29-20.45.56:976][ 36]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2022.10.29-20.45.56:976][ 36]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2022.10.29-20.45.56:976][ 36]LogInit: FAudioDevice initialized.
+[2022.10.29-20.45.56:976][ 36]LogAudio: Display: Audio Device (ID: 86) registered with world 'Untitled'.
+[2022.10.29-20.45.56:999][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.45.56:999][ 36]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP
+[2022.10.29-20.45.56:999][ 36]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.29-20.45.56:999][ 36]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.29-20.45.56:999][ 36]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.29-20.45.57:000][ 36]LogNet: Game client on port 17777, rate 100000
+[2022.10.29-20.45.57:007][ 36]PIE: Client logged in
+[2022.10.29-20.45.57:012][ 36]PIE: Play in editor total start time 0.132 seconds.
+[2022.10.29-20.45.57:091][ 36]LogViewport: Scene viewport resized to 825x767, mode Windowed.
+[2022.10.29-20.46.03:072][201]LogHandshake: SendChallengeResponse. Timestamp: 0.721051, Cookie: 032066093113148185089120164239223213229190035049122152235072
+[2022.10.29-20.46.03:101][204]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_166, Driver: PendingNetDriver IpNetDriver_125, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.29-20.46.03:112][205]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2022.10.29-20.46.03:135][208]LogNet: Welcomed by server (Level: /Game/Maps/Athena_Grid_4x4_WP, Game: /Game/Athena/Athena_GameMode.Athena_GameMode_C)
+[2022.10.29-20.46.03:135][208]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/Athena_Grid_4x4_WP?game=/Game/Athena/Athena_GameMode.Athena_GameMode_C
+[2022.10.29-20.46.03:135][208]LogWorld: BeginTearingDown for /Temp/Untitled_618
+[2022.10.29-20.46.03:135][208]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.46.03:135][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.46.03:179][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-20.46.03:181][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.29-20.46.03:183][208]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.46.03:191][208]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.46.03:191][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007864s)
+[2022.10.29-20.46.03:191][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Athena_Grid_4x4_WP.Athena_Grid_4x4_WP to /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP (0.007999s)
+[2022.10.29-20.46.03:191][208]LogAudio: Display: Audio Device (ID: 86) registered with world 'Athena_Grid_4x4_WP'.
+[2022.10.29-20.46.03:191][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.46.03:192][208]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.46.03:192][208]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.46.03:194][208]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.29-20.46.03:194][208]LogPlayLevel: PIE: World Init took: (0.002765s)
+[2022.10.29-20.46.03:195][208]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP.Athena_Grid_4x4_WP up for play (max tick rate 0) at 2022.10.29-16.46.03
+[2022.10.29-20.46.03:195][208]LogWorld: Bringing up level for play took: 0.001114
+[2022.10.29-20.46.03:196][208]LogLoad: Took 0.060601 seconds to LoadMap(/Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP)
+[2022.10.29-20.46.03:196][208]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.46.03:196][208]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.46.03:196][208]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.46.03:208][209]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.46.03:208][209]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2022.10.29-20.46.03:322][210]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2022.10.29-20.46.03:332][210]LogWorldPartition: New Streaming Source: Athena_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2022.10.29-20.46.03:332][210]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2022.10.29-20.46.03:332][210]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=90.000000 R=-0.000000
+[2022.10.29-20.46.03:333][210]LogStreaming: Display: FlushAsyncLoading: 5 QueuedPackages, 7 AsyncPackages
+[2022.10.29-20.46.03:359][210]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.46.03:371][211]LogWorldPartition: Detected Streaming Source Teleport: Athena_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=30843.000 Y=31006.000 Z=356.100
+[2022.10.29-20.46.03:663][229]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Swing
+[2022.10.29-20.46.04:547][291]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.10.29-20.46.10:242][678]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=30869.683 Y=28335.471 Z=1866.195 on base None
+[2022.10.29-20.46.11:443][763]LogNetPlayerMovement: Warning: ClientAdjustPosition_Implementation could not resolve the new relative movement base actor, ignoring server correction! Client currently at world location X=30871.295 Y=27744.435 Z=1877.338 on base Mesh
+[2022.10.29-20.46.14:439][975]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 0: true
+[2022.10.29-20.46.15:077][ 21]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: Looting Chest
+[2022.10.29-20.46.15:077][ 21]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor LootPool_Manager_C_1. Function LootPoolRandomLoot will not be processed.
+[2022.10.29-20.46.15:603][ 57]LogBlueprintUserMessages: [OID_001_Athena_Chest_C_UAID_B42E99F74CD58A4401_2117818267] Client 0: false
+[2022.10.29-20.46.15:982][ 83]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: LookingAtPump
+[2022.10.29-20.46.16:385][112]LogBlueprintUserMessages: [Athena_PlayerController_C_0] Client 0: PumpShotgun
+[2022.10.29-20.46.17:046][159]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.29-20.46.17:046][159]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.29-20.46.17:046][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Tooltip". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BH Inventory Items Blueprint:  BH_InventoryItems
+[2022.10.29-20.46.17:351][181]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.29-20.46.17:351][181]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.29-20.46.19:698][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.46.19:698][343]LogBlueprintUserMessages: [CID_001_Athena_Default_C_0] Client 0: 2
+[2022.10.29-20.46.20:867][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.46.20:867][425]LogBlueprintUserMessages: [CID_001_Athena_Default_C_0] Client 0: 2
+[2022.10.29-20.46.21:038][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.46.21:038][437]LogBlueprintUserMessages: [CID_001_Athena_Default_C_0] Client 0: 2
+[2022.10.29-20.46.21:038][437]PIE: Warning: The widget 'DamageCounter_C' was already added to the screen.
+[2022.10.29-20.46.21:153][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.46.21:153][445]LogBlueprintUserMessages: [CID_001_Athena_Default_C_0] Client 0: 2
+[2022.10.29-20.46.21:153][445]PIE: Warning: The widget 'DamageCounter_C' was already added to the screen.
+[2022.10.29-20.46.21:267][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  Shoot Function:  Execute Ubergraph Athena Player Controller Blueprint:  Athena_PlayerController
+[2022.10.29-20.46.21:267][453]LogBlueprintUserMessages: [CID_001_Athena_Default_C_0] Client 0: 2
+[2022.10.29-20.46.21:267][453]PIE: Warning: The widget 'DamageCounter_C' was already added to the screen.
+[2022.10.29-20.46.21:421][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.46.21:421][462]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Athena_Grid_4x4_WP
+[2022.10.29-20.46.21:423][462]LogSlate: Window 'FortniteGameMain Preview [NetMode: Client 0]  (64-bit/SM5)' being destroyed
+[2022.10.29-20.46.21:426][462]LogWorld: UWorld::CleanupWorld for Athena_Grid_4x4_WP, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.46.21:427][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.46.21:434][462]LogNet: World NetDriver shutdown IpNetDriver_125 [GameNetDriver]
+[2022.10.29-20.46.21:434][462]LogNet: DestroyNamedNetDriver IpNetDriver_125 [GameNetDriver]
+[2022.10.29-20.46.21:434][462]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_166, Driver: GameNetDriver IpNetDriver_125, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-C2691D8A4E8494073C3CA9896EE26D52, Channels: 27, Time: 2022.10.29-20.46.21
+[2022.10.29-20.46.21:435][462]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_166, Driver: GameNetDriver IpNetDriver_125, IsServer: NO, PC: Athena_PlayerController_C_0, Owner: Athena_PlayerController_C_0, UniqueId: NULL:DESKTOP-EKA57D5-C2691D8A4E8494073C3CA9896EE26D52
+[2022.10.29-20.46.21:435][462]LogExit: GameNetDriver IpNetDriver_125 shut down
+[2022.10.29-20.46.21:436][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-20.46.21:442][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.46.21:489][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2022.10.29-20.46.21:490][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2022.10.29-20.46.21:498][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.29-20.46.21:535][463]LogPlayLevel: Display: Destroying online subsystem :Context_137
